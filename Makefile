@@ -1,7 +1,7 @@
 #
 # tobeva/Makefile
 #
-.PHONY: serve build
+.PHONY: serve build deploy
 
 serve:
 	hugo serve -D
@@ -9,3 +9,6 @@ serve:
 build:
 	hugo --destination ../root
 
+deploy:
+	hugo --destination ../root
+	rsync -avhz ../root/ ${TOBEVA_RSYNC_DEST}
