@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Deploy To Tobeva.com",
+			"type": "shell",
+			"command": "make deploy",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
