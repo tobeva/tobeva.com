@@ -1,6 +1,7 @@
 ---
 title: "Classics"
 linkTitle: "Classics"
+description: "Classic articles worth reading or re-reading."
 weight: 4
 type: docs
 ---

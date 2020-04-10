@@ -1,6 +1,7 @@
 ---
 title: "Martin Fowler"
 linkTitle: "Martin Fowler"
+description: "Wrote many good articles in addition to his books."
 weight: 4
 type: docs
 ---

@@ -1,11 +1,13 @@
 ---
 title: "Functional Programming"
 linkTitle: "Functional Programming"
+description: "Everyone should learn at least a bit about Functional Programming."
 weight: 4
 type: docs
 ---
 
-* [In-depth: Functional programming in C++](https://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php) - [John Carmack](https://en.wikipedia.org/wiki/John_Carmack))
+**FP in relation to OOP**
+* [In-depth: Functional programming in C++](https://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php) - [John Carmack](https://en.wikipedia.org/wiki/John_Carmack)
   * Taking Functional Programming concepts into C++.
 * [The faster you unlearn OOP, the better](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software) - [Dawid Ciężarkiewicz](https://dpc.pw/about)
   * Much of his advice can be applied to OOP languages.
