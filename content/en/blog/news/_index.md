@@ -1,6 +1,6 @@
 
 ---
-title: "News About Docsy"
+title: "News About Tobeva Software"
 linkTitle: "News"
 weight: 20
 ---
