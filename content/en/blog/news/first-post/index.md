@@ -15,7 +15,7 @@ As I'm writing this the number of confirmed COVID-19 cases worldwide is above
 1,600,000 while the number deaths is nearing 100,000. It's believed that in the
 United States we are approaching the "peak", perhaps within the next few days. 
 
-{{< imgproc covid Resize "800x">}}
+{{< imgproc covid Resize "512x">}}
 Confirmed COVID-19 cases Worldwide as of April 9, 2020.
 {{< /imgproc >}}
 
@@ -45,7 +45,7 @@ moment.
 
 So what do we do now? First we should tally up our collective resources.
 
-{{< imgproc starlink Resize "800x">}}
+{{< imgproc starlink Resize "512x">}}
 SpaceX's StartLink system might have as many as 42,000 satellites.
 {{< /imgproc >}}
 
