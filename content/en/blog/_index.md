@@ -1,5 +1,5 @@
 ---
-title: "Docsy Blog"
+title: "Tobeva Software Blog"
 linkTitle: "Blog"
 menu:
   main:
