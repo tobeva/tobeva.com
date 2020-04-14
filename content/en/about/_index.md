@@ -15,7 +15,7 @@ menu:
 ![Headshot](headshot.jpg)
 
 
-[PDF Resume](philip_winston_resume.pdf) &middot; [LinkedIn Profile](http://linkedin.com/in/pwinston)
+[PDF Resume](/philip_winston_resume.pdf) &middot; [LinkedIn Profile](http://linkedin.com/in/pwinston)
 
 I've been writing software professionally for more than 25 years. I've worked in
 many different technical industries such as CAD, Haptics, Video Games, Military
