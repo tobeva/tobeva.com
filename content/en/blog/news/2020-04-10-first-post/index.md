@@ -7,8 +7,6 @@ author: Philip ([@pbwinston](https://twitter.com/pbwinston))
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
-  params:
-    byline: "Photo: Philip Winston"
 ---
 
 As I'm writing this the number of confirmed COVID-19 cases worldwide is above

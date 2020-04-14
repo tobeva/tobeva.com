@@ -1,13 +1,14 @@
 ---
 title: "Martin Fowler"
 linkTitle: "Martin Fowler"
-description: "Wrote many good articles in addition to his books."
+description: "He wrote many good articles in addition to his books."
 weight: 4
 type: docs
 ---
 
 **About Martin Fowler**
-* [Homepage](https://martinfowler.com/)
+* [His Homepage](https://martinfowler.com/)
+* [His About Page](https://martinfowler.com/aboutMe.html)
 
 **Articles**
 * [You're not going to need it](https://martinfowler.com/bliki/Yagni.html)

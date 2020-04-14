@@ -1,8 +1,8 @@
 
 ---
 title: "Philip Winston"
-linkTitle: "People"
-date: 2020-04-10
+linkTitle: "About"
+date: 2020-04-13
 weight: 20
 type: docs
 menu:
@@ -10,7 +10,10 @@ menu:
     weight: 20
 ---
 
-Founder
+**Founder**
+
+![Headshot](headshot.jpg)
+
 
 [PDF Resume](philip_winston_resume.pdf) &middot; [LinkedIn Profile](http://linkedin.com/in/pwinston)
 
@@ -58,9 +61,10 @@ I'm interested to hear what projects you are undertaking during the remainder of
 
 Drop me a line **philip @ tobeva.com** or [@pbwinston](https://twitter.com/pbwinston).
 
-#### More Of My Writing
 
-Some selected software related posts from my personal blog [kmeme](http://kmeme.com):
+#### More Writing on Software
+
+From my personal blog [kmeme](http://kmeme.com):
 
 * [Press X To continue](https://www.kmeme.com/2015/12/press-x-to-continue.html)
 * [Oculus Prime](https://www.kmeme.com/2014/06/oculus-prime.html)

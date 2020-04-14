@@ -4,6 +4,7 @@ description: "Notable people involved in software development."
 date: 2020-04-06
 draft: false
 type: docs
+weight: 60
 ---
 
 **Famous**

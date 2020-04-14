@@ -2,6 +2,6 @@
 title: "Articles"
 linkTitle: "Articles"
 description: "Software Development related articles."
-weight: 4
+weight: 10
 type: docs
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Functional Programming"
 linkTitle: "Functional Programming"
-description: "Everyone should learn at least a bit about Functional Programming."
+description: "Everyone should learn some Functional Programming."
 weight: 4
 type: docs
 ---
