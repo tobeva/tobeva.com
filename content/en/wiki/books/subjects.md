@@ -11,7 +11,7 @@ type: docs
 * [Management 3.0](https://management30.com/) - [Jurgen Appelo](https://jurgenappelo.com/)
   * Surprising tour through complexity science and related fields.
 * [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B000OZ0N6M) - [Fred Brooks](https://history.computer.org/pioneers/brooks.html)
-  * A classic
+  * Adding engineers to a late project makes it later.
 
 **Video Games**
 
@@ -24,7 +24,7 @@ type: docs
 **Classic**
 
 * [Design Patterns - Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns)
-  * From 1994, it's dated and maligned some today, but still worth reading.
+  * From 1994, some patterns are dated but many aren't.
 
 **Math**
 

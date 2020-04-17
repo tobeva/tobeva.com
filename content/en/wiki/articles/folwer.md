@@ -6,9 +6,8 @@ weight: 4
 type: docs
 ---
 
-**About Martin Fowler**
-* [His Homepage](https://martinfowler.com/)
-* [His About Page](https://martinfowler.com/aboutMe.html)
+**Martin Fowler**
+* [Homepage](https://martinfowler.com/) | [About Page](https://martinfowler.com/aboutMe.html)
 
 **Articles**
 * [You're not going to need it](https://martinfowler.com/bliki/Yagni.html)
