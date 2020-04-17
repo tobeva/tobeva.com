@@ -15,6 +15,8 @@ weight: 60
   * Books include [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) and [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 * [John Carmack](https://en.wikipedia.org/wiki/John_Carmack) - [@ID_AA_Carmack](https://twitter.com/ID_AA_Carmack)
   * Creator of Doom and Quake, CTO at Oculus, now doing AGI research.
+* [Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
+  * Profile in [Quanta Magazine](https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/)
 
 **Languages**
 * [Bjarne Stroustrup](http://www.stroustrup.com/)
