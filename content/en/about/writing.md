@@ -3,7 +3,7 @@
 title: "Writing"
 linkTitle: "Writing"
 description: "My writing online."
-date: 2020-04-13
+date: 2020-04-16
 weight: 20
 type: docs
 ---
@@ -11,7 +11,7 @@ type: docs
 From the Tobeva Softare blog:
 
 * [True Confidence](/blog/2020/04/12/true-confidence/)
-* [Happy Birthday Tobeva Software](/blog/happy-birthday-tobeva-software/)
+* [Happy Birthday Tobeva Software](/blog/2020/04/10/happy-birthday-tobeva-software/)
 
 From my personal blog [kmeme](http://kmeme.com):
 
