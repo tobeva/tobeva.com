@@ -1,7 +1,7 @@
 ---
 title: "GPU"
 linkTitle: "GPU"
-description: "Graphics cards for compute."
+description: "Graphics cards for graphics or compute."
 date: 2020-04-17
 weight: 35
 type: docs
