@@ -1,8 +1,8 @@
 ---
 title: "Leadership"
 linkTitle: "Leadership"
-description: "Leadership in the context of software development."
-weight: 4
+description: "Leadership related to software development."
+weight: 45
 type: docs
 ---
 

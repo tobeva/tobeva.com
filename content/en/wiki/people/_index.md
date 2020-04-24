@@ -8,9 +8,6 @@ weight: 60
 ---
 
 **Famous**
-* [Martin Fowler](https://martinfowler.com/) - [@martinfowler](https://twitter.com/martinfowler)
-  * Author of six books including the famous [Refactoring](https://www.amazon.com/gp/product/0134757599) book.
-  * Chief Scientist at [ThoughtWorks](https://www.thoughtworks.com/) a "global software consultancy".
 * [Uncle Bob Martin](http://cleancoder.com/products) - [@unclebobmartin](https://twitter.com/unclebobmartin)
   * Books include [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) and [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 * [John Carmack](https://en.wikipedia.org/wiki/John_Carmack) - [@ID_AA_Carmack](https://twitter.com/ID_AA_Carmack)

@@ -1,13 +1,14 @@
 ---
 title: "Martin Fowler"
 linkTitle: "Martin Fowler"
-description: "He wrote many good articles in addition to his books."
+description: "Chief Scientist at ThoughtWorks."
 weight: 4
 type: docs
 ---
 
-**Martin Fowler**
-* [Homepage](https://martinfowler.com/) | [About Page](https://martinfowler.com/aboutMe.html)
+**About**
+* [Personal Homepage](https://martinfowler.com/) | [Personal About Page](https://martinfowler.com/aboutMe.html)
+* Author of six books including the famous [Refactoring](https://www.amazon.com/gp/product/0134757599) book.
 
 **Articles**
 * [You're not going to need it](https://martinfowler.com/bliki/Yagni.html)

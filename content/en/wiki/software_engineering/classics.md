@@ -6,6 +6,8 @@ weight: 4
 type: docs
 ---
 
+**Articles**
+
 * [Things You Should Never Do, Part 1](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) - [Joel Spolsky](https://www.joelonsoftware.com/about-me/)
   * When and why rewriting the whole "mess" is not a good idea.
 * [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) - [Joel Spolsky](https://www.joelonsoftware.com/about-me/)
@@ -18,3 +20,8 @@ type: docs
   * Discussion of the forces that create "bad" architecture.
 * [A Codebase is an Organism](https://meltingasphalt.com/a-codebase-is-an-organism/) - [Kevin Simler](https://meltingasphalt.com/about/)
   * An extended metaphor on how software evolves over time.
+
+**Illustrations**
+
+* [Latency numbers every programmer should know](https://gist.github.com/hellerbarde/2843375#file-latency-markdown)
+  * Updated version of numbers originally from [Peter Norvig](http://norvig.com/21-days.html#answers).
