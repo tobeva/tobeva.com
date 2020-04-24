@@ -31,42 +31,42 @@ veteran team who had been making music-based games for eight years before I even
 came on board.
 
 At Harmonix I learned a ton about software engineering, the rigors of console
-game development are legendary, plus working with artists and musicians was a
-blast. I also learned a lot about project management, interaction and game
-design. I've applied many lessons from the video game industry to my subsequent
-projects.
+game development are legendary, but I also had a blast working with the artists
+and musicians. I learned a lot about project management, game design, and
+designing user experiences in general. I've applied many lessons from the video
+game industry to my subsequent projects.
 
 For example at HHMI I created a tiled image viewer for electron microscope
 images. I made it a priority to keep the viewer running at 60Hz at all times,
-since that had been a requirement for console games. This degree of polish was
-not typical for research tools, but everyone seemed to appreciate the buttery
-smooth interaction.
+the same goal we set for the console games. This degree of polish was not
+typical for research tools, but everyone seemed to appreciate how well it ran.
 
 ### The Cloud
 
 For the last three years I've been focused on cloud-based data pipelines. While
 I still enjoy graphics, I'm very interested in continuing with cloud-based
-development. I believe the cloud has or will touch every corner of the software
-industry, and it's a fascinating and rapidly growing stack of technologies.
+development. The cloud has or will touch every corner of the software industry
+and it's a fascinating stack of technologies.
 
 One of my big takeaways from the cloud work is that the lessons learned from
 decades of traditional single-computer software engineering fully apply to the
-cloud world. Working on million line code bases on single machines leads to many
-insights and guidelines that apply just as much to cloud. As others have pointed
-out, I think the cloud is best thought of as a single large computer, where the
-many cloud services are like the operating system API's of old.
+cloud world. The cloud is best thought of as a single large computer, where the
+many cloud services are like the operating system API's of old, so my lengthy
+experience with traditional software engineering translates over very well
+to the cloud world.
 
 ### Remote Work
 
 Once the COVID restrictions are over I'm happy to travel for meetings and
 planning discussions, but I will do the bulk of the work remotely. I've worked
-remotely from my home for over a decade for several different companies. If anything
-I'm an over-communicator and love to discuss things on chat or video. 
+remotely from my home for over a decade for several different companies. I love
+to discuss things on chat or video, so I'll be very available and visible on
+your project.
 
 ### Contact Me
 
 I'm interested to hear what projects you are undertaking during the remainder of
-2020, in these turbulent times, and how I might be able to help.
+2020 and how I might be able to help.
 
 Drop me a line on email *philip @ tobeva.com* or on Twitter
 [@pbwinston](https://twitter.com/pbwinston).
