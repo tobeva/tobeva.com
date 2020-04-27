@@ -3,8 +3,8 @@
 title: "Writing"
 linkTitle: "Writing"
 description: "My writing online."
-date: 2020-04-16
-weight: 20
+date: 2020-04-24
+weight: 40
 type: docs
 ---
 

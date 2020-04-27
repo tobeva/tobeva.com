@@ -2,7 +2,6 @@
 title: "Writing"
 description: "Writing for humans."
 date: 2020-04-12
-draft: false
 type: docs
 weight: 80
 ---

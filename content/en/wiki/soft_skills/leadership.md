@@ -2,6 +2,7 @@
 title: "Leadership"
 linkTitle: "Leadership"
 description: "Leadership related to software development."
+date: 2020-04-06
 weight: 45
 type: docs
 ---

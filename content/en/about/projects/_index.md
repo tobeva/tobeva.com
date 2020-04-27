@@ -1,9 +1,9 @@
 ---
-title: "Projects"
-linkTitle: "Projects"
-description: "Finished projects."
-date: 2020-04-16
-weight: 10
+title: "Past Projects"
+linkTitle: "Past Projects"
+description: "Visual tour of past projects."
+date: 2020-04-24
+weight: 30
 type: docs
 ---
 
@@ -26,9 +26,9 @@ Company: [*Harmonix Music Systems*](http://harmonixmusic.com)
 went on to over $1B in sales by 2008. I wrote game logic, 2D and 3D graphics and
 coordinated with the leads in Design, Art, Audio and QA. 
 
-![GuitarHero Game](guitar-hero-game.jpg)
+![GuitarHero Game](/images/guitar-hero-game.jpg)
 
-![GuitarHero Box](guitar-hero-box.jpg)
+![GuitarHero Box](/images/guitar-hero-box.jpg)
 
 ## Cloud Data Pipelines
 Company: [*CARMERA*](http://carmera.com)
