@@ -7,10 +7,11 @@ weight: 40
 type: docs
 ---
 
-I spent 8 years working on military simulations at [*MetaVR*](http://metavr.com)
-mostly on their **Virtual Reality Scene Generator** (VRSG) product. VRSG
-advertises "game quality graphics" but unlike most games it has a round-earth
-terrain format that enables simulations that span hundreds of kilometers.
+I spent eight years working on military simulations at
+[*MetaVR*](http://metavr.com) mostly on their **Virtual Reality Scene
+Generator** (VRSG) product. VRSG advertises "game quality graphics" but unlike
+most games it has a round-earth terrain format that enables simulations that
+span hundreds of kilometers.
 
 ![VRSG 1](vrsg-1.jpg)
 
@@ -31,4 +32,5 @@ differences between other identical videos.
 
 Working on military simulations required mixing video game technology in with
 hard technical requirements and interoperability issues that you don't typically
-encounter with normal games.
+encounter with normal games. The codebase at MetaVR was primarily C++ using
+DirectX for the graphics, my performance tools were written in Python.

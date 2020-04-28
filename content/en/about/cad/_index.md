@@ -25,16 +25,15 @@ about design, architecture, code quality, performance and testing.
 
 ### Haptics
 
-FreeForm is not just a software package, it comes with a haptic device called
-the **Phantom**. The device simulates real physical interaction, you can feel
-the model as you are carving it. It's quite a striking effect, people tend to be
-amazed when they first try it.
+FreeForm comes with a haptic device called the **Phantom**. The device simulates
+real physical interaction so you can feel the model as you are carving it. It's
+quite a striking effect, people tend to be amazed when they first try it.
 
-When programming graphics 60Hz is usually the goal, which means you have 16.7
-milliseconds to generate the next frame. With the Phantom the device had to run
-at 1000Hz. This meant you only had 1 millisecond to do the force computation. It
-required a large number of performance tricks and optimizations to run that
-fast.
+With graphics 60Hz is usually the goal, which means you have 16.7 milliseconds
+to generate the next frame. The Phantom however had to be updated at 1000Hz to
+generate realistic forces! Hitting this strict limit meant you only had 1
+millisecond to do the force computation. It required a large number of
+performance tricks and optimizations to run that fast.
 
 ![Phantom](phantom.jpg)
 
