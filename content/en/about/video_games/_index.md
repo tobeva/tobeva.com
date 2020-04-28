@@ -1,9 +1,9 @@
 ---
 title: "Videogames"
 linkTitle: "Videogames"
-description: "Antigrav and Guitar Hero at Harmonix Music Systems."
-date: 2020-04-25
-weight: 30
+description: "Antigrav and Guitar Hero."
+date: 2020-04-27
+weight: 50
 type: docs
 ---
 
@@ -32,7 +32,7 @@ was a solid and fun game, but we had no idea the economic and cultural impact it
 would have. The Guitar Hero franchise hit a billion dollars in sales within
 three years.
 
-![GuitarHero Game](/images/guitar-hero-game.jpg)
+![GuitarHero Game](guitar-hero-game.jpg)
 
 I learned a lot of great software engineering habits while at Harmonix.  The
 rigors of console game development are legendary, since you have limited
@@ -40,4 +40,4 @@ hardware but the games need to be polished and perform flawlessly. Working with
 the musicians and artists on the team was a blast, and I learned a fair amount
 about game design, and design in general.
 
-![GuitarHero Box](/images/guitar-hero-box.jpg)
+![GuitarHero Box](guitar-hero-box.jpg)

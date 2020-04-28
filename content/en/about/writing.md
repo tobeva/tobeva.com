@@ -2,11 +2,17 @@
 ---
 title: "Writing"
 linkTitle: "Writing"
-description: "My writing online."
-date: 2020-04-24
-weight: 40
+description: "Some of my writing online."
+date: 2020-04-27
+weight: 60
 type: docs
 ---
+
+Over the years I've done a lot of writing professionally and on my own time.
+Being able to write well is a "secret weapon" in software development. A
+developer can only have so many in-person interactions, but a good writing
+"scales" and can inform and influence many more people, on a single project or
+beyond.
 
 From the Tobeva Softare blog:
 
