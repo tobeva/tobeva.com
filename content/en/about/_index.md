@@ -24,8 +24,8 @@ pages to the left (or below) for images of projects from each industry.
 My philosophy is to blend hand-core engineering with pragmatism. In my opinion
 the goal of a software developer is to solve problems and create value. This can
 involve writing code, but often selecting where to dig is more important than
-how fast you did. One of the biggest sources of preventable waste in our
-industry is spending time and money to writing software that simply should never
+how fast you dig. One of the biggest sources of preventable waste in our
+industry is spending time and money writing software that simply should never
 have been written.
 
 I'm happy to travel for meetings and planning discussions, once COVID travel

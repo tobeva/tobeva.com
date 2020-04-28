@@ -10,11 +10,10 @@ type: docs
 
 Over the years I've done a lot of writing professionally and on my own time.
 Being able to write well is a "secret weapon" in software development. A
-developer can only have so many in-person interactions, but a good writing
-"scales" and can inform and influence many more people, on a single project or
-beyond.
+developer can only have so many in-person interactions, but good writing scales
+and can inform and influence many more people, on a single project or beyond.
 
-From the Tobeva Softare blog:
+From the Tobeva Software blog:
 
 * [True Confidence](/blog/2020/04/12/true-confidence/)
 * [Happy Birthday Tobeva Software](/blog/2020/04/10/happy-birthday-tobeva-software/)
