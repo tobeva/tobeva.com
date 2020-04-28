@@ -1,6 +1,6 @@
 ---
-title: "Cloud data pipelines"
-linkTitle: "Cloud data pipelines"
+title: "Cloud Data Pipelines"
+linkTitle: "Cloud Data Pipelines"
 description: "Using AWS or other clouds."
 date: 2020-04-27
 weight: 20

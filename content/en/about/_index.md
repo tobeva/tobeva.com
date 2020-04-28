@@ -17,7 +17,7 @@ menu:
 [LinkedIn Profile](http://linkedin.com/in/pwinston) &middot; [PDF Resume](/philip_winston_resume.pdf)
 
 I've been writing software professionally for more than 25 years. I've worked in
-many different technical industries such as CAD, Haptics, Cloud data pipelines,
+many different technical industries such as CAD, Haptics, Cloud Data Pipelines,
 Neuroscience Research, Military Simulations and Video Games. See the individual
 pages to the left (or below) for images of projects from each industry.
 
