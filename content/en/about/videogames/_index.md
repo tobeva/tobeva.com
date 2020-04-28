@@ -46,3 +46,7 @@ language and we used Python for build tools. The musician and artists on the
 team outnumbered the programmers, which made for a fun work environment. I
 learned a fair amount beyond programing including interaction design and how on-time
 projects are managed.
+
+<a href="/about/writing"><button type="button" class="btn btn-primary">
+Next <i class="fas fa-arrow-alt-circle-right ml-2"></i>
+</button></a>

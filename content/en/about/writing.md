@@ -26,3 +26,7 @@ From my personal blog [kmeme](http://kmeme.com):
 * [The Singularity is Always Steep](https://www.kmeme.com/2010/07/singularity-is-always-steep.html)
 * [The Future of Google's Streetview](https://www.kmeme.com/2010/10/future-of-googles-street-view.html)
 * [Clock Speed Wall](https://www.kmeme.com/2010/09/clock-speed-wall.html)
+
+<a href="/about"><button type="button" class="btn btn-primary">
+About Page <i class="fas fa-arrow-alt-circle-up ml-2"></i>
+</button></a>

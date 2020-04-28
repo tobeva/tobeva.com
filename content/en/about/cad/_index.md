@@ -37,3 +37,6 @@ performance tricks and optimizations to run that fast.
 
 ![Phantom](phantom.jpg)
 
+<a href="/about/cloud"><button type="button" class="btn btn-primary">
+Next <i class="fas fa-arrow-alt-circle-right ml-2"></i>
+</button></a>

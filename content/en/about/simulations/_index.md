@@ -34,3 +34,7 @@ Working on military simulations required mixing video game technology in with
 hard technical requirements and interoperability issues that you don't typically
 encounter with normal games. The codebase at MetaVR was primarily C++ using
 DirectX for the graphics, my performance tools were written in Python.
+
+<a href="/about/videogames"><button type="button" class="btn btn-primary">
+Next <i class="fas fa-arrow-alt-circle-right ml-2"></i>
+</button></a>

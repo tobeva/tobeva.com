@@ -33,3 +33,7 @@ the one on the right is 3D:
 The users of Raveler were at Janelia and it was gratifying to see in person how
 the improvements we made to the software were making their lives easier and
 their work more productive.
+
+<a href="/about/simulations"><button type="button" class="btn btn-primary">
+Next <i class="fas fa-arrow-alt-circle-right ml-2"></i>
+</button></a>
