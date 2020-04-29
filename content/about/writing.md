@@ -27,6 +27,10 @@ From my personal blog [kmeme](http://kmeme.com):
 * [The Future of Google's Streetview](https://www.kmeme.com/2010/10/future-of-googles-street-view.html)
 * [Clock Speed Wall](https://www.kmeme.com/2010/09/clock-speed-wall.html)
 
-<a href="/about"><button type="button" class="btn btn-primary">
-About Page <i class="fas fa-arrow-alt-circle-up ml-2"></i>
-</button></a>
+<ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
+  <li>
+    <a href="/about/videogames" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
+  </li>
+    <a href="/about" class="btn btn-primary ">About <span class="ml-1">↑</span></a>
+  </li>
+</ul>

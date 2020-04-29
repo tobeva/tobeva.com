@@ -37,6 +37,10 @@ performance tricks and optimizations to run that fast.
 
 ![Phantom](phantom.jpg)
 
-<a href="/about/cloud"><button type="button" class="btn btn-primary">
-Next <i class="fas fa-arrow-alt-circle-right ml-2"></i>
-</button></a>
+<ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
+  <li>
+    <a  class="btn btn-primary  disabled"><span class="mr-1">←</span> Previous</a>
+  </li>
+    <a href="/about/cloud" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
+  </li>
+</ul>

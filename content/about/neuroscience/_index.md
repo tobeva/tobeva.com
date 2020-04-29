@@ -34,6 +34,10 @@ The users of Raveler were at Janelia and it was gratifying to see in-person how
 the improvements that we made to the software were making their lives easier and
 their work more productive.
 
-<a href="/about/simulations"><button type="button" class="btn btn-primary">
-Next <i class="fas fa-arrow-alt-circle-right ml-2"></i>
-</button></a>
+<ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
+  <li>
+    <a href="/about/cloud" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
+  </li>
+    <a href="/about/simulations" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
+  </li>
+</ul>

@@ -30,6 +30,10 @@ that the cloud is not just "someone else's computer". If used properly it's a
 fundamentally new technology with endless potential. However much or little you
 are using the cloud today, I'd be happy to discuss how I can help.
 
-<a href="/about/neuroscience"><button type="button" class="btn btn-primary">
-Next <i class="fas fa-arrow-alt-circle-right ml-2"></i>
-</button></a>
+<ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
+  <li>
+    <a href="/about/cad" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
+  </li>
+    <a href="/about/neuroscience" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
+  </li>
+</ul>

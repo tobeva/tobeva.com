@@ -35,6 +35,10 @@ hard technical requirements and interoperability issues that you don't typically
 encounter with normal games. The codebase at MetaVR was primarily C++ using
 DirectX for the graphics, and my performance tools were written in Python.
 
-<a href="/about/videogames"><button type="button" class="btn btn-primary">
-Next <i class="fas fa-arrow-alt-circle-right ml-2"></i>
-</button></a>
+<ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
+  <li>
+    <a href="/about/neuroscience" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
+  </li>
+    <a href="/about/videogames" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
+  </li>
+</ul>

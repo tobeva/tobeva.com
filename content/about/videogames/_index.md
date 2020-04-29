@@ -47,6 +47,10 @@ team outnumbered the programmers, which made for a fun work environment. I
 learned a fair amount beyond programing including interaction design and how on-time
 projects are managed.
 
-<a href="/about/writing"><button type="button" class="btn btn-primary">
-Next <i class="fas fa-arrow-alt-circle-right ml-2"></i>
-</button></a>
+<ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
+  <li>
+    <a href="/about/simulations" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
+  </li>
+    <a href="/about/writing" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
+  </li>
+</ul>
