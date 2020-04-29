@@ -25,7 +25,7 @@ My first project at MetaVR was to add a human animation system. Over time I
 worked on many aspects from graphics to networking to architecture. I developed
 a web-based performance monitoring and QA tool that required removing randomness
 from the system so we could generate videos that were pixel-identical even when
-taken weeks apart. I used the Structural Similarity (SSIM) index to find minute
+taken weeks apart. I used the structural similarity (SSIM) index to find minute
 differences between other identical videos.
 
 ![VRSG 3](vrsg-3.jpg)
