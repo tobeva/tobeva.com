@@ -41,5 +41,5 @@ started learning Go and Rust, and I'm open to other languages as well. I'm happy
 to consult and simply offer advice, or participate in the design and
 implementation myself.
 
-Drop me a line at *philip @ tobeva.com* or on Twitter
+Drop me a line at philip<img src="" width="0" height="0">@tobeva.com or on Twitter
 [@pbwinston](https://twitter.com/pbwinston).
