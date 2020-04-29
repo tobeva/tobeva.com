@@ -49,8 +49,8 @@ projects are managed.
 
 <ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
   <li>
-    <a href="/about/simulations" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
+    <a href="/about/simulations/" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
   </li>
-    <a href="/about/writing" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
+    <a href="/about/writing/" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
   </li>
 </ul>
