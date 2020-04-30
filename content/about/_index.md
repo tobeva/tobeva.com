@@ -19,8 +19,7 @@ menu:
 I have been writing software professionally for more than 25 years. I've worked
 in many different technical industries such as CAD and Haptics, Cloud Data
 Pipelines, Neuroscience Research, Military Simulations and Videogames. See the
-individual pages to the left (or below) for descriptions of projects from each
-industry.
+individual pages below for descriptions of projects from each industry.
 
 My philosophy is to blend hard-core engineering with extreme pragmatism. In my
 opinion the goal of a software developer is to solve problems and create value.
