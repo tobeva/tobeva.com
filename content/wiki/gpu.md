@@ -10,3 +10,5 @@ type: docs
   * The evolution of CPU/GPU hardware by [Raph Levien](https://raph.levien.com/).
 * [A Taste of WebGPU in Firefox](https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/)
   * Allow complex graphics applications to run portably in the Web.
+* [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
+  * Pretty rote comparison of Vulkan, DirectX, Metal, WebGPU
