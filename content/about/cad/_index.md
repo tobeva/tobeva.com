@@ -31,9 +31,9 @@ quite a striking effect, and people tend to be amazed when they first try it.
 
 With graphics 60Hz is usually the goal, which means you have 16.7 milliseconds
 to generate the next frame. The Phantom however had to be updated at 1000Hz to
-generate realistic forces! Hitting this strict limit meant you only had 1
-millisecond to do the force computation. It required a large number of
-performance tricks and optimizations to run that fast.
+generate realistic forces. Hitting this strict limit meant you only had 1
+millisecond to do the force computation! We used a large number of performance
+tricks and optimizations to run that fast.
 
 ![Phantom](phantom.jpg)
 

@@ -8,10 +8,9 @@ weight: 60
 type: docs
 ---
 
-Over the years I've done a lot of writing both professionally and on my own time.
-Being able to write well is a "secret weapon" in software development. A
-developer can only have so many in-person interactions, but good writing scales
-and can inform and influence many more people, on a single project or beyond.
+Writing while is a "secret weapon" in software development. A developer can only
+have so many in-person interactions, but good writing scales and can inform and
+influence many more people, on your own project or beyond.
 
 From the Tobeva Software blog:
 

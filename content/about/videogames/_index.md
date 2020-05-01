@@ -29,8 +29,8 @@ build failed for any reason I had to track it down.
 
 After almost a decade of making music-based videogames that were critically well
 received but had modest sales, Guitar Hero was a huge breakout hit. We knew it
-was a solid and fun game, but we had no idea of the economic and cultural impact
-it would have. The Guitar Hero franchise went on to over two billion dollars in
+was a solid and fun game, but we had no idea the economic and cultural impact it
+would have. The Guitar Hero franchise went on to over two billion dollars in
 sales.
 
 ![GuitarHero Game](guitar-hero-game.jpg)
@@ -44,8 +44,8 @@ hardware but the games need to be polished and perform flawlessly.
 The games were written mostly in C++ but we also used a custom scripting
 language and we used Python for build tools. The musicians and artists on the
 team outnumbered the programmers, which made for a fun work environment. I
-learned a fair amount beyond programing including interaction design and how on-time
-projects are managed.
+learned a fair amount beyond programing including game design and how on-time
+projects with firm deadlines are managed.
 
 <ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
   <li>

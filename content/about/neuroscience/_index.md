@@ -18,21 +18,21 @@ fly brain.
 
 When I joined Janelia, Raveler was limited in the image sizes you could browse.
 I implemented a tiled viewer that in theory could browse images of any size,
-using an approach similar to how Google Maps works. We were able to browse
-stacks with thousands of images as large as 50,000 x 50,000 pixels, over one
-terabyte of total imagery. This work was done with OpenGL in Python.
+using an approach similar to Google Maps. We were able to browse stacks with
+thousands of images as large as 50,000 x 50,000 pixels. Over one terabyte of
+total imagery. This work was done with OpenGL in Python.
 
 ![Raveler 1](raveler-1.jpg)
 
 I also added some 2D and 3D visualizations of the reconstructed neurons to give
-users insight into shapes they were creating. The image on left below is 2D and
-the one on the right is 3D:
+users insight into shapes they were creating. The center image below is 2D while
+the one on the right is 3D and can be rotated:
 
 ![Raveler 2](raveler-2.jpg)
 
-The users of Raveler were at Janelia and it was gratifying to see in-person how
-the improvements that we made to the software were making their lives easier and
-their work more productive.
+The users of Raveler worked in the building and it was gratifying to see
+in-person how the improvements that we made to the software were making their
+lives easier and their work more productive.
 
 <ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
   <li>

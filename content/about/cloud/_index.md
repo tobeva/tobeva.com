@@ -16,12 +16,12 @@ Python, while some of the data processing itself was written in C++.
 
 ![Carmera 1](carmera-1.jpg)
 
-My extensive experience with traditional single-computer software engineering
-applied to the world of distributed systems more than I had anticipated. The
-cloud, in some sense, is just a single large computer. The dozens of "cloud
-services" are like the API's of the older desktop operating systems. This
-realization is key to creating "cloud native" designs that fully exploit what
-clouds have to offer.
+My experience with traditional single-computer software engineering applied to
+the world of distributed systems more than I had anticipated. The cloud, in some
+sense, is just a single large computer. The dozens of "cloud services" are like
+the API's of the older desktop operating systems. Thus "cloud native" designs
+are tightly coordinated distributed applications, they are not just desktop
+software running "in the cloud".
 
 ![Carmera 2](carmera-2.jpg)
 
