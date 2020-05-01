@@ -2,7 +2,8 @@
 title: "Martin Fowler"
 linkTitle: "Martin Fowler"
 description: "Chief Scientist at ThoughtWorks."
-weight: 4
+date: 2020-04-06
+weight: 20
 type: docs
 ---
 
