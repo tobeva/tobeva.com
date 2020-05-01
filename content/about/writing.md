@@ -8,7 +8,7 @@ weight: 60
 type: docs
 ---
 
-Writing while is a "secret weapon" in software development. A developer can only
+Writing well is a "secret weapon" in software development. A developer can only
 have so many in-person interactions, but good writing scales and can inform and
 influence many more people, on your own project or beyond.
 
