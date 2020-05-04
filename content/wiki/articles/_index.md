@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 linkTitle: "Articles"
-description: "Fairly generic Software Engineering links."
-weight: 5
+description: "Articles on Software Engineering."
+weight: 10
 type: docs
 ---

@@ -1,10 +1,10 @@
 ---
 title: "People"
-description: "Notable people involved in software development." 
+description: "People involved with Software Engineering." 
 date: 2020-04-06
 draft: false
 type: docs
-weight: 60
+weight: 40
 ---
 
 **Famous**

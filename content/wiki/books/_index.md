@@ -1,7 +1,7 @@
 ---
 title: "Books"
 linkTitle: "Books"
-description: "Software Development related books."
-weight: 10
+description: "Books on Software Engineering."
+weight: 20
 type: docs
 ---

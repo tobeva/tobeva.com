@@ -2,7 +2,7 @@
 title: "Cloud"
 linkTitle: "Cloud"
 description: "Cloud architecture and design."
-weight: 20
+weight: 10
 type: docs
 ---
 * [Untangling Microservices, Balancing Complexity](https://vladikk.com/2020/04/09/untangling-microservices/) - [Vladik Khononov](https://vladikk.com/page/about/)

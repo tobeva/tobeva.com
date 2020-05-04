@@ -1,4 +1,3 @@
-
 ---
 title: "Tobeva Software Wiki"
 linkTitle: "Wiki"
@@ -8,3 +7,5 @@ menu:
   main:
     weight: 20
 ---
+
+This wiki contains links to resources that I've found useful.

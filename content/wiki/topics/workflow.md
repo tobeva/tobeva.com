@@ -4,7 +4,7 @@ description: "Workflow software and services."
 date: 2020-04-06
 draft: false
 type: docs
-weight: 80
+weight: 50
 ---
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline)
   * A curated list of pipeline toolkits.
