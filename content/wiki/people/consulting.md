@@ -1,7 +1,7 @@
 ---
 title: "Consulting"
 linkTitle: "Consulting"
-description: "Software consultants and contractors."
+description: "Consulting or contracting links."
 date: 2020-05-01
 weight: 10
 type: docs
