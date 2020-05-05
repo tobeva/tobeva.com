@@ -17,3 +17,8 @@ type: docs
 
 * [RAPIDS Homepage](https://rapids.ai/)
   * GPU-accelerated data science stack by NVIDIA.
+
+**GUI**
+
+* [PyQtGraph](http://www.pyqtgraph.org/)
+  * Pure-python graphics and GUI library built on PyQt4.
