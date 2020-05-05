@@ -7,8 +7,9 @@ serve:
 	hugo serve -D
 
 build:
-	hugo --destination ../root
+	hugo --destination ../root --cleanDestinationDir
 
 deploy:
-	hugo --destination ../root
-	rsync -avhz ../root/ ${TOBEVA_RSYNC_DEST}
+	hugo --destination ../root --cleanDestinationDir
+	rsync -avhz ../root/ ${TOBEVA_RSYNC_DEST} --delete
+
