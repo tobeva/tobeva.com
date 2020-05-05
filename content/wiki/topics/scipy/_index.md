@@ -22,3 +22,5 @@ type: docs
 
 * [PyQtGraph](http://www.pyqtgraph.org/)
   * Pure-python graphics and GUI library built on PyQt4.
+* [VisPy](http://vispy.org/)
+  * Python library for interactive scientific visualization.
