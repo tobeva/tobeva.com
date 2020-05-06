@@ -19,3 +19,7 @@ weight: 20
 * [Our journey to type checking 4 million lines of Python](https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python)
   * Dropbox uses type hinting and [`mypy`](http://mypy-lang.org/) on their huge codebase.
 
+**Utilities**
+
+* [Cookiecutter](https://github.com/cookiecutter/cookiecutter)
+  * Create projects from templates.
