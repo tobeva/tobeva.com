@@ -32,3 +32,7 @@ type: docs
 * [Polyscope](https://polyscope.run/py/)
    * C++/Python viewer for 3D data, like meshes and point clouds.
  
+ **File Formats**
+
+ * [Zarr](https://zarr.readthedocs.io/en/stable/)
+   * Chunked, compressed, N-dimensional arrays.
