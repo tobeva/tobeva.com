@@ -24,3 +24,11 @@ type: docs
   * Pure-python graphics and GUI library built on PyQt4.
 * [VisPy](http://vispy.org/)
   * Python library for interactive scientific visualization.
+
+**Viewer**
+
+* [Napari](https://napari.org/)
+  * Multi-dimensional image viewer for Python.
+* [Polyscope](https://polyscope.run/py/)
+   * C++/Python viewer for 3D data, like meshes and point clouds.
+ 
