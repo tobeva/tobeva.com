@@ -1,9 +1,9 @@
 ---
 title: "Functional Programming"
 linkTitle: "FP"
-description: "Everyone should understand some Functional Programming."
+description: "Everyone should understand some about Functional Programming."
 date: 2020-04-17
-weight: 20
+weight: 10
 type: docs
 ---
 
