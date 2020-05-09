@@ -25,7 +25,7 @@ type: docs
 * [VisPy](http://vispy.org/)
   * Python library for interactive scientific visualization.
 
-**Viewer**
+**Viewers**
 
 * [Napari](https://napari.org/)
   * Multi-dimensional image viewer for Python.
@@ -36,3 +36,8 @@ type: docs
 
  * [Zarr](https://zarr.readthedocs.io/en/stable/)
    * Chunked, compressed, N-dimensional arrays.
+
+**Compression**
+
+* [Numcodecs](https://numcodecs.readthedocs.io/en/stable/)
+  * Zlib, BZ2, LZMA, and many others.

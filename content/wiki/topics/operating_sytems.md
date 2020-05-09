@@ -4,7 +4,7 @@ description: "The operating system on a single machine."
 date: 2020-04-06
 draft: false
 type: docs
-weight: 30
+weight: 50
 ---
 
 **Inter-process Communication**
