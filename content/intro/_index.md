@@ -21,11 +21,11 @@ We are going to learn how to program using the **Python** programming language.
 
 However this is a course about programming, not about Python. We need to learn
 some Python as we go, but we will skip over a lot of details. There are many
-courses you can take after this one to learn more Python or learn other
+courses you can take after this one to learn more about Python or learn other
 programming languages.
 
 Python is one of the most popular programming languages in the world. It is used
 by millions of programmers every day. Python is used to build software and
 websites that you probably use and enjoy. Python is a great introductory
 language because it's not *super* complicated, but it can be used to write
-almost any program.
+almost any type of program.

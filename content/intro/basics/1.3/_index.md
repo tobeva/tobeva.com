@@ -10,13 +10,13 @@ type: python
 
 What will this print?
 
-```
+{{< highlight python >}}
 x = 3
 print(x)
 
 x = 4
 print(x)
-```
+{{< / highlight >}}
 
 It will print:
 
