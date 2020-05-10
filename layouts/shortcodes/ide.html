@@ -38,14 +38,13 @@
 </script> 
 
 <form> 
-<textarea id="yourcode" cols="40" rows="10">
-import turtle
-t = turtle.Turtle()
-t.forward(100)
-print "Hello World" 
+<textarea id="yourcode" cols="88" rows="10">
+{{ .Inner }}
 </textarea><br /> 
 <button type="button" onclick="runit()">Run</button> 
 </form> 
+
+<h2>Your Program's Output</h3>
 <pre id="output" ></pre> 
 <div id="mycanvas"></div> 
 

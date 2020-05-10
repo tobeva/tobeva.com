@@ -1,5 +1,5 @@
 ---
-title: "Learn Programming with Python"
+title: "Learn Programming"
 linkTitle: "Learn"
 description: ""
 date: 2020-05-09
@@ -7,8 +7,11 @@ weight: 10
 type: python
 ---
 
-### Welcome to Python!
+### Learn
 
-Writing a program is like solving a puzzle. As you solve more puzzles you'll build mental muscles that will help you solve problems even unrelated to computers!
+One of the most important skills in life is *learning*.
 
-Python is not a toy language. Python is used every day by millions of programmers all around the world! It's the real deal. Let's begin!
+Learning can be really fun for its own sake, but it can also change your life.
+
+If you are brand new to programming or just want a refresher try the
+*Introduction to Programming* course below. Enjoy!
