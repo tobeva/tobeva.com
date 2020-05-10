@@ -6,13 +6,11 @@ weight: 20
 type: python
 ---
 
-### Functions
-
 ## Functions
 
-What are functions? In Python a function is something you can "call". When you
-call the function it does something. We already used the `print` function. When
-you call the print function, it prints to the screen!
+What are functions? In Python you can "call" function and it runs some code for
+you. It does something useful for you. We already used the `print()` function.
+When you call the print function, it prints to the screen!
 
 ## Three Types Of Functions
 
@@ -39,11 +37,11 @@ related to drawing on the screen.
 #### Your Own Functions
 
 Most importantly Python lets you write *your own functions*. Your own functions
-can call built-in functions, module functions, and the key fact about
-programming is your own can call your own functions!
+can call built-in functions or module functions. And the key to programming is
+your own functions can call your own functions!
 
-#### We Will Start Slow
+#### Don't Worry, We Will Start Slow
 
-We are going to start at the very basics and learn all about functions.
+We are going to learn all about functions.
 
-Much of programming is writing functions and calling functions.
+Most of programming is writing functions and calling functions.

@@ -1,6 +1,7 @@
 ---
 title: "Basics"
 linkTitle: "Basics"
+description: "Learn about printing, variables and values."
 date: 2020-05-09
 weight: 10
 type: python
