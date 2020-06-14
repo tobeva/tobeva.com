@@ -14,6 +14,9 @@ weight: 30
 * [Homepage](https://www.rust-lang.org/)
 * [WebAssembly](https://www.rust-lang.org/what/wasm)
 
+**Introductions**
+* [What is Rust and why is it so popular?](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/)
+
 **Weld**
 * [Interview with Weld’s main contributor](https://notamonadtutorial.com/weld-accelerating-numpy-scikit-and-pandas-as-much-as-100x-with-rust-and-llvm-12ec1c630a1)
   * Bare-metal performance for high-level APIs such as NumPy and Pandas.
