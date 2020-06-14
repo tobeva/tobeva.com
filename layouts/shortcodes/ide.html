@@ -1,6 +1,6 @@
 <!-- The Monaco Editor -->
+<script src="/monaco/app.js"></script>
 <div id="container" style="width:600px;height:400px;border:1px solid #ccc"></div>
-<script src="/app.js"></script>
 
 <script type="text/javascript">
 
@@ -33,7 +33,11 @@
             });
     }
 
-    window.editor.setModelLanguage(window.editor.getModel(), "python")
+    window.editor = monaco.editor.create(document.getElementById('container'), {
+        value: '{{ .Inner }}',
+        language: 'python'
+    });
+
 </script>
 
 <form>
