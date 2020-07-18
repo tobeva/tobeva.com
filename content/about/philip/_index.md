@@ -10,9 +10,11 @@ up_link: "/about/"
 up_label: "About Tobeva"
 ---
 
-![Headshot](headshot.jpg)
-
+{{< imgproc philip-winston Resize "200x">}}
+{{< /imgproc >}}
 [LinkedIn Profile](http://linkedin.com/in/pwinston) &middot; [PDF Resume](/philip_winston_resume.pdf)
+
+
 
 I have been writing software professionally for more than 25 years. I've worked
 in many different technical industries such as CAD and Haptics, Cloud Data
