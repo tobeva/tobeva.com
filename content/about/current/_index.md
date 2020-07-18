@@ -2,7 +2,7 @@
 ---
 title: "Current Clients"
 linkTitle: "Current Clients"
-description: "Recent or ongoing projects"
+description: "Ongoing projects as of July, 2020"
 date: 2020-07-17
 weight: 10
 type: docs

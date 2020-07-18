@@ -14,6 +14,8 @@ Initiative](https://chanzuckerberg.com/) to improve the rendering behavior
 and performance of [Napari](https://napari.org/), a multi-dimensional image
 viewer for Python.
 
+![Napari Screenshot](napari.jpg)
+
 Because the project is open source you can see some of our work here:
 
 * [Performance Backgrounder and Philosophy](https://napari.org/docs/explanations/performance.html)
