@@ -35,22 +35,33 @@ sales.
 
 ![GuitarHero Game](guitar-hero-game.jpg)
 
-I learned a lot of great software engineering habits while at Harmonix.  The
-rigors of console game development are legendary, since you have limited
-hardware but the games need to be polished and perform flawlessly.
+The software engineering rigors of console game development are legendary.
+Back then you had very limited hardware, the PlayStation 2 had only [32MB
+of
+RAM](https://en.wikipedia.org/wiki/PlayStation_2_technical_specifications),
+but the games needed to be polished and perform flawlessly. There were no
+online updates back then, the bits on the gold master CD were final for all
+time which meant at lot of pressure to get right.
+
+I learned a fair amount beyond programing including user interaction
+design, game design, how on-time projects with firm deadlines are managed,
+and even a bit about art and music. Harmonix's games were written mostly in
+C++ although around 1/3 of the code was a custom LISP-like scripting
+language. We used Python for build tool and I wrote some custom continuous
+integration tools that flagged which changes might have broken the build.
 
 ![GuitarHero Box](guitar-hero-box.jpg)
 
-The games were written mostly in C++ but we also used a custom scripting
-language and we used Python for build tools. The musicians and artists on the
-team outnumbered the programmers, which made for a fun work environment. I
-learned a fair amount beyond programing including game design and how on-time
-projects with firm deadlines are managed.
+The musicians and artists on the team outnumbered the programmers, which
+made for a fun work environment. It was eye opening to work with so many
+people who had no software or engineering background but were super smart,
+creative and fun to work with.
 
 <ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
   <li>
-    <a href="/about/simulations/" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
+    <a href="/about/past/simulations/" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
   </li>
-    <a href="/about/writing/" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
+  <li>
+    <a href="/about/past/" class="btn btn-primary ">Up<span class="ml-1">↑</span></a>
   </li>
 </ul>

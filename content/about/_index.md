@@ -1,8 +1,8 @@
 
 ---
-title: "Philip Winston"
+title: "Tobeva Software"
 linkTitle: "About"
-date: 2020-04-24
+date: 2020-07-17
 weight: 20
 type: docs
 menu:
@@ -10,35 +10,21 @@ menu:
     weight: 20
 ---
 
-**Founder**
+**Consult** &middot; **Design** &middot; **Develop**
 
-![Headshot](headshot.jpg)
+We are a small consulting and contracting company specializing in cloud
+data pipelines, high performance systems and computer graphics. We have
+experience in many industries include CAD Software and Haptics, Autonomous
+Vehicles, Neuroscience Imaging and Analysis, Simulations, Videogames and
+more.
 
-[LinkedIn Profile](http://linkedin.com/in/pwinston) &middot; [PDF Resume](/philip_winston_resume.pdf)
+We offer consulting such as appraising the health and design of a existing
+code base, evaluating performance issues, or advice selecting a technology
+stack. We offer consulting including the design and development of new
+software or enhancement of existing software. We can track down difficult
+bugs.
 
-I have been writing software professionally for more than 25 years. I've worked
-in many different technical industries such as CAD and Haptics, Cloud Data
-Pipelines, Neuroscience Research, Military Simulations and Videogames. See the
-individual pages below for descriptions of projects from each industry.
+We primarily work in C/C++, Python and Javascript but are interested in
+getting into Go and Rust development and could come up to speed quickly.
 
-My philosophy is to blend hard-core engineering with extreme pragmatism. In my
-opinion the goal of a software developer is to solve problems and create value.
-This can involve writing code, but often selecting where to dig is more
-important than the digging itself. One of the biggest sources of preventable
-waste in our industry is the time and money spent writing software that simply
-should never have been written.
-
-I'm happy to travel for meetings and planning discussions, once the COVID
-situation is under control, but I will do the bulk of the work remotely. I've
-worked remotely from my home for over a decade for several different companies.
-I have a wonderful and productive home office. I love to write and discuss
-things on chat or video, so I'll be very available and visible on your project,
-if that is desired.
-
-To date my primary languages have been C++, Python and Javascript, but I've
-started learning Go and Rust, and I'm open to other languages as well. I'm happy
-to consult and simply offer advice, or participate in the design and
-implementation myself.
-
-Drop me a line at philip<img src="" width="0" height="0">@tobeva.com or on Twitter
-[@pbwinston](https://twitter.com/pbwinston).
+Please contact us for more information.

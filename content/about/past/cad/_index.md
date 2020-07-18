@@ -41,6 +41,7 @@ tricks and optimizations to run that fast.
   <li>
     <a  class="btn btn-primary  disabled"><span class="mr-1">←</span> Previous</a>
   </li>
-    <a href="/about/cloud/" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
+  <li>
+    <a href="/about/past/cloud/" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
   </li>
 </ul>

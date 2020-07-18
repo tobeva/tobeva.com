@@ -8,4 +8,4 @@ menu:
     weight: 20
 ---
 
-This wiki contains links to resources that I've found useful.
+Links to resources that I've found useful.

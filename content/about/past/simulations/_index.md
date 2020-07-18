@@ -36,8 +36,9 @@ DirectX for the graphics while my performance tools were written in Python.
 
 <ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
   <li>
-    <a href="/about/neuroscience/" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
+    <a href="/about/past/neuroscience/" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
   </li>
-    <a href="/about/videogames/" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
+  <li>
+    <a href="/about/past/videogames/" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
   </li>
 </ul>

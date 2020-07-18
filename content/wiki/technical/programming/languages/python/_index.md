@@ -23,3 +23,7 @@ weight: 20
 
 * [Cookiecutter](https://github.com/cookiecutter/cookiecutter)
   * Create projects from templates.
+
+**Article**
+
+* [Pickles Nine Flaws](https://nedbatchelder.com/blog/202006/pickles_nine_flaws.html)

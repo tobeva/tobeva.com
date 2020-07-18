@@ -36,8 +36,9 @@ lives easier and their work more productive.
 
 <ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
   <li>
-    <a href="/about/cloud/" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
+    <a href="/about/past/cloud/" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
   </li>
-    <a href="/about/simulations/" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
+  <li>
+    <a href="/about/past/simulations/" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
   </li>
 </ul>
