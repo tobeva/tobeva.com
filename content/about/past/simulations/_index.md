@@ -5,6 +5,10 @@ description: "Military air and ground-based simulators."
 date: 2020-04-27
 weight: 40
 type: docs
+prev_link: "/about/past/neuroscience/"
+prev_label: "Previous"
+next_link: "/about/past/videogames/"
+next_label: "Next"
 ---
 
 I spent eight years working on military simulations at
@@ -33,12 +37,3 @@ Working on military simulations required understand video game technology but
 also the technical requirements and interoperability issues that you don't
 typically encounter in games. The codebase at MetaVR was primarily C++ using
 DirectX for the graphics while my performance tools were written in Python.
-
-<ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
-  <li>
-    <a href="/about/past/neuroscience/" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
-  </li>
-  <li>
-    <a href="/about/past/videogames/" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
-  </li>
-</ul>

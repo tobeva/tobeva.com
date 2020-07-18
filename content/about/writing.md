@@ -6,6 +6,8 @@ description: "Samples of writing"
 date: 2020-07-17
 weight: 60
 type: docs
+up_link: "/about/"
+up_label: "About"
 ---
 
 Writing is an important skill in software development. A developer can only
@@ -25,11 +27,3 @@ From Philip's personal blog [kmeme](http://kmeme.com):
 * [The Singularity is Always Steep](https://www.kmeme.com/2010/07/singularity-is-always-steep.html)
 * [The Future of Google's Streetview](https://www.kmeme.com/2010/10/future-of-googles-street-view.html)
 * [Clock Speed Wall](https://www.kmeme.com/2010/09/clock-speed-wall.html)
-
-<ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
-  <li>
-  </li>
-  <li>
-    <a href="/about/" class="btn btn-primary ">Up <span class="ml-1">↑</span></a>
-  </li>
-</ul>

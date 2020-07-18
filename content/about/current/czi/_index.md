@@ -5,6 +5,8 @@ description: "Napari Image Multi-Dimensional Image Viewer"
 date: 2020-07-17
 weight: 50
 type: docs
+up_link: "/about/current/"
+up_label: "Current Clients"
 ---
 
 We've been contracted by [The Chan Zuckerberg
@@ -27,11 +29,3 @@ refreshing change. It's fun to develop "in the open" and to collaborate
 with so many great developers across many different projects. When we ping
 another project with a question or bug we often hear back within
 hours, it's an exciting environment.
-
-<ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
-  <li>
-  </li>
-  <li>
-    <a href="/about/current/" class="btn btn-primary ">Up <span class="ml-1">↑</span></a>
-  </li>
-</ul>

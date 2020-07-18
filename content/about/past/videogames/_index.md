@@ -5,6 +5,10 @@ description: "Antigrav and Guitar Hero."
 date: 2020-04-27
 weight: 50
 type: docs
+prev_link: "/about/past/simulations/"
+prev_label: "Previous"
+up_link: "/about/past/"
+up_label: "Past Projects"
 ---
 
 I joined [Harmonix](https://www.harmonixmusic.com/) in 2003 to work on [EyeToy:
@@ -56,12 +60,3 @@ The musicians and artists on the team outnumbered the programmers, which
 made for a fun work environment. It was eye opening to work with so many
 people who had no software or engineering background but were super smart,
 creative and fun to work with.
-
-<ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
-  <li>
-    <a href="/about/past/simulations/" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
-  </li>
-  <li>
-    <a href="/about/past/" class="btn btn-primary ">Up<span class="ml-1">↑</span></a>
-  </li>
-</ul>

@@ -5,6 +5,8 @@ description: "Computer Aided Design systems."
 date: 2020-04-27
 weight: 10
 type: docs
+next_link: "/about/past/cloud/"
+next_label: "Next"
 ---
 
 ### FreeForm
@@ -36,12 +38,3 @@ millisecond to do the force computation! We used a large number of performance
 tricks and optimizations to run that fast.
 
 ![Phantom](phantom.jpg)
-
-<ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
-  <li>
-    <a  class="btn btn-primary  disabled"><span class="mr-1">←</span> Previous</a>
-  </li>
-  <li>
-    <a href="/about/past/cloud/" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
-  </li>
-</ul>

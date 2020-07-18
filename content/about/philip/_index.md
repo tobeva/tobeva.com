@@ -6,6 +6,8 @@ description: "Founder of Tobeva Software"
 date: 2020-07-17
 weight: 1
 type: docs
+up_link: "/about/"
+up_label: "About"
 ---
 
 ![Headshot](headshot.jpg)
@@ -37,10 +39,4 @@ implementation myself.
 Drop me a line at philip<img src="" width="0" height="0">@tobeva.com or on Twitter
 [@pbwinston](https://twitter.com/pbwinston).
 
-<ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
-  <li>
-  </li>
-  <li>
-    <a href="/about/" class="btn btn-primary ">Up <span class="ml-1">↑</span></a>
-  </li>
-</ul>
+

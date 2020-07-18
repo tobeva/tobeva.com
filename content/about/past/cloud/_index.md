@@ -5,6 +5,10 @@ description: "Using AWS or other clouds."
 date: 2020-04-27
 weight: 20
 type: docs
+prev_link: "/about/past/cad/"
+prev_label: "Previous"
+next_link: "/about/past/neuroscience/"
+next_label: "Next"
 ---
 
 Between 2017 and 2020 I worked on several generations of cloud-based data
@@ -30,12 +34,3 @@ I'm very interested in doing more cloud-based development. I believe
 strongly that the cloud is a fundamentally new technology with endless
 potential. However much or little you are using the cloud today, I'd be
 happy to discuss how I can help.
-
-<ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
-  <li>
-    <a href="/about/past/cad/" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
-  </li>
-  <li>
-    <a href="/about/past/neuroscience/" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
-  </li>
-</ul>

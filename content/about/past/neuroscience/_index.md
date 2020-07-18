@@ -5,6 +5,10 @@ description: "Multi-resolution imaging system."
 date: 2020-04-27
 weight: 30
 type: docs
+prev_link: "/about/past/cloud/"
+prev_label: "Previous"
+next_link: "/about/past/simulations/"
+next_label: "Next"
 ---
 
 The [*Howard Hughes Medical Institute*](http://hhmi.org) funds research all over
@@ -33,12 +37,3 @@ the one on the right is 3D and can be rotated:
 The users of Raveler worked in the building and it was gratifying to see
 in-person how the improvements that we made to the software were making their
 lives easier and their work more productive.
-
-<ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
-  <li>
-    <a href="/about/past/cloud/" class="btn btn-primary "><span class="mr-1">←</span> Previous</a>
-  </li>
-  <li>
-    <a href="/about/past/simulations/" class="btn btn-primary ">Next <span class="ml-1">→</span></a>
-  </li>
-</ul>
