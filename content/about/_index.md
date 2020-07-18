@@ -26,7 +26,8 @@ The final product can be as simple as a writeup or report, or we can
 implement the solution for you.
 
 We primarily work in C/C++, Python and Javascript but are interested in
-getting into Go and Rust development and could come up to speed quickly.
+getting into Go and Rust development and could come up to speed quickly. We
+are location in Winchester, Virginia.
 
 Please contact **philip<img src="" width="0" height="0">@tobeva.com** for
 more information.
