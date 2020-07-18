@@ -12,6 +12,8 @@ menu:
 
 **Consult** &middot; **Design** &middot; **Develop**
 
+![Scenic River Picture](river.jpg)
+
 We are a small consulting and contracting company specializing in cloud
 data pipelines, high performance systems and computer graphics. We have
 experience in many industries include CAD Software and Haptics, Autonomous
