@@ -1,7 +1,7 @@
 ---
 title: "Chan Zuckerberg"
 linkTitle: "Chan Zuckerberg"
-description: "Napari Image Multi-Dimensional Image Viewer"
+description: "Napari Multi-Dimensional Image Viewer"
 date: 2020-07-17
 weight: 50
 type: docs
