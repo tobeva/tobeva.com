@@ -7,7 +7,7 @@ date: 2020-07-17
 weight: 1
 type: docs
 up_link: "/about/"
-up_label: "About"
+up_label: "About Tobeva"
 ---
 
 ![Headshot](headshot.jpg)

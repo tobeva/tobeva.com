@@ -7,7 +7,7 @@ date: 2020-07-17
 weight: 60
 type: docs
 up_link: "/about/"
-up_label: "About"
+up_label: "About Tobeva"
 ---
 
 Writing is an important skill in software development. A developer can only

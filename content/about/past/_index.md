@@ -8,5 +8,5 @@ weight: 20
 type: docs
 simple_list: true
 up_link: "/about/"
-up_label: "About"
+up_label: "About Tobeva"
 ---

@@ -6,7 +6,7 @@ date: 2020-04-27
 weight: 10
 type: docs
 next_link: "/about/past/cloud/"
-next_label: "Next"
+next_label: "Cloud"
 ---
 
 ### FreeForm

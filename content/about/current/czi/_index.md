@@ -9,14 +9,14 @@ up_link: "/about/current/"
 up_label: "Current Clients"
 ---
 
-We've been contracted by [The Chan Zuckerberg
+I'm working on a contract for [The Chan Zuckerberg
 Initiative](https://chanzuckerberg.com/) to improve the rendering behavior
 and performance of [Napari](https://napari.org/), a multi-dimensional image
 viewer for Python.
 
 ![Napari Screenshot](napari.jpg)
 
-Because the project is open source you can see some of our work here:
+Because the project is open source you can see some of the work here:
 
 * [Performance Backgrounder and Philosophy](https://napari.org/docs/explanations/performance.html)
 * [Render System Design](https://napari.org/docs/explanations/rendering.html)

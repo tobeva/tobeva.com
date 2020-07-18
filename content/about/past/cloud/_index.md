@@ -6,9 +6,9 @@ date: 2020-04-27
 weight: 20
 type: docs
 prev_link: "/about/past/cad/"
-prev_label: "Previous"
+prev_label: "CAD"
 next_link: "/about/past/neuroscience/"
-next_label: "Next"
+next_label: "Neuroscience"
 ---
 
 Between 2017 and 2020 I worked on several generations of cloud-based data

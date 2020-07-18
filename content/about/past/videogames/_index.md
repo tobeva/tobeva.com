@@ -6,7 +6,7 @@ date: 2020-04-27
 weight: 50
 type: docs
 prev_link: "/about/past/simulations/"
-prev_label: "Previous"
+prev_label: "Simulations"
 up_link: "/about/past/"
 up_label: "Past Projects"
 ---

@@ -6,9 +6,9 @@ date: 2020-04-27
 weight: 30
 type: docs
 prev_link: "/about/past/cloud/"
-prev_label: "Previous"
+prev_label: "Cloud"
 next_link: "/about/past/simulations/"
-next_label: "Next"
+next_label: "Simulations"
 ---
 
 The [*Howard Hughes Medical Institute*](http://hhmi.org) funds research all over

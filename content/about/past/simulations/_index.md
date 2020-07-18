@@ -6,9 +6,9 @@ date: 2020-04-27
 weight: 40
 type: docs
 prev_link: "/about/past/neuroscience/"
-prev_label: "Previous"
+prev_label: "Neuroscience"
 next_link: "/about/past/videogames/"
-next_label: "Next"
+next_label: "Videogames"
 ---
 
 I spent eight years working on military simulations at
