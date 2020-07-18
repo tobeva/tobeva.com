@@ -16,9 +16,10 @@ up_label: "About Tobeva"
 
 
 
-I have been writing software professionally for more than 25 years. I've worked
-in many different technical industries such as CAD and Haptics, Cloud Data
-Pipelines, Neuroscience Research, Military Simulations and Videogames.
+I've been writing software professionally for more than 25 years. I've
+worked in many different technical industries such as CAD, Haptics,
+Autonomous Vehicles, Cloud Data Pipelines, Neuroscience Research, Military
+Simulations and Videogames.
 
 My philosophy is to blend hard-core engineering with extreme pragmatism. In my
 opinion the goal of a software developer is to solve problems and create value.
