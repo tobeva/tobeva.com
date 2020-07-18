@@ -28,11 +28,10 @@ waste in our industry is the time and money spent writing software that simply
 should never have been written.
 
 I'm happy to travel for meetings and planning discussions, but I will do
-the bulk of the work remotely. I've worked remotely from my home in
-Winchester, Virginia for over a decade for several different companies. I
-have a wonderful and productive home office. I love to write and discuss
-things on chat or video, so I'll be very available and visible on your
-project, if that is desired.
+the bulk of the work remotely. I've worked from my home in Winchester,
+Virginia for over a decade for several different companies. I love to write
+and discuss things on chat or video, so I'll be very available and visible
+on your project, if that is desired.
 
 To date my primary languages have been C++, Python and Javascript, but I've
 started learning Go and Rust, and I'm open to other languages as well. I'm happy
