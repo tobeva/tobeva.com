@@ -16,15 +16,14 @@ menu:
 
 We are a small consulting and contracting company specializing in cloud
 data pipelines, high performance systems and computer graphics. We have
-experience in many industries include CAD Software and Haptics, Autonomous
-Vehicles, Neuroscience Imaging and Analysis, Simulations, Videogames and
-more.
+experience in many industries include Autonomous Vehicles, CAD,
+Neuroscience, Military Simulations and Videogames.
 
-We offer consulting such as appraising the health and design of a existing
-code base, evaluating performance issues, or advice selecting a technology
-stack. We offer consulting including the design and development of new
-software or enhancement of existing software. We can track down difficult
-bugs.
+We offer consulting services such as the analysis of architecture and code
+quality, build automation and continuous integration, automated testing,
+quantifying and fixing performance issues, tracking down difficult bugs.
+The final product can be as simple as a writeup or report, or we can
+implement the solution for you.
 
 We primarily work in C/C++, Python and Javascript but are interested in
 getting into Go and Rust development and could come up to speed quickly.
