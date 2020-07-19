@@ -6,7 +6,7 @@ date: 2020-07-17
 weight: 50
 type: docs
 up_link: "/about/current/"
-up_label: "Current Clients"
+up_label: "Current Projects"
 ---
 
 I'm working on a contract for [The Chan Zuckerberg

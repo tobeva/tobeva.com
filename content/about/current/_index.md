@@ -1,8 +1,8 @@
 
 ---
-title: "Current Clients"
-linkTitle: "Current Clients"
-description: "Ongoing projects updated July, 2020"
+title: "Current Projects"
+linkTitle: "Current Projects"
+description: "Projects underway in 2020"
 date: 2020-07-17
 weight: 10
 type: docs
