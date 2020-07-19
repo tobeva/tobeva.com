@@ -36,12 +36,9 @@ infrastructure to repair.
 
 This strangeness is starkly evident when I look out my window and see a
 beautiful spring day. It looks like not a blade of grass is out of place.
-Everything looks fine until I turn on the news or remember I abruptly lost my
-job a few days ago after three years with a tech startup. We were working on
-maps for self-driving cars, an idea which seems like a distant fantasy at the
-moment.
-
-So what do we do now? First we should tally up our collective resources.
+Everything looks fine until I turn on the news or see my kids are home when
+should be at school. The country is in a rough spot, so what do we do now?
+First we should tally up our collective resources.
 
 {{< imgproc starlink Resize "512x">}}
 SpaceX's StartLink system might have as many as 42,000 satellites.
