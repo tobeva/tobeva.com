@@ -1,6 +1,6 @@
 ---
-title: "Tobeva Software Wiki"
-linkTitle: "Wiki"
+title: "Tobeva Software Resources"
+linkTitle: "Resources"
 weight: 20
 type: docs
 menu:
