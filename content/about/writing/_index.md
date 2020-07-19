@@ -2,7 +2,7 @@
 ---
 title: "Writing"
 linkTitle: "Writing"
-description: "Samples of writing"
+description: "Posts and essays"
 date: 2020-07-17
 weight: 60
 type: docs
