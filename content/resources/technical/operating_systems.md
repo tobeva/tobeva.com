@@ -5,6 +5,16 @@ date: 2020-04-06
 draft: false
 type: docs
 weight: 50
+nav:
+    prev:
+        label: "SciPy"
+        url: "/resources/technical/scipy/"
+    up:
+        label: "Technical"
+        url: "/resources/technical/"
+    next:
+        label: "Visualization"
+        url: "/resources/technical/visualization"
 ---
 
 **Inter-process Communication**

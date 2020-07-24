@@ -4,6 +4,13 @@ description: "Writing for humans."
 date: 2020-04-12
 type: docs
 weight: 80
+nav:
+    prev:
+        label: "Leadership"
+        url: "/resources/soft_skills/leadership"
+    up:
+        label: "Soft Skills"
+        url: "/resources/soft_skills/"
 ---
 **Articles**
 * [How To Edit Your Own Writing](https://www.nytimes.com/2020/04/07/smarter-living/how-to-edit-your-own-writing.html)

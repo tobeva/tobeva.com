@@ -5,6 +5,13 @@ date: 2020-04-06
 draft: false
 type: docs
 weight: 40
+nav:
+    next:
+        label: "Leadership"
+        url: "/resources/soft_skills/leadership"
+    up:
+        label: "Soft Skills"
+        url: "/resources/soft_skills/"
 ---
 
 * [Ira Glass on Storytelling](https://vimeo.com/24715531) - [Ira Glass](https://en.wikipedia.org/wiki/Ira_Glass)

@@ -1,10 +1,21 @@
 ---
 title: "People"
+linkTitle: "People"
 description: "People involved with Software Engineering." 
 date: 2020-04-06
 draft: false
 type: docs
 weight: 40
+nav:
+    prev:
+        label: "Industries"
+        url: "/resources/industries/"
+    up:
+        label: "Resources"
+        url: "/resources/"
+    next:
+        label: "Soft Skills"
+        url: "/resources/soft_skills/"
 ---
 
 **Famous**

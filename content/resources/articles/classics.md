@@ -5,6 +5,13 @@ description: "Classic articles worth reading or re-reading."
 date: 2020-04-17
 weight: 10
 type: docs
+nav:
+    up:
+        label: "Articles"
+        url: "/resources/articles/"
+    next:
+        label: "Functional"
+        url: "/resources/articles/functional/"
 ---
 
 **Articles**

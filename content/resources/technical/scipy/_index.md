@@ -4,6 +4,16 @@ linkTitle: "SciPy"
 description: "Python software for mathematics, science, and engineering."
 weight: 40
 type: docs
+nav:
+    prev:
+        label: "GUI"
+        url: "/resources/technical/gui/"
+    up:
+        label: "Technical"
+        url: "/resources/technical/"
+    next:
+        label: "Operating Systems"
+        url: "/resources/technical/operating_systems/"
 ---
 
 **Dask**

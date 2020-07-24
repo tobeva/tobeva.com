@@ -4,6 +4,13 @@ linkTitle: "Subjects"
 description: "Software Development books by subject."
 weight: 4
 type: docs
+nav:
+    prev:
+        label: "Authors"
+        url: "/resources/books/authors/"
+    up:
+        label: "Books"
+        url: "/resources/books/"
 ---
 
 **Project Management**

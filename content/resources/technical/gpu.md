@@ -5,6 +5,16 @@ description: "Graphics cards for graphics or compute."
 date: 2020-04-17
 weight: 20
 type: docs
+nav:
+    prev:
+        label: "GitHub"
+        url: "/resources/technical/github/"
+    up:
+        label: "Technical"
+        url: "/resources/technical/"
+    next:
+        label: "Programming"
+        url: "/resources/technical/programming/"
 ---
 
 **API's**

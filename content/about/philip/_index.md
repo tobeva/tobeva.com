@@ -6,8 +6,13 @@ description: "Founder of Tobeva Software"
 date: 2020-07-17
 weight: 1
 type: docs
-up_link: "/about/"
-up_label: "About Tobeva"
+nav:
+    up:
+        label: "About"
+        url: "/about/"
+    next:
+        label: "Current"
+        url: "/about/current/"
 ---
 
 {{< imgproc philip-winston Resize "200x">}}

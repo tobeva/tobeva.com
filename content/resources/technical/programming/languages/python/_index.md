@@ -6,6 +6,16 @@ date: 2020-05-02
 draft: false
 type: docs
 weight: 20
+nav:
+    prev:
+        label: "Go"
+        url: "/resources/technical/programming/languages/go/"
+    up:
+        label: "Languages"
+        url: "/resources/technical/programming/languages/"
+    next:
+        label: "Rust"
+        url: "/resources/technical/programming/languages/rust/"
 ---
 
 ![Python Logo](python.png)

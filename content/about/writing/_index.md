@@ -6,8 +6,13 @@ description: "Posts and essays"
 date: 2020-07-17
 weight: 60
 type: docs
-up_link: "/about/"
-up_label: "About Tobeva"
+nav:
+    prev:
+        label: "Past"
+        url: "/about/past/"
+    up:
+        label: "About"
+        url: "/about/"
 ---
 
 Writing is an important skill in software development. A developer can only
@@ -19,7 +24,7 @@ From the **Tobeva Software** blog:
 * [True Confidence](/blog/2020/04/12/true-confidence/)
 * [Happy Birthday Tobeva Software](/blog/2020/04/10/happy-birthday-tobeva-software/)
 
-From Philip's personal blog [kmeme](http://kmeme.com):
+Software related posts from Philip's personal blog [kmeme](http://kmeme.com):
 
 * [The Future of Google's Streetview](https://www.kmeme.com/2010/10/future-of-googles-street-view.html)
 * [Press X To continue](https://www.kmeme.com/2015/12/press-x-to-continue.html)

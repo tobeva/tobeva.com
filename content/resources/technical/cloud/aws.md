@@ -4,6 +4,11 @@ linkTitle: "AWS"
 description: "Amazon Web Services."
 weight: 30
 type: docs
+nav:
+    up:
+        label: "Cloud"
+        url: "/resources/technical/cloud/"
+
 ---
 Notes coming on these popular AWS services....
 
