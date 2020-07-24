@@ -5,10 +5,13 @@ description: "Antigrav and Guitar Hero."
 date: 2020-04-27
 weight: 50
 type: docs
-prev_link: "/about/past/simulations/"
-prev_label: "Simulations"
-up_link: "/about/past/"
-up_label: "Past Projects"
+nav:
+    prev:
+        label: "Simulations"
+        url: "/about/past/simulations/"
+    up:
+        label: "Past"
+        url: "/about/past/"
 ---
 
 I joined [Harmonix](https://www.harmonixmusic.com/) in 2003 to work on [EyeToy:

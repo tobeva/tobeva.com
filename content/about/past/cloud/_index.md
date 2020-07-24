@@ -5,10 +5,16 @@ description: "Processing data with AWS or other clouds."
 date: 2020-04-27
 weight: 20
 type: docs
-prev_link: "/about/past/cad/"
-prev_label: "CAD"
-next_link: "/about/past/neuroscience/"
-next_label: "Neuroscience"
+nav:
+    prev:
+        label: "CAD"
+        url: "/about/past/cad/"
+    up:
+        label: "Past"
+        url: "/about/past/"
+    next:
+        label: "Neuroscience"
+        url: "/about/past/neuroscience/"
 ---
 
 Between 2017 and 2020 I worked on several generations of cloud-based data

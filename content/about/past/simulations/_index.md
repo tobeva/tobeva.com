@@ -5,10 +5,16 @@ description: "Military air and ground-based simulators."
 date: 2020-04-27
 weight: 40
 type: docs
-prev_link: "/about/past/neuroscience/"
-prev_label: "Neuroscience"
-next_link: "/about/past/videogames/"
-next_label: "Videogames"
+nav:
+    prev:
+        label: "Neuroscience"
+        url: "/about/past/neuroscience/"
+    up:
+        label: "Past"
+        url: "/about/past/"
+    next:
+        label: "Video Games"
+        url: "/about/past/videogames/"
 ---
 
 I spent eight years working on military simulations at

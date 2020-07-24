@@ -5,8 +5,13 @@ description: "Computer Aided Design systems."
 date: 2020-04-27
 weight: 10
 type: docs
-next_link: "/about/past/cloud/"
-next_label: "Cloud"
+nav:
+    up:
+        label: "Past"
+        url: "/about/past/"
+    next:
+        label: "Cloud"
+        url: "/about/past/cloud/"
 ---
 
 ### FreeForm
