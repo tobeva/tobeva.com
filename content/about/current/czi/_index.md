@@ -5,26 +5,28 @@ description: "Napari Multi-Dimensional Image Viewer"
 date: 2020-07-17
 weight: 50
 type: docs
-up_link: "/about/current/"
-up_label: "Current Projects"
+nav:
+    up:
+        label: "Current"
+        url: "/about/current/"
 ---
 
 I'm working on a contract for [The Chan Zuckerberg
 Initiative](https://chanzuckerberg.com/) to improve the rendering behavior
 and performance of [Napari](https://napari.org/), a multi-dimensional image
-viewer for Python.
+viewer for Python, used for Neuroscience and other scientific imaging.
 
 ![Napari Screenshot](napari.jpg)
 
-Because the project is open source you can see some of the work here:
+Because the project is open source you can see two documents I wrote
 
 * [Performance Backgrounder and Philosophy](https://napari.org/docs/explanations/performance.html)
 * [Render System Design](https://napari.org/docs/explanations/rendering.html)
 
-Even specific code changes and discussions:
+And code changes and discussions:
 
-* [Pull Request #1343](https://github.com/napari/napari/pull/1343) - ImageSlice and ImageView
-* [Pull Request #1262](https://github.com/napari/napari/pull/1262) - Performance Monitoring
+* PR on [Performance Monitoring](https://github.com/napari/napari/pull/1453)
+* PR on [Async Rendering](https://github.com/napari/napari/pull/1495)
 
 After so many years working on proprietary projects open source is a
 refreshing change. It's fun to develop "in the open" and to collaborate
