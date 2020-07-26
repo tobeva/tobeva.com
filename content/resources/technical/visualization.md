@@ -7,7 +7,7 @@ type: docs
 weight: 60
 nav:
     prev:
-        label: "Operating Systems"
+        label: "OS's"
         url: "/resources/technical/operating_systems/"
     up:
         label: "Technical"

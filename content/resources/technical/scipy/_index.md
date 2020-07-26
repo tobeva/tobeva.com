@@ -12,7 +12,7 @@ nav:
         label: "Technical"
         url: "/resources/technical/"
     next:
-        label: "Operating Systems"
+        label: "OS's"
         url: "/resources/technical/operating_systems/"
 ---
 
