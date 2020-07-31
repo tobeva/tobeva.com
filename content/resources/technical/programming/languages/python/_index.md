@@ -37,3 +37,9 @@ nav:
 **Article**
 
 * [Pickles Nine Flaws](https://nedbatchelder.com/blog/202006/pickles_nine_flaws.html)
+
+**Static Analysis**
+
+* [Wily](https://wily.readthedocs.io/en/latest/)
+    * Command-line tool for exploring the complexity of Python code over time.
+  
