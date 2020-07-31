@@ -2,7 +2,7 @@
 ---
 title: "Current Projects"
 linkTitle: "Current Projects"
-description: "Projects underway in 2020"
+description: "Tobeva Software Projects"
 date: 2020-07-17
 weight: 10
 type: docs
@@ -17,3 +17,6 @@ nav:
         label: "Past"
         url: "/about/past/"
 ---
+
+Below are some projects Tobeva Software has worked on so far in 2020 that
+we have permission to discuss.
