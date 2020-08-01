@@ -40,11 +40,12 @@ of electron microscope images. The images in this case were of the brain
 tissue of fruit fly. The goal was to create the "connectome" or "wiring
 diagram" of the fly's neurons.
 
-When I joined Janelia Raveler was limited to view images less than around
-6,000 x 6,000 pixels. I adding a tiled viewer to Raveler using an approach
-similar to Google Maps. In the end we were able to browse stacks with
-thousands of images each over 50,000 x 50,000 pixels in size, which meant
-interactively browsing over one terabyte of total imagery.
+When I joined Janelia Raveler could only view images smaller than around
+6,000 x 6,000 pixels. I adding a tiled image viewer to Raveler that used an
+approach similar to Google Maps. In the end we were able to browse stacks
+of images thousands deep each larger than 50,000 x 50,000 pixels. That
+meant you could interactively browse over a terabyte of total imagery, and
+this was in 2010.
 
 {{< imgproc raveler-1 Resize "512x" >}}
 The Raveler interface for "proofreading" segmentations.
@@ -72,3 +73,10 @@ reconstructed neurons to give users insight into shapes they were creating.
 The users of Raveler worked in the same building and it was
 gratifying to see in-person how the improvements that we made to the
 software were making their lives easier and their work more productive.
+
+One fun thing about working at Janelia was they had a huge 4,000 core
+computer system in the basement with seemingly limitless disk space. I was
+able to kick off jobs on this whenever I wanted to. There was some sort of
+in-house accounting system so your group did "pay" for usage, but I imagine
+it was very cheap compared to a cloud provider, since it was fully paid 
+for a private to them.
