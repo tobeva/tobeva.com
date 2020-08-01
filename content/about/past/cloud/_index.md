@@ -27,6 +27,10 @@ keep their maps up to date using normal video collected by delivery or
 other normal vehicles. That will require a lot of computer vision and
 machine learning to interpret the videos and update the maps.
 
+{{< imgproc carmera-van Resize "512x" >}}
+Survey vehicle to collect geospatial data.
+{{< /imgproc >}}
+
 The pipelines we wrote were used for processing the geospatial data and for
 training the machine learning systems. Most of the pipeline code was
 written in Python, while the actual processing was often in C++ for
