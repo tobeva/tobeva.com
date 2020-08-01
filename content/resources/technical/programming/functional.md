@@ -12,9 +12,6 @@ nav:
     up:
         label: "Programming"
         url: "/resources/technical/programming/"
-    next:
-        label: "Languages"
-        url: "/resources/technical/programming/languages/"
 ---
 
 * [In-depth: Functional programming in C++](https://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php) - [John Carmack](https://en.wikipedia.org/wiki/John_Carmack)

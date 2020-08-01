@@ -7,12 +7,15 @@ draft: false
 type: docs
 weight: 10
 nav:
+    prev:
+        label: "C++"
+        url: "/resources/languages/c++/"
     up:
         label: "Languages"
-        url: "/resources/technical/programming/languages/"
+        url: "/resources/languages/"
     next:
         label: "Python"
-        url: "/resources/technical/programming/languages/python/"
+        url: "/resources/languages/python/"
 ---
 
 ![Go logo](go.png)

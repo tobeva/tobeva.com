@@ -9,13 +9,13 @@ weight: 20
 nav:
     prev:
         label: "Go"
-        url: "/resources/technical/programming/languages/go/"
+        url: "/resources/languages/go/"
     up:
         label: "Languages"
-        url: "/resources/technical/programming/languages/"
+        url: "/resources/languages/"
     next:
         label: "Rust"
-        url: "/resources/technical/programming/languages/rust/"
+        url: "/resources/languages/rust/"
 ---
 
 ![Python Logo](python.png)
