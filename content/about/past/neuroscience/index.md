@@ -28,8 +28,8 @@ Mathematics, Physics, Chemistry, Biology, Computer Science, Electrical
 Engineering, even Cosmology in one case.
 
 {{< imgproc janelia Resize "512x" >}}
-The main Landscape Building at Janelia is the one in the back, their
-private hotel is on the foreground.
+The lush Landscape Building at Janelia where I worked is visible
+behind their own private hotel.
 {{< /imgproc >}}
 
 I primarily worked on a tool called **Raveler** as a graphics programmer. I
