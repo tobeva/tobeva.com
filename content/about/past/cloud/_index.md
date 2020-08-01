@@ -19,13 +19,13 @@ nav:
 
 Between 2017 and 2020 I worked on several generations of cloud-based data
 pipelines at [CARMERA](https://carmera.com), a company that creates highly
-detailed maps for self-driving cars.
+detailed "HD Maps" for self-driving cars.
 
-Carmera's maps are initially created from survey vehicles driving the
-streets with Lidar sensors and 360 degree cameras. However Carmera's long
-term ambition is to keep their maps up to date using normal video collected
-by delivery vehicles. That requires a lot of computer vision and machine
-learning to interpret the videos and update the maps accordingly.
+Carmera's maps are built using data from survey vehicles fitted with Lidar
+sensors and 360 degree cameras. However Carmera's long term ambition is to
+keep their maps up to date using normal video collected by delivery or
+other normal vehicles. That will require a lot of computer vision and
+machine learning to interpret the videos and update the maps.
 
 The pipelines we wrote were used for processing the geospatial data and for
 training the machine learning systems. Most of the pipeline code was
@@ -41,8 +41,6 @@ than C++ for the performance critical parts.
 {{< imgproc carmera-1 Resize "512x" >}}
 This is a reconstructed point cloud for Lidar and panoramic photos.
 {{< /imgproc >}}
-
-![Carmera 1](carmera-1.jpg)
 
 I found that my experience with traditional single-computer software
 engineering applied to the world of distributed systems more than I had
@@ -72,10 +70,10 @@ machines, fix the machines, recycle the machines.
 This is either a fancy datacenter or an alien spaceship.
 {{< /imgproc >}}
 
-All of this effort is so their users can rent as much compute and storage
-as their heart desires in a matter of seconds just by clicking a button.
-Better yet your software can use their API to acquire hardware resources,
-software essentially buying itself hardware as it goes.
+All of this effort is so their users can click on between and rent as much
+compute and storage as their heart desires. Better yet have your software
+can use their API to acquire hardware resources by itself, software
+essentially buying the hardware it needs as it goes.
 
 With today's cloud providers anyone could create a brand new acount and in
 about 30 minutes they could spin up a $250,000 server. If the only used it
