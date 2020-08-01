@@ -79,4 +79,4 @@ computer system in the basement with seemingly limitless disk space. I was
 able to kick off jobs on this whenever I wanted to. There was some sort of
 in-house accounting system so your group did "pay" for usage, but I imagine
 it was very cheap compared to a cloud provider, since it was fully paid 
-for a private to them.
+for and literally in the building.
