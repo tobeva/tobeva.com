@@ -14,14 +14,16 @@ nav:
         url: "/about/past/"
 ---
 
-I joined [Harmonix](https://www.harmonixmusic.com/) in 2003 to work on [EyeToy:
-Antigrav](https://en.wikipedia.org/wiki/EyeToy:_AntiGrav) for the PlayStation 2.
-The [EyeToy](https://en.wikipedia.org/wiki/EyeToy) was a camera that you put on
-your TV so your body could be the controller. In our game you moved your arms
-and body around to pilot a hoverboard through futuristic scenes. It was a fun
-game and gave you a good workout:
+The first game I worked on at [Harmonix](https://www.harmonixmusic.com/)
+was [EyeToy: Antigrav](https://en.wikipedia.org/wiki/EyeToy:_AntiGrav) for
+the PlayStation 2. The [EyeToy](https://en.wikipedia.org/wiki/EyeToy) was a
+camera that you put on your TV so your body could be the controller. In our
+game you moved your arms and body around to pilot a hoverboard through
+futuristic scenes. It was a fun game and gave you a good workout.
 
-![Antigrav](antigrav.jpg)
+{{< imgproc antigrav Resize "512x" >}}
+EyeToy: AntiGrav was released in November 2004.
+{{< /imgproc >}}
 
 Harmonix's next game was [Guitar
 Hero](https://en.wikipedia.org/wiki/Guitar_Hero). This time I was chosen to be
@@ -31,33 +33,47 @@ Art, Design and QA. I often had to estimate how hard it would be to program a
 new feature, or suggest alternative ideas that were easier for us to
 implement.
 
-I was also responsible making sure the game was playable every day. If the daily
-build failed for any reason I had to track it down.
+I was also responsible making sure the game was playable every day. If the
+daily build failed for any reason I had to track it down. This was somtimes
+fun and sometimes nerve-wracking.
 
-After almost a decade of making music-based videogames that were critically well
-received but had modest sales, Guitar Hero was a huge breakout hit. We knew it
-was a solid and fun game, but we had no idea the economic and cultural impact it
-would have. The Guitar Hero franchise went on to over two billion dollars in
-sales.
+{{< imgproc guitar-hero-game Resize "512x" >}}
+The original Guitar Hero was released in November, 2005.
+{{< /imgproc >}}
 
-![GuitarHero Game](guitar-hero-game.jpg)
+Guitar Hero was a huge breakout hit for Harmonix. We knew it was a solid
+fun game, but we had no idea the economic and cultural impact it would
+have. My favorite story about realizing the game would be big was a support
+email that described someone who crashed through a glass coffee table while
+playing the game.
+
+The email concluded "after I finished the song, I went to the emergency
+room". Someone inside the company sent that around and highlighted the part
+that said *after I finished the song*. The Guitar Hero franchise went on to
+over two billion dollars in sales.
+
+{{< imgproc ps2 Resize "512x" >}}
+The Sony PlayStation 2 console came out in October, 2000.
+{{< /imgproc >}}
 
 The software engineering rigors of console game development are legendary.
-Back then you had very limited hardware, the PlayStation 2 had only [32MB
-of
+The PlayStation 2 had only [32MB of
 RAM](https://en.wikipedia.org/wiki/PlayStation_2_technical_specifications),
 but the games needed to be polished and perform flawlessly. There were no
 online updates back then, the bits on the gold master CD were final for all
-time which meant at lot of pressure to get right.
+time!
 
 I learned a fair amount beyond programing including user interaction
 design, game design, how on-time projects with firm deadlines are managed,
 and even a bit about art and music. Harmonix's games were written mostly in
 C++ although around 1/3 of the code was a custom LISP-like scripting
-language. We used Python for build tool and I wrote some custom continuous
-integration tools that flagged which changes might have broken the build.
+language. We used Python for build tools and I wrote some custom continuous
+integration tools that flagged who had submitted changes that might have
+broken the build.
 
-![GuitarHero Box](guitar-hero-box.jpg)
+{{< imgproc guitar-hero-box Resize "512x" >}}
+The game came with a pretty nice quality guitar controller.
+{{< /imgproc >}}
 
 The musicians and artists on the team outnumbered the programmers, which
 made for a fun work environment. It was eye opening to work with so many

@@ -17,29 +17,42 @@ nav:
         url: "/about/past/videogames/"
 ---
 
-I spent eight years working on military simulations at
-[*MetaVR*](http://metavr.com) mostly on their **Virtual Reality Scene
-Generator** (VRSG) product. VRSG advertises "game quality graphics" but unlike
-most games it has a round-Earth terrain format that enables realistic
-simulations which span hundreds of kilometers.
+I worked at [*MetaVR*](http://metavr.com) two separate times in my career
+for a total of eight years, most my time was spent on their flagship
+**Virtual Reality Scene Generator** (VRSG) software.
 
-![VRSG 1](vrsg-1.jpg)
+VRSG delivers "game quality graphics", but unlike most games it has a
+"round-earth" terrain format to create ultra-realistic simulations which
+span hundreds of kilometers. VRSG is used in many production military
+simulators including the F-16, A-10 and F-22 simulators.
 
-VRSG is used in many production military simulators including the F-16, A-10 and
-F-22 simulators, as well as in sea and ground-based simulators.
-
-![VRSG 2](vrsg-2.jpg)
+{{< imgproc vrsg-1 Resize "512x" >}}
+FA-18's over a virtual Camp Pendleton in California.
+{{< /imgproc >}}
 
 My first project at MetaVR was to add a human animation system. Over time I
-worked on many aspects from graphics to networking to architecture. I developed
-a web-based performance monitoring and QA tool that required removing randomness
-from the system so we could generate videos that were pixel-per-pixel identical
-even when taken weeks apart. I used the structural similarity (SSIM) index to
-find minute differences between the otherwise identical videos.
+worked on many aspects from graphics to networking to architecture. Beyond
+the product itself I developed a web-based performance monitoring and QA
+tool. We wrung out all the randonmness from the scene generation so we
+could creating videos that were pixel-per-pixel identical, even when taken
+weeks apart. We used the structural similarity (SSIM) index to find minute
+differences between the otherwise identical videos.
 
-![VRSG 3](vrsg-3.jpg)
+{{< imgproc vrsg-2 Resize "512x" >}}
+USS George H.W. Bush (CVN-77)
+{{< /imgproc >}}
 
-Working on military simulations required understand video game technology but
-also the technical requirements and interoperability issues that you don't
-typically encounter in games. The codebase at MetaVR was primarily C++ using
-DirectX for the graphics while my performance tools were written in Python.
+Working on military simulations required understanding video game
+technology but also the technical requirements and interoperability issues
+that you don't typically encounter in games. The codebase at MetaVR was
+primarily C++ using DirectX for the graphics while my performance tools
+were written in Python.
+
+{{< imgproc vrsg-3 Resize "512x" >}}
+Virtual Kismayo, Somalia with human characters.
+{{< /imgproc >}}
+
+The MetaVR experience was also interesting because the company is 100%
+virtual, they do not have a physical office at all. Working like that for
+eight years taught me how to make remote development work, something that
+is suddenly very in fashion.
