@@ -31,8 +31,8 @@ to the world of distributed systems more than I had anticipated. The cloud,
 in some sense, is just a single large computer. The dozens of cloud
 services are like the Operating System API's that desktop applications used
 to use. The abstraction level is much higher, since one API call might hide
-the work of thousands of of machines, but the same principles of good
-design and engineering still apply.
+the work of thousands of machines, but the same principles of good design
+and engineering still apply.
 
 ![Carmera 2](carmera-2.jpg)
 
