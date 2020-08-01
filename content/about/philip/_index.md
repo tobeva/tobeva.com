@@ -52,6 +52,6 @@ anything related to software engineering. I can also solve hard bugs or
 evaluate technology choices, or do full implementations alone or with a
 team.
 
-Please drop me a line at philip<img src="" width="0" height="0">@tobeva.com
-or [@pbwinston](https://twitter.com/pbwinston) and we can discuss how I can
-help.
+Please drop me a line at **philip<img src="" width="0"
+height="0">@tobeva.com** or **[@pbwinston](https://twitter.com/pbwinston)**
+and we can discuss your projects and how I might be able to help.
