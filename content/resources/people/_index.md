@@ -8,8 +8,8 @@ type: docs
 weight: 40
 nav:
     prev:
-        label: "Languages"
-        url: "/resources/languages/"
+        label: "Learning"
+        url: "/resources/learning/"
     up:
         label: "Resources"
         url: "/resources/"

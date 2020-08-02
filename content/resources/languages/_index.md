@@ -14,8 +14,8 @@ nav:
         label: "Resources"
         url: "/resources/"
     next:
-        label: "People"
-        url: "/resources/people/"
+        label: "Learning"
+        url: "/resources/learning/"
 ---
 
 ![C++ Logo](c++/cpp-logo.png)
