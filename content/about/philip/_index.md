@@ -15,7 +15,7 @@ nav:
         url: "/about/current/"
 ---
 
-{{< imgproc philip-winston Resize "200x">}}
+{{< imgproc philip Resize "300x">}}
 {{< /imgproc >}}
 [LinkedIn Profile](http://linkedin.com/in/pwinston) &middot; [PDF Resume](/philip_winston_resume.pdf)
 

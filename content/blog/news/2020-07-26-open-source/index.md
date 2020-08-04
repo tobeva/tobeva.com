@@ -1,5 +1,5 @@
 ---
-date: 2020-07-26
+date: 2020-08-02
 title: "Open Source"
 linkTitle: "Open Source"
 description: "Working on open source full-time."
@@ -7,61 +7,70 @@ author: Philip ([@pbwinston](https://twitter.com/pbwinston))
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
-draft: true
 ---
+
+I started Tobeva Software in April of this year and one of the first
+opportunities to come my way was a contract working for [The Chan
+Zuckerberg Initiative](https://chanzuckerberg.com/) on an open source
+project called [Napari](https://napari.org/tutorials/gallery).
+
+Napari is a multi-dimensional image viewer written in Python for the
+[SciPy](https://www.scipy.org/) community. Napari is used by
+Neuroscientists and Biologists to view and analyze complex image data.
+SciPy is a thriving ecosystem of Python software used for mathematics,
+science and engineering. SciPy is healthy part of the surge in popularity
+of Python over the last few years.
+
+
+{{< imgproc napari Resize "512x">}}
+The Napari multi-dimensional image viewer.
+{{< /imgproc >}}
+
+In my career I've mostly worked for commercial companies developing
+proprietary software. It's been a lot of fun to learn the ropes of open
+source, it's refreshing to be developing in the open and seeing how open
+source projects are run and how their contributors coordinate and
+collaborate with each other.
+
+One thing that's great about open source is you can send [GitHub
+links](https://github.com/napari/napari/pull/1453) to friends and
+colleagues to show off your work or ask for input. This is the polar
+opposite of the proprietary world where essentially everything is "secret"
+even the mundane stuff that does not at all merit being secret.
+
+Another nice thing about open source is knowing you'll have permanent
+access to the code that you are writing. If you leave a company you
+generally leave behind everything that you wrote for them. With open source
+if the licenses are compatible you can grab your old code and throw it into
+a new project.
+
+Finally this might not always be the case, but with Napari the contributors
+are mostly power users of the software who are highly invested in its
+success There is no real boundary between the developers and the users,
+it's more of this nice continuum. There's far more of a community than in
+some commercial efforts where you are more or less throwing the code over a
+wall to users you may never interact with.
 
 {{< imgproc open-source Resize "512x">}}
 {{< /imgproc >}}
 
-I'm several months in to Tobeva Software's first contract which is with
-[The Chan Zuckerberg Initiative](https://chanzuckerberg.com/) for an open
-source project called [Napari](https://napari.org/tutorials/gallery), a
-multi-dimensional image viewer. Napari is used by scientists including
-Neuroscientists and Biologists to view and analyze complex image data. It's
-written in Python and is part of the thriving
-[SciPy](https://www.scipy.org/) ecosystem of Python software used for
-mathematics, science and engineering.
+Related to this it's amazing how people from different projects interact.
+Developers for packages we depend might lurk on our chats and chime in
+with helpful advice. Meanwhile many Napari developers contribute to
+upstream and downstream dependencies. Even when I file issues on projects
+unrelated to ours I've generally found super helpful replies from their
+core developers within hours.
 
-Most of the software development I've done has for commercial companies
-developing proprietary software. It's been a lot of fun to learn the ropes
-of developing "in the open" and see how projects are run and how the
-contributors coordinate with developers on other projects.
+Not everything is fun and easy with open source. It can be a challenge to
+get everyone on the same page when they are all coming from different
+organizations. People's time commitments to the project vary widely, some
+people are monitoring the project but not really following everything very
+closely, and they might seem to be out of sync at times. However even those
+only partly paying attention to the project are still welcome, having some
+attention is much better than having none.
 
-Some things I really like about working on open source so far:
-
-* You can send links to your work to anyone in the world and they see your
-  code, documents, discussions. This is such a huge change from commercial
-  development where almost everything you do is "secret by default".
-
-* You know you'll have permanent access to the code you are writing. At
-  most commercial companies you cannot use or even look at the code you
-  wrote while there. Which could be years of effort. With open source you
-  not only have permanent access to the code, you can re-use it in another
-  project if it's also open source with a compatible license.
-
-* Most contributors are also users. There is no sense you are "throwing the
-  code over the wall" for the users to use it. Many contributors are
-  participating in the development precisely because the software is
-  important to them, which makes them passionate.
-
-* You have nice interactions with the developers of "neighboring" projects.
-  The creators of projects you depend on or which depend on you tend to be
-  super helpful in trying resolve issues or give advice. Everyone wants the
-  whole ecosystem to flourish not just their own project.
-
-* It feels like the project could be around a long time. If a company drops
-  a proprietary project it can just disappear, but an open source project
-  can outlive any one sponsor.
-
-There are also some challenges specific to open source. One is that
-people's time commitment varies widely from full-time to "just checking in
-once in a while". At a company pretty much everyone is working full-time.
-With open source I've found reviews and feedback sometimes trickle in
-slowly over time as people check in with the project.
-
-Still I find the open source model to be exciting and productive.  As a
-consultant and contractor I'm really excited about being able to point
-people my contributions. Surprisingly in the commercial world it's
-considered totally normal to have have worked somewhere for years and yet
-have essentially nothing to show for it except your own story about what
-you did there.
+After so many years of commercial development I find the open source model
+to be exciting and productive. I think commercial software still has a
+place, but there are some strong benefits to open source. I'm eager to work
+on more open source projects in the future and I'm hopeful that Tobeva Software
+will soon host some open source software of its own.
