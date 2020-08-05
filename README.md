@@ -4,9 +4,7 @@ Tobeva Software maintains the website tobeva.com.
 
 This repo generates that site. It uses [Hugo](https://gohugo.io/) with the [Docsy](https://github.com/google/docsy) theme.
 
-The "wiki" section of the site is not really a wiki, it can't be edited on the site.
-
-But you can "edit the wiki" by creating a PR into this repo:
+The "resources" section contains links to many sites.
 
 * [Wiki](content/wiki)
 
