@@ -4,10 +4,6 @@ Tobeva Software maintains the website tobeva.com.
 
 This repo generates that site. It uses [Hugo](https://gohugo.io/) with the [Docsy](https://github.com/google/docsy) theme.
 
-The "resources" section contains links to many sites.
-
-* [Wiki](content/wiki)
-
-I don't expect anyone will, but that's the reason this repo is public. Plus there is nothing to hide since 100% of the content is visible on the site anyway.
+Although this is "our" website, we make it public because most of the contents is visible publically anyway. Also we will accept PR's particularly into the [resources](content/resources) section if you have correction or additions.
 
 See the `Makefile` commands `make serve`, `make build` and `make deploy`.
