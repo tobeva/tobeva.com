@@ -1,6 +1,6 @@
 # Tobeva.com
 
-Tobeva Software maintains the website tobeva.com.
+Tobeva Software maintains the website [tobeva.com](https://tobeva.com).
 
 This repo generates that site. It uses [Hugo](https://gohugo.io/) with the [Docsy](https://github.com/google/docsy) theme.
 
