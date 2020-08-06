@@ -40,3 +40,7 @@ refreshing change. It's fun to develop "in the open" and to collaborate
 with so many great developers across many different projects. When we ping
 another project with a question or bug we often hear back within
 hours, it's an exciting and productive environment.
+
+I recorded this demo video to show results from the first three months of work on Napari:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jlm_jGRwH2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
