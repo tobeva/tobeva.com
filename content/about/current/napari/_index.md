@@ -19,13 +19,8 @@ mostly in the fields of Neuroscience and Biology.
 
 ![Napari Screenshot](napari.jpg)
 
-Because the project is open source you can read two documents that I wrote
-the first few weeks of the contract. I wanted to convey my thoughts on
-performance and outline what I thought was needed in a new rendering
-system.
-
-Also below are two pull requests which contain my first changes towards
-this new rendering system.
+Because the project is open source here are some documents and pull
+requests that I've done for the project so far:
 
 **Documents:**
 * [Performance Backgrounder and Philosophy](https://napari.org/docs/explanations/performance.html)
@@ -35,12 +30,10 @@ this new rendering system.
 * [Performance Monitoring](https://github.com/napari/napari/pull/1453)
 * [Asynchronous Image Loading](https://github.com/napari/napari/pull/1510)
 
-After so many years working on proprietary projects open source is a
-refreshing change. It's fun to develop "in the open" and to collaborate
-with so many great developers across many different projects. When we ping
-another project with a question or bug we often hear back within
-hours, it's an exciting and productive environment.
+Read [my blog post](/blog/2020/08/02/open-source/) on how it has been working
+on open source as opposed to proprietary commercial software.
 
-I recorded this demo video to show results from the first three months of work on Napari:
+I recently recorded this demo video to show progress from my first three
+months of work on Napari:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jlm_jGRwH2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
