@@ -9,10 +9,6 @@ resources:
   title: "Image #:counter"
 ---
 
-{{< imgproc hobbs Resize "512x">}}
-Robert Redford as Roy Hobbs in The Natural, released in 1984.
-{{< /imgproc >}}
-
 I sometimes see people asking how they can be more confident. For instance, how
 is it that I'm confident enough to start a new company right in the middle of
 the COVID-19 crisis?
@@ -23,6 +19,11 @@ that it will happen for you, that it will work out. True confidence is not that
 at all. True confidence is the solidly anchored knowledge that you will be fine,
 psychologically and physically fine, whether you do the thing not, whether it
 works out or not. 
+
+{{< imgproc hobbs Resize "512x">}}
+Robert Redford as Roy Hobbs in The Natural, released in 1984.
+{{< /imgproc >}}
+
 
 Imagine a baseball player at bat in the bottom of the ninth where one hit will
 win the game. If his self-worth is tied to winning the game, if everything
