@@ -21,8 +21,9 @@ mostly in the fields of Neuroscience and Biology.
 
 Read [my blog post](/blog/2020/08/02/open-source/) on how it has been
 working on open source as opposed to proprietary commercial software.
-Because the project is open source I can link to some documents I and pull
-requests that I've done for the project so far:
+
+Because the project is open source I can share some documents, pull
+requests and videos I've done for the project.
 
 **Documents:**
 * [Performance Backgrounder and Philosophy](https://napari.org/docs/explanations/performance.html)
@@ -32,8 +33,6 @@ requests that I've done for the project so far:
 * [Performance Monitoring](https://github.com/napari/napari/pull/1453)
 * [Asynchronous Image Loading](https://github.com/napari/napari/pull/1510)
 
-
-I recently recorded this demo video to show progress from my first three
-months of work on Napari:
+**Videos:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jlm_jGRwH2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
