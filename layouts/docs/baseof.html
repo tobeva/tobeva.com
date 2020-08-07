@@ -15,7 +15,7 @@
         <div class="col-12 col-md-auto col-xl-auto td-sidebar d-print-none">
           {{ partial "sidebar.html" . }}
         </div>
-        <main class="col-12 col-sm-12 col-md-7 col-xg-8 pl-md-3" role="main">
+        <main class="col-12 col-sm-12 col-md-7 col-lg-8 col-xl-8 pl-md-3" role="main">
           {{ partial "version-banner.html" . }}
           {{ if not .Site.Params.ui.breadcrumb_disable }}{{ partial "breadcrumb.html" . }}{{ end }}
           {{ block "main" . }}{{ end }}
