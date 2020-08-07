@@ -7,11 +7,11 @@ weight: 10
 type: docs
 nav:
     up:
-        label: "Past"
-        url: "/about/past/"
+        label: "Experience"
+        url: "/about/experience/"
     next:
         label: "Cloud"
-        url: "/about/past/cloud/"
+        url: "/about/experience/cloud/"
 ---
 
 ### FreeForm

@@ -8,13 +8,13 @@ type: docs
 nav:
     prev:
         label: "CAD"
-        url: "/about/past/cad/"
+        url: "/about/experience/cad/"
     up:
-        label: "Past"
-        url: "/about/past/"
+        label: "Experience"
+        url: "/about/experience/"
     next:
         label: "Neuroscience"
-        url: "/about/past/neuroscience/"
+        url: "/about/experience/neuroscience/"
 ---
 
 Fairly recently I worked on several generations of cloud-based data

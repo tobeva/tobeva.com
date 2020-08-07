@@ -8,13 +8,13 @@ type: docs
 nav:
     prev:
         label: "Cloud"
-        url: "/about/past/cloud/"
+        url: "/about/experience/cloud/"
     up:
-        label: "Past"
-        url: "/about/past/"
+        label: "Experience"
+        url: "/about/experience/"
     next:
         label: "Simulations"
-        url: "/about/past/simulations/"
+        url: "/about/experience/simulations/"
 ---
 
 For several years I worked at the [*Janelia Research

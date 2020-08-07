@@ -2,14 +2,14 @@
 ---
 title: "Writing"
 linkTitle: "Writing"
-description: "Posts and essays"
+description: "Writing in English, for humans"
 date: 2020-07-17
 weight: 60
 type: docs
 nav:
     prev:
-        label: "Past"
-        url: "/about/past/"
+        label: "Experience"
+        url: "/about/experience/"
     up:
         label: "About"
         url: "/about/"
@@ -25,6 +25,7 @@ influence many more people, on your own project or beyond.
 
 **Tobeva Software blog**:
 
+* [Open Source](/blog/2020/08/02/open-source/)
 * [True Confidence](/blog/2020/04/12/true-confidence/)
 * [Happy Birthday Tobeva Software](/blog/2020/04/10/happy-birthday-tobeva-software/)
 

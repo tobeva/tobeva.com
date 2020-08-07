@@ -4,7 +4,7 @@ title: "Philip Winston"
 linkTitle: "Philip Winston"
 description: "Founder of Tobeva Software"
 date: 2020-07-17
-weight: 1
+weight: 10
 type: docs
 nav:
     up:

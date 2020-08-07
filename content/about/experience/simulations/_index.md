@@ -8,13 +8,13 @@ type: docs
 nav:
     prev:
         label: "Neuroscience"
-        url: "/about/past/neuroscience/"
+        url: "/about/experience/neuroscience/"
     up:
-        label: "Past"
-        url: "/about/past/"
+        label: "Experience"
+        url: "/about/experience/"
     next:
         label: "Video Games"
-        url: "/about/past/videogames/"
+        url: "/about/experience/videogames/"
 ---
 
 I worked at [*MetaVR*](http://metavr.com) two separate times in my career

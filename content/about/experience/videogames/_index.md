@@ -8,10 +8,10 @@ type: docs
 nav:
     prev:
         label: "Simulations"
-        url: "/about/past/simulations/"
+        url: "/about/experience/simulations/"
     up:
-        label: "Past"
-        url: "/about/past/"
+        label: "Experience"
+        url: "/about/experience/"
 ---
 
 The first game I worked on at [Harmonix](https://www.harmonixmusic.com/)
