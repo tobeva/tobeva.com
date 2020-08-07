@@ -12,7 +12,9 @@ menu:
 
 **Consult** &middot; **Design** &middot; **Develop**
 
-![Scenic River Picture](river.jpg)
+{{< imgproc river Resize "600x">}}
+The Rapahannock River, Virginia, July 2017.
+{{< /imgproc >}}
 
 We are a small consulting and contracting company specializing in cloud
 data pipelines, high performance systems and computer graphics. We have
