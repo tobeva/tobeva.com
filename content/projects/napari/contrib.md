@@ -1,7 +1,7 @@
 ---
 title: "Napari Contributions"
 linkTitle: "Contributions"
-description: "Contributions we have made to the Napari project."
+description: "Contributions we've made to the Napari project."
 date: 2020-08-06
 weight: 50
 type: docs
