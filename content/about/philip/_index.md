@@ -20,17 +20,16 @@ nav:
 [LinkedIn Profile](http://linkedin.com/in/pwinston) &middot; [PDF Resume](/philip_winston_resume.pdf)
 
 Over the past 25 years I've worked in many different technical industries
-such as CAD, Haptics, Autonomous Vehicles, Cloud Data Pipelines,
+such as CAD and Haptics, Autonomous Vehicles, Cloud Data Pipelines,
 Neuroscience Research, Military Simulations and Videogames. Many of the
-systems have worked on have involved graphics, but not everything.
+systems I have worked on have involved graphics, but not all of them.
 
-I found over the years that working in graphics, games and simulations
-really hones your general software engineering skills. Rendering in
-real-time makes you mindful of the importance of performance and
-optimization, as well as teaching you how to evolve complex codebases over
-time. It also makes you empathetic towards the user's experience. However
-what you learn is retargetable, I spent three years recently working on
-cloud data processing found my experience translated well to that domain.
+I have found over the years that working in graphics, games and simulations
+really hones your general software engineering skills.
+
+Rendering in real-time makes you mindful of the importance of performance
+and optimization, as well as teaching you how to evolve complex codebases
+over time. It also makes you empathetic towards the user's experience.
 
 When working I try to blend hard-core engineering with pragmatism. In my
 opinion the goal of a software developer is to solve problems and create

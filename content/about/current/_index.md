@@ -18,7 +18,9 @@ nav:
         url: "/about/experience/"
 ---
 
-* Working for [The Chan Zuckerberg Initiative](https://chanzuckerberg.com/) on the [Napari](https://napari.org/) project. See our contributions including a nice demo video on our [Napari project page](/projects/napari).
+* Working on the [Napari Image Viewer](https://napari.org/) for [The Chan
+  Zuckerberg Initiative](https://chanzuckerberg.com/). See a nice demo
+  video on [our project page](/projects/napari) for details.
 
 * Writing some performance monitoring tools that use `chrome://tracing` for
   visualizing the runtime behavior of programs, similar to what we did for
@@ -26,10 +28,8 @@ nav:
 
 * Learning the [Rust](https://www.rust-lang.org/) programming language.
   
-* Setting up this website which is [public on
-  GitHub](https://github.com/tobeva/tobeva.com). You can even submit a PR
-  to propose a change to the site, such as adding a link to our [resources
-  section](/resources).
+* Setting up this website, the source is [public on
+  GitHub](https://github.com/tobeva/tobeva.com).
 
 {{< imgproc flowers Resize "512x" >}}
 Farmer's market and orchard near Winchester, Virginia, July 2020.
