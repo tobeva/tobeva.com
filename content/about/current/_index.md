@@ -2,7 +2,7 @@
 ---
 title: "Current Projects"
 linkTitle: "Current Projects"
-description: "Current Projects as of Summer 2020"
+description: "Current Projects as of Summer 2020."
 date: 2020-08-7
 weight: 15
 type: docs

@@ -2,7 +2,7 @@
 ---
 title: "Writing"
 linkTitle: "Writing"
-description: "Writing in English, for humans"
+description: "Writing in English, for humans."
 date: 2020-07-17
 weight: 60
 type: docs

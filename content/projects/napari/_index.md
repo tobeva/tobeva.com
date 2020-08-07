@@ -1,7 +1,7 @@
 ---
 title: "Napari Image Viewer"
 linkTitle: "Napari"
-description: "The Chan Zuckerberg Initiative"
+description: "The Chan Zuckerberg Initiative."
 date: 2020-07-17
 weight: 50
 type: docs

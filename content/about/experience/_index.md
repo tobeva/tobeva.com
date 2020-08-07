@@ -2,7 +2,7 @@
 ---
 title: "Experience"
 linkTitle: "Experience"
-description: "Twenty-five years of experience in various industries"
+description: "Twenty-five years of experience in various industries."
 date: 2020-07-17
 weight: 20
 type: docs
