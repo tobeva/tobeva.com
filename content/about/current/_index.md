@@ -32,5 +32,5 @@ nav:
   section](/resources).
 
 {{< imgproc flowers Resize "512x" >}}
-A farmer's market and orchard near Winchester, July 2020.
+Farmer's market and orchard near Winchester, Virginia, July 2020.
 {{< /imgproc >}}

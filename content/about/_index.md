@@ -13,7 +13,7 @@ menu:
 **Consult** &middot; **Design** &middot; **Develop**
 
 {{< imgproc river Resize "600x">}}
-The Rapahannock River, Virginia, July 2017.
+The Rappahannock River, Virginia, July 2017.
 {{< /imgproc >}}
 
 We are a small consulting and contracting company specializing in cloud

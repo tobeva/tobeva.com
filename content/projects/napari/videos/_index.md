@@ -1,7 +1,7 @@
 ---
-title: "Napari Demo Videos"
-linkTitle: "Demo Videos"
-description: "Demo of async loading work done for Napari."
+title: "Napari Demo Video"
+linkTitle: "Demo Video"
+description: "Demo of async loading with Napari."
 date: 2020-08-06
 weight: 50
 type: docs
