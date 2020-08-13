@@ -7,3 +7,4 @@ menu:
   main:
     weight: 20
 ---
+You can modify or add resources [on github](https://github.com/tobeva/tobeva.com).

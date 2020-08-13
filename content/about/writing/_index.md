@@ -23,13 +23,14 @@ influence many more people, on your own project or beyond.
 
 * [Napari Rendering Document](https://napari.org/docs/explanations/rendering.html)
 
-**Tobeva Software blog**:
+**Tobeva Software**:
 
+* [Brain Compatible Programming](/articles/brain-compatible-code/)
 * [Open Source](/blog/2020/08/02/open-source/)
 * [True Confidence](/blog/2020/04/12/true-confidence/)
 * [Happy Birthday Tobeva Software](/blog/2020/04/10/happy-birthday-tobeva-software/)
 
-**Philip's personal blog**:
+**Philip's Personal Blog**:
 
 * [The Future of Google's Streetview](https://www.kmeme.com/2010/10/future-of-googles-street-view.html)
 * [Press X To continue](https://www.kmeme.com/2015/12/press-x-to-continue.html)

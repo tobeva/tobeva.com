@@ -21,7 +21,6 @@ SciPy is a thriving ecosystem of Python software used for mathematics,
 science and engineering. SciPy is healthy part of the surge in popularity
 of Python over the last few years.
 
-
 {{< imgproc napari Resize "512x">}}
 The Napari multi-dimensional image viewer.
 {{< /imgproc >}}
