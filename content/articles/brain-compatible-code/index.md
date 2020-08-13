@@ -23,13 +23,13 @@ It appears to capture a deep truth about how our brains actually function.
 Many people are skeptical of the result because **seven** sounds like an
 absurdly small number. Surely if you are doing something complex, like
 writing software or planning a wedding, you are juggling dozens to hundreds
-of things? As it turns out you are not, at least not at each point in time.
+of things? As it turns out you are not, at least not at once.
 
 {{< imgproc pi Resize "512x">}}
 The first 225 digits of Pi.
 {{< /imgproc >}}
 
-In 2005 Lu Chao recited [67,890
+In 2005 **Lu Chao** recited [67,890
 digits](https://www.livescience.com/50134-pi-day-memory-experts.html) of
 Pi, a mind-boggling demonstration of a gifted and well-trained mind. Yet it
 turns out Chao has a [digit
@@ -53,15 +53,15 @@ are immediately rewarded with a high resolution view of exactly _what's
 over there_. We ask the question and we get an instant answer, so it feels
 like the answer was there the whole time.
 
+{{< imgproc fovea Resize "512x">}} This picture exaggerates how big the
+fovea is, it's actually only about as big as quarter held at arm's length.
+{{< /imgproc >}}
+
 Thinking is very much like vision which is not at all surprising since both
 use the same brain hardware. We can rapidly flit from idea to idea, from
 concept to concept, each time paging in the necessary details, but at no
 time do we have more than about nine individual things in the front of our
 minds.
-
-{{< imgproc fovea Resize "512x">}} This picture exaggerates how big the
-fovea is, it's actually only about as big as quarter held at arm's length.
-{{< /imgproc >}}
 
 How do we navigate a complex world with this seemingly gross limitation of
 working-memory? There are two primary ways:
@@ -69,7 +69,7 @@ working-memory? There are two primary ways:
 [hierarchy](https://en.wikipedia.org/wiki/Hierarchy).
 
 When we think of a **car** we naturally divide the car into a handful of high
-level groupings like the _engine_, the _dashboard_, the _seats_, the
+level chunks like the _engine_, the _dashboard_, the _seats_, the
 _wheels_. When we mentally zoom into the engine, however, it effortlessly
 resolves into more parts: the _engine block_, the _pistons_, the _spark
 plugs_. And we can keep zooming in, although interestingly how far we can
@@ -90,35 +90,41 @@ one else can understand. Even a novice, _especially_ a novice, can in a few
 weeks write software that literally no one of the planet can easily think
 or reason about. That's depressing but also kind of impressive in a way.
 
-Objects which have too many attributes are _one_ cause of software that's
-too complicated to understand. Some people's solution is throw out objects
-altogether, to give up on Object Oriented software. This is not a crazy
-idea, however most of the "flaws" of Object Oriented software are really
-the flaws of doing it poorly, and boy is it easy to do poorly.
+Objects which have too many attributes are one cause of software that's too
+complicated to understand. Some people's solution is throw out objects
+altogether, to give up on Object Oriented programming. This is not a crazy
+idea, there are [other
+ways](https://en.wikipedia.org/wiki/Functional_programming) to program and
+they do have advantages, but most of the flaws attributed to Object
+Oriented programming are really just fall out from doing it poorly, and boy
+is it easy to do poorly.
 
 {{< imgproc complex Resize "512x">}}
 Complexity grows without bound.
 {{< /imgproc >}}
 
 The key thing to realize is a single object with a lot of attributes is
-itself not Object Oriented, it's a 1970's style [Structured
+itself **not** Object Oriented. Instead it's a 1970's style [Structured
 Program](https://en.wikipedia.org/wiki/Structured_programming) in disguise.
 The attributes of the object are the **global variables** of the program,
-and the object's methods are the program's **functions** which can freely
-access those global variables.
+and the object's methods are the program's **functions**. Every function
+can freely access every global variable, which is a huge problem.
 
 A structured program with more than seven global variables is trouble, and
-if _each_ object in your program is a messy structured program, you are in
-serious trouble indeed. At a high level you are doing Object Oriented
-programming but at a low level you are right back back in the 1970's. No
-wonder it's not working.
+if many objects in your program are themselves messy structured programs,
+you are in serious trouble indeed. At a high level you are doing Object
+Oriented programming but at a low level you are right back back in the
+1970's dealing one bad program after the next. No wonder people throw in
+the towel.
 
 How do you we save this sinking ship? We save it by actively and
-aggressively keeping the number of attributes per object at or below seven.
-If you fail to do this you are punting a problem _to your future self_ that
-by definition your future self is going to have a hard time solving.
+aggressively **keeping the number of attributes per object at or below
+seven**. If you fail to do this you are punting the problem _to your future
+self_, a problem that by definition your future self is going to have a
+hard time solving!
 
-Just today I had a Python class called `PerfEvent` with these attributes:
+Just today I had a [Python](https://www.python.org/) class called
+`PerfEvent` with these attributes:
 
 {{<highlight python>}}
         self.name = name
@@ -132,10 +138,10 @@ Just today I had a Python class called `PerfEvent` with these attributes:
 {{< / highlight >}}
 
 That's eight attributes. Well eight is only one over the limit, let's wait
-until it gets bigger?  No, let's deal with it now. To reduce the number of
-attributes I introduced two new classes `Span` and `Origin`. Each class is
-trivial and only has two attributes, but now my original object has been
-slimmed down to six attributes, it is right-sized again:
+until it gets bigger?  No, let's deal with it **now**. To reduce the number
+of attributes we introduce two new classes `Span` and `Origin`. Each class
+is trivial and only has two attributes, but now the original object has
+been slimmed down to six attributes, all is well again:
 
 {{<highlight python>}}
         self.name = name
@@ -147,30 +153,29 @@ slimmed down to six attributes, it is right-sized again:
 {{< / highlight >}}
 
 Although it's a minor change, look at the before and after, it simply
-_looks_ better now, even if you look stand far enough away that you can't
-read what it says!
+_looks_ better, even if you look stand far back and squint.
 
-It seems minor but if you don't making these types of changes it will
+It seems minor but if you don't make these types of changes it will
 eventually lead to intractable complexity, the type of complexity that
 contributes to projects and companies failing, the type of complexity that
-seduces humans into wasting hundreds of millions if not billions of dollars
-every year.
+seduces humans into wasting hundreds of millions if not
+[billions](https://www.nytimes.com/2012/12/09/technology/air-force-stumbles-over-software-modernization-project.html)
+of dollars every year.
 
 The benefits of this change go far beyond just limiting the number of
 attributes. While accessing the attributes is slightly more verbose, I'd
 argue it's in fact clearer. When we access `self.span.start_ns` it's useful
 to know that `start_ns` is part of the `span`, and I like seeing that the
-`process_id` is part of the `owner` . 
+`process_id` is part of the `owner`. 
 
 Also we can now pass `Span`'s and `Owner`'s around to functions instead of
 having to pass variables in mysteriously inseparable pairs. We've
 introduced two natural and useful concepts that will pay dividends over and
-over in small but helpful ways.
-
-Even better think of how your code will grow over time, not just how it
-currently is today. Your single monolithic object has sprouted two buds,
-you can push functionality down into these buds so they can grow into
-branches, which later can sprout buds of their own.
+over in small but helpful ways, but even better think of how your code will
+grow over time, not just how it currently is today. Your single monolithic
+object has sprouted two buds, you can push functionality down into these
+buds so they can grow into branches, which later can sprout buds of their
+own.
 
 For example we can now create a `Span.get_duration_ns()` method. Again it
 seems incredibly minor, but writing `span.get_duration_ns()` is better than
@@ -189,9 +194,10 @@ A miniature <a href="https://en.wikipedia.org/wiki/Bonsai">Bonsai</a> tree.
 There is aesthetic value here, code like most human created artifacts can
 be beautiful, but the real payoff is if you assiduously tend to and groom
 this tree you will be creating a structure which cleanly maps one-to-one
-into your head, and the heads of other people. It's no accident that natural
-environments are more soothing than the made world: _they are in harmony
-with how our brains work_.
+into your head, and into the heads of other people. It's no accident that
+we find natural environments to be more soothing than the made world, the
+construction of the natural world is in harmony with our brains think about
+it.
 
 Feel good about your work, you are potentially making life easier for
 people pondering your code years and even decades from now, people you may
