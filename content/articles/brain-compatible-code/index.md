@@ -12,21 +12,22 @@ Two](http://psychclassics.yorku.ca/Miller/)* is the most widely cited paper
 in the 126 year history of the journal *[Psychological
 Review](https://en.wikipedia.org/wiki/Psychological_Review)*. The author
 [George A. Miller](https://en.wikipedia.org/wiki/George_Armitage_Miller) is
-considered one of the founders in the field of cognitive science.
+considered one of the founders in the field of cognitive science. His
+historic claim is you can only juggle between 5 and 9 things in your brain
+at any one time.
 
-His claim is you can only juggle between 5 and 9 things in your brain at
-any one time. To my knowledge, despite some
+To my knowledge, despite some
 [controversy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4486516/) over
-the years, this 7 &#x00B1; 2 figure has withstood the [reproducibility
+the years, this 7 &#x00B1; 2 figure has withstood the ongoing
+[reproducibility
 crisis](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)
-pretty well. It appears to capture a deep truth about how our brains
-actually function.
+intact. It appears to capture a deep truth about how our brains actually
+function, but many people are skeptical of the result because **seven**
+sounds like an absurdly small number.
 
-Many people are skeptical of the result because **seven** sounds like an
-absurdly small number. Surely if you are doing something complex like
-writing software, or planning a wedding for that matter, you are juggling
-dozens to hundreds of things? As it turns out you are not, at least not at
-once.
+Surely if you are doing something complex like writing software, or
+planning a wedding for that matter, you are juggling dozens to hundreds of
+things? As it turns out you are not. At least not at once.
 
 {{< imgproc pi Resize "512x">}}
 The first 225 digits of Pi.
@@ -34,19 +35,18 @@ The first 225 digits of Pi.
 
 In 2005 **Lu Chao** recited [67,890
 digits](https://www.livescience.com/50134-pi-day-memory-experts.html) of
-Pi, a mind-boggling demonstration of a gifted and well-trained mind. Yet it
-turns out Chao has a [digit
-span](https://en.wikipedia.org/wiki/Memory_span#Digit-span) of **8.83**.
-That's not a typo, just under nine digits. Given a series of random
-**single-digit** numbers he can on average recall less the than **nine
-digits** which fits perfectly within Miller's 7 &#x00B1; 2 finding.
+Pi, a mind-boggling demonstration of a gifted and well-trained mind. Yet
+given a series of random **single-digit** numbers he can on average recall
+less the than **nine digits**. To be exact he's been measured to have a
+[digit span](https://en.wikipedia.org/wiki/Memory_span#Digit-span) of
+**8.83** which fits perfectly within Miller's 7 &#x00B1; 2 finding.
 Amazing!
 
-Chao memorizes Pi the same way story tellers once memorized long tales about
-[Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh), yet for all his
-memory prowess he can only juggle a handful of things at one time. I find
-this actually to be very comforting, he is not a freak of nature, at
-least not as freaky as you first thought.
+Chao memorizes Pi the same way story tellers once memorized long tales
+about [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh), yet he can only
+juggle a handful of things at one time. I find this actually to be very
+comforting, he is not a freak of nature, at least not as freaky as you
+first thought.
 
 The illusion we can hold many things in mind is almost identical to the
 illusion that our field of view is high resolution everywhere. It's an
@@ -60,23 +60,23 @@ like the answer was there the whole time.
 fovea is, it's actually only about as big as quarter held at arm's length.
 {{< /imgproc >}}
 
-Thinking is very much like vision which is not at all surprising since both
-use the same brain hardware. We can rapidly flit from idea to idea, from
-concept to concept, each time paging in the necessary details, but at no
-time do we have more than about nine individual things in the front of our
-minds.
+Thinking in general works very much like vision. This is not surprising
+since it's all implemented using the same brain hardware. We can rapidly
+flit from idea to idea, from concept to concept, each time paging in the
+necessary details, but at no time do we have more than about nine
+individual things in the front of our minds.
 
-How do we navigate a complex world with this seemingly gross limitation of
+How do we navigate a complex world with this seemingly harsh limitation of
 working-memory? There are two primary ways:
 [chunking](https://en.wikipedia.org/wiki/Chunking_(psychology)) and
 [hierarchy](https://en.wikipedia.org/wiki/Hierarchy).
 
-When we think of a **car** we naturally divide the car into a handful of high
-level chunks like the _engine_, the _dashboard_, the _seats_, the
-_wheels_. When we mentally zoom into the engine, however, it effortlessly
-resolves into more parts: the _engine block_, the _pistons_, the _spark
-plugs_. And we can keep zooming in, although interestingly how far we can
-zoom highly depends on how much we know about cars and the world in general.
+When we think of a car we naturally divide the car into a handful of high
+level chunks like the _engine_, the _dashboard_, the _seats_, the _wheels_.
+When we mentally zoom into the engine, however, it effortlessly resolves
+into more parts: the _engine block_, the _pistons_, the _spark plugs_. And
+we can keep zooming in, although interestingly how far we can zoom highly
+depends on how much we know about cars and the world in general.
 
 In [Object Oriented
 Programming](https://en.wikipedia.org/wiki/Object-oriented_programming) one
@@ -118,14 +118,13 @@ A structured program with more than seven global variables is trouble, and
 if many objects in your program are themselves messy structured programs,
 you are in serious trouble indeed. At a high level you are doing Object
 Oriented Programming but at a low level you are right back back in the
-1970's dealing one bad program after the next. No wonder people throw in
-the towel.
+1970's struggling to deal with one bad program after the next.
 
-How do you we save this sinking ship? We save it by actively and
-aggressively **keeping the number of attributes per object at or below
-seven**. If you fail to do this you are punting the problem _to your future
-self_, a problem that by definition your future self is going to have a
-hard time solving!
+How do we save this sinking ship? We save it by actively and aggressively
+**keeping the number of attributes per object at or below seven**. If you
+fail to do this you are punting the problem _to your future self_, a
+problem that by definition your future self is going to have a hard time
+solving!
 
 Just today I had a [Python](https://www.python.org/) class called
 `PerfEvent` with these attributes:
@@ -143,9 +142,9 @@ Just today I had a [Python](https://www.python.org/) class called
 
 That's eight attributes. Well eight is only one over the limit, let's wait
 until it gets bigger?  No, let's deal with it **now**. To reduce the number
-of attributes we introduce two new classes `Span` and `Origin`. Each class
-is trivial and only has two attributes, but now the original object has
-been slimmed down to six attributes, all is well again:
+of attributes we introduce two new classes or structs `Span` and `Origin`.
+Each is trivial and only has two attributes, but now the original object
+has been slimmed down to six attributes, all is well again:
 
 {{<highlight python>}}
         self.name = name
@@ -161,10 +160,10 @@ _looks_ better, even if you look stand far back and squint.
 
 It seems minor but if you don't make these types of changes it will
 eventually lead to intractable complexity, the type of complexity that
-leadsg to projects and companies failing, the type of complexity that
-seduces humans into wasting hundreds of millions if not
-[billions](https://www.nytimes.com/2012/12/09/technology/air-force-stumbles-over-software-modernization-project.html)
-of dollars every year.
+leads to projects and companies failing, the type of complexity that
+seduces humans into wasting hundreds of millions if not [billions of
+dollars every
+year](https://spectrum.ieee.org/computing/software/why-software-fails).
 
 The benefits of this change go far beyond just limiting the number of
 attributes. While accessing the attributes is slightly more verbose, I'd
@@ -179,14 +178,16 @@ two buds, you can now push functionality down into these buds and they can
 grow into branches, which later can sprout buds of their own.
 
 For example we can now create a `Span.get_duration_ns()` method. Again it
-seems incredibly minor, but writing `span.get_duration_ns()` is better than
-writing `span.end_ns - span.start_ns` especially if we are going to do it
-over and over.
+seems
+ minor, but writing `span.get_duration_ns()` is better than writing
+`span.end_ns - span.start_ns` especially if we are going to do it over and
+over.
 
 The real magic though is that the benefits of being disciplined will accrue
 like [compound interest](https://youtu.be/GtaoP0skPWc), instead of one
 monolithic object no one can understand, you will create a beautiful tree
-which buds and sprouts and branches organically.
+which buds and sprouts and branches organically. And you will benefit from
+this better design every minute you are working on the software.
 
 {{< imgproc tree Resize "512x">}} 
 A miniature <a href="https://en.wikipedia.org/wiki/Bonsai">Bonsai</a> tree.
@@ -198,19 +199,20 @@ this tree you will be creating a structure which maps one-to-one into your
 head with minimal fuss and friction, and similarly into the heads of other
 people. It's no accident that we find natural environments to be more
 soothing than the made world, the construction of the natural world is more
-often in harmony with how our brains think about that world.
+often in harmony with how our brains think about that world, game
+recognizes game.
 
 Feel good about your work, you are potentially making life easier for
 people pondering your code years and even decades from now, perhaps even
 farther [into the future](https://archiveprogram.github.com/), people you
-may never meet. They will appreciate your kindness and attention to detail.
-Your sustained effort over time will create a system _you and others_ can
-**understand**, **maintain**, **debug** and **extend**. And the punchline
-is that it's not hard. In fact it's _easier_.
+may never meet. They will appreciate your effort and attention to detail.
+Over time will grow a system that _you and others_ can **understand**,
+**maintain**, **debug** and **extend**. And the punchline is that it's not
+hard. In fact it's _easier_.
 
 It's easier and more pleasant to work with something that's well crafted
 and simpatico with your thinking. It's hard and unpleasant to constantly
 wrestle with something you don't understand. Trim, prune and shape your
-objects early and often, your brain will thank you.
+objects early and often. Your brain will thank you.
 
 <hr>
