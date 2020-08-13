@@ -13,17 +13,17 @@ in the 126 year history of the journal *[Psychological
 Review](https://en.wikipedia.org/wiki/Psychological_Review)*. The author
 [George A. Miller](https://en.wikipedia.org/wiki/George_Armitage_Miller) is
 considered one of the founders in the field of cognitive science. His
-historic claim is you can only juggle between 5 and 9 things in your brain
-at any one time.
+historic claim is that **you can only juggle between 5 and 9 things in your
+brain at any one time**.
 
 To my knowledge, despite some
 [controversy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4486516/) over
 the years, this 7 &#x00B1; 2 figure has withstood the ongoing
 [reproducibility
 crisis](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)
-intact. It appears to capture a deep truth about how our brains actually
-function, but many people are skeptical of the result because **seven**
-sounds like an absurdly small number.
+and it appears to capture a deep truth about how our brains actually
+function. However many people are immediately skeptical of the result
+because **seven** sounds like an absurdly small number.
 
 Surely if you are doing something complex like writing software, or
 planning a wedding for that matter, you are juggling dozens to hundreds of
@@ -66,8 +66,8 @@ flit from idea to idea, from concept to concept, each time paging in the
 necessary details, but at no time do we have more than about nine
 individual things in the front of our minds.
 
-How do we navigate a complex world with this seemingly harsh limitation of
-working-memory? There are two primary ways:
+How do we navigate a complex world with this seemingly draconian limit on
+the size of our working memory? Two tools that we use are
 [chunking](https://en.wikipedia.org/wiki/Chunking_(psychology)) and
 [hierarchy](https://en.wikipedia.org/wiki/Hierarchy).
 
@@ -75,8 +75,8 @@ When we think of a car we naturally divide the car into a handful of high
 level chunks like the _engine_, the _dashboard_, the _seats_, the _wheels_.
 When we mentally zoom into the engine, however, it effortlessly resolves
 into more parts: the _engine block_, the _pistons_, the _spark plugs_. And
-we can keep zooming in, although interestingly how far we can zoom highly
-depends on how much we know about cars and the world in general.
+we can keep zooming in, although how far we can zoom in highly depends on
+how much we know about cars and the world in general.
 
 In [Object Oriented
 Programming](https://en.wikipedia.org/wiki/Object-oriented_programming) one
@@ -84,23 +84,23 @@ of the simplest ways to tame complexity is to limit your objects to around
 seven _attributes_, where attributes are sometimes called _member
 variables_ or _fields_. Many programmers immediately balk at this
 suggestion. Sure, that works for toy examples, but I'm writing serious
-software and my objects sometimes need 10, 20 or 50 attributes! That's how
-serious my code is!
+software and my objects sometimes need 10, 20 or 50 attributes. You must be
+working on easy stuff, my problems and my code are special and different!
 
 The biggest trap of software development is that it's easy, trivial in
 fact, to write software that you yourself cannot understand, and in turn no
 one else can understand. Even a novice, _especially_ a novice, can in a few
 weeks write software that literally no one of the planet can easily think
 or reason about. That's depressing but also kind of impressive in a way.
+With great power comes great responsibility.
 
-Objects which have too many attributes are one cause of software that's too
-complicated to understand. Some people's solution is throw out objects
+Objects which have too many attributes are a major cause of software that's
+too complicated to understand. Some people's solution is throw out objects
 altogether, to give up on Object Oriented Programming. This is not a crazy
-idea, there are [other
-ways](https://en.wikipedia.org/wiki/Functional_programming) to program and
-they do have advantages, but most of the flaws attributed to Object
-Oriented Programming are due to doing it poorly, and boy is it easy to do
-poorly.
+idea, there are [other ways](/resources/technical/programming/functional/)
+to program and they do have advantages, but most of the flaws attributed to
+Object Oriented Programming are due to doing it poorly, and boy is it easy
+to do poorly.
 
 {{< imgproc complex Resize "512x">}}
 Complexity grows without bound.
@@ -111,14 +111,14 @@ itself **not** Object Oriented. Instead it's a 1970's style [Structured
 Program](https://en.wikipedia.org/wiki/Structured_programming) in disguise.
 The attributes of the object are the **global variables** of the program,
 and the object's methods are the program's **functions**. Every function
-can freely access every global variable which is what leads to all the
+can freely access every global variable which is what leads to many of the
 problems.
 
 A structured program with more than seven global variables is trouble, and
 if many objects in your program are themselves messy structured programs,
 you are in serious trouble indeed. At a high level you are doing Object
 Oriented Programming but at a low level you are right back back in the
-1970's struggling to deal with one bad program after the next.
+1970's struggling to deal with one confusing program after the next.
 
 How do we save this sinking ship? We save it by actively and aggressively
 **keeping the number of attributes per object at or below seven**. If you
@@ -156,7 +156,7 @@ has been slimmed down to six attributes, all is well again:
 {{< / highlight >}}
 
 Although it's a minor change, look at the before and after, it simply
-_looks_ better, even if you look stand far back and squint.
+_looks_ better, even if you stand far back and squint.
 
 It seems minor but if you don't make these types of changes it will
 eventually lead to intractable complexity, the type of complexity that
@@ -165,50 +165,51 @@ seduces humans into wasting hundreds of millions if not [billions of
 dollars every
 year](https://spectrum.ieee.org/computing/software/why-software-fails).
 
-The benefits of this change go far beyond just limiting the number of
-attributes. While accessing the attributes is slightly more verbose, I'd
-argue it's clearer, I like the sound of `self.span.start_ns` compared to
-just `self.start_ns`, but more importantly we can now pass `Span`'s and
-`Owner`'s to functions, slimming down and chunking their argument lists.
+The benefits introducing sub-objects goes far beyond just reducing the
+number of attributes. While accessing the attributes is slightly more
+verbose, I like the sound of `self.span.start_ns` compared to just
+`self.start_ns`, but more importantly we can now pass `Span`'s and
+`Owner`'s to functions, slimming down and chunking _their_ argument lists.
 
 We've introduced two natural and useful concepts that will pay ongoing
-dividends, but even better think of how your code will grow over time, not
-just how it currently is today. Your single monolithic object has sprouted
-two buds, you can now push functionality down into these buds and they can
-grow into branches, which later can sprout buds of their own.
+dividends, but even better don't just think of how your code is today,
+think about how it's going to grow over time. Your single monolithic object
+has sprouted two buds. You can now push functionality down into these buds
+and they can grow into branches, which later can sprout buds of their own.
 
-For example we can now create a `Span.get_duration_ns()` method. Again it
-seems
- minor, but writing `span.get_duration_ns()` is better than writing
-`span.end_ns - span.start_ns` especially if we are going to do it over and
-over.
+For example now we can create a new `get_duration_ns()` method. Again it
+seems minor, but writing `span.get_duration_ns()` is better than writing
+`span.end_ns - span.start_ns` especially if you are going to do that in
+many different places.
 
 The real magic though is that the benefits of being disciplined will accrue
 like [compound interest](https://youtu.be/GtaoP0skPWc), instead of one
-monolithic object no one can understand, you will create a beautiful tree
-which buds and sprouts and branches organically. And you will benefit from
-this better design every minute you are working on the software.
+monolithic object no one can understand you will create a beautiful tree
+which buds and sprouts and branches organically. You will benefit from this
+better design every minute you are working on the software, and the
+software will benefit greatly over time from your improved ability to do
+your work.
 
 {{< imgproc tree Resize "512x">}} 
 A miniature <a href="https://en.wikipedia.org/wiki/Bonsai">Bonsai</a> tree.
 {{< /imgproc >}}
 
-There is aesthetic value here, code like most human created artifacts can
-be beautiful, but the real payoff is if you assiduously tend to and groom
-this tree you will be creating a structure which maps one-to-one into your
-head with minimal fuss and friction, and similarly into the heads of other
-people. It's no accident that we find natural environments to be more
-soothing than the made world, the construction of the natural world is more
-often in harmony with how our brains think about that world, game
-recognizes game.
+There is an aesthetic pay off here. Code, like most human created
+artifacts, can be beautiful. However the real jackpot is that if you
+assiduously tend and groom this tree you will be creating a structure which
+maps into your head with minimal fuss and friction, and similarly into the
+heads of other people.
 
-Feel good about your work, you are potentially making life easier for
-people pondering your code years and even decades from now, perhaps even
-farther [into the future](https://archiveprogram.github.com/), people you
-may never meet. They will appreciate your effort and attention to detail.
-Over time will grow a system that _you and others_ can **understand**,
-**maintain**, **debug** and **extend**. And the punchline is that it's not
-hard. In fact it's _easier_.
+It's no accident that we find natural environments to be more soothing than
+the made world. The design of the natural world is more often in harmony
+with how our brains think about that world. Game recognizes game.
+
+Over time you will grow a system that _you and others_ can **understand**,
+**maintain**, **debug** and **extend**. People looking at your code years
+from now, maybe even those living in the [far
+future](https://archiveprogram.github.com/), will appreciate your diligence
+and hard work. And the punchline is doing all this is not hard. In fact
+it's _much easier_ than not doing it.
 
 It's easier and more pleasant to work with something that's well crafted
 and simpatico with your thinking. It's hard and unpleasant to constantly
