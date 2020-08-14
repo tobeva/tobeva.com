@@ -81,7 +81,7 @@ how much we know about cars and the world in general.
 In [Object Oriented
 Programming](https://en.wikipedia.org/wiki/Object-oriented_programming) one
 of the simplest ways to tame complexity is to limit your objects to around
-seven _attributes_, where attributes are the same things as _member
+seven _attributes_. In some languages attributes are called _member
 variables_ or _fields_. Many programmers immediately balk at this
 suggestion. Sure, that works for toy examples, but I'm writing serious
 software and my objects sometimes need 10, 20 or 50 attributes. You must be
@@ -179,18 +179,17 @@ think about how it's going to grow over time. Your single monolithic object
 has sprouted two buds. You can now push functionality down into these buds,
 and they can grow into branches, which later can sprout buds of their own.
 
-For example now we can create a new `get_duration_ns()` method. Again it
-seems minor, but writing `span.get_duration_ns()` is better than writing
+For example we can now give `Span` a `get_duration_ns()` method. Again it seems
+minor, but writing `span.get_duration_ns()` is better than writing
 `span.end_ns - span.start_ns` especially if you are going to do that in
 many different places.
 
 The real magic though is that the benefits of being disciplined will accrue
-like [compound interest](https://youtu.be/GtaoP0skPWc), instead of one
-monolithic object no one can understand you will create a intricately
-structured tree which buds and sprouts and branches organically. You will
-benefit from this better design every minute you are working on the
-software, and the software will benefit greatly over time from your
-improved mood and ability to sustain focus.
+like [compound interest](https://youtu.be/GtaoP0skPWc) as you convert your
+monolithic object into an intricately structured tree which buds and
+sprouts and branches organically. You will benefit from this better design
+every minute you are working on the software, and the software will benefit
+greatly from your improved mood and ability to sustain focus.
 
 {{< imgproc tree Resize "350x">}} 
 A miniature <a href="https://en.wikipedia.org/wiki/Bonsai">Bonsai</a> tree.
@@ -198,20 +197,21 @@ A miniature <a href="https://en.wikipedia.org/wiki/Bonsai">Bonsai</a> tree.
 
 Code, like most human created artifacts, can be beautiful, so there is an
 aesthetic pay off here, but the real jackpot is that if you assiduously
-tend and groom this tree you will create something that slides into your
-head with minimal fuss and friction, and slides similarly into the heads of
-other people.
+tend and groom this tree you will create a software design that slides into
+your head with minimal fuss and friction, and slides similarly into the
+heads of other people.
 
 It's no accident that we find natural environments to be more soothing than
-the made world. The design of the natural world is more often in harmony
-with how our brains think about that world. Game recognizes game.
+the made world, than the concrete jungle. The design of the natural world
+tends to be more in harmony with how our brains think about that world.
+Game recognizes game.
 
 Over time, you will grow a system that you and others can **understand**,
-**maintain**, **debug** and **extend**. People looking at your code years
+**maintain**, **debug** and **extend**. When people look at your code years
 from now, maybe even in the [far
-future](https://archiveprogram.github.com/), will appreciate your diligence
-and hard work. And the punchline is doing all this is not hard. In fact,
-it's _much easier_ to this work than to not do it.
+future](https://archiveprogram.github.com/), they will benefit from your
+diligence and hard work. And the punchline is doing all this is not hard.
+In fact, it's _much easier_ to do this work than not to not do it.
 
 It's easier and more pleasant to work with something that's well crafted
 and simpatico with your thinking. It's hard and unpleasant to constantly
