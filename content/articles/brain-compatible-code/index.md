@@ -13,8 +13,8 @@ in the 126 year history of the journal *[Psychological
 Review](https://en.wikipedia.org/wiki/Psychological_Review)*. The author
 [George A. Miller](https://en.wikipedia.org/wiki/George_Armitage_Miller) is
 considered one of the founders in the field of cognitive science. His
-historic claim is that **you can only juggle between 5 and 9 things in your
-brain at any one time**.
+historic claim is that you can only juggle **between 5 and 9 things** in
+your brain at any one time.
 
 To my knowledge, despite some
 [controversy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4486516/) over
@@ -22,12 +22,13 @@ the years, this 7 &#x00B1; 2 figure has withstood the ongoing
 [reproducibility
 crisis](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)
 and it appears to capture a deep truth about how our brains actually
-function, yet many people are immediately skeptical of the result because
-seven sounds like an absurdly small number.
+function.
 
-Surely if you are doing something complex like writing software, or
-planning a wedding for that matter, you are juggling dozens to hundreds of
-things? As it turns out you are not. At least not at once.
+Many people are skeptical of the claim because seven sounds like an
+absurdly small number, surely if you are doing something complex like
+writing software, or planning a wedding for that matter, you are juggling
+dozens to hundreds of things? As it turns out you are not. At least not at
+once.
 
 {{< imgproc pi Resize "250x">}}
 The first 225 digits of <a href="https://dancohen.org/2010/03/08/the-last-digit-of-pi/">Pi</a>.
@@ -37,10 +38,9 @@ In 2005 **Lu Chao** recited [67,890
 digits](https://www.livescience.com/50134-pi-day-memory-experts.html) of
 Pi, a mind-boggling demonstration of a gifted and well-trained mind. Yet
 given a series of random single-digit numbers he can on average recall less
-the than nine. As in nine digits. To be exact he's been measured to have a
-[digit span](https://en.wikipedia.org/wiki/Memory_span#Digit-span) of
-8.83 which fits perfectly within Miller's 7 &#x00B1; 2 finding.
-Amazing!
+the than nine of them, to be exact he's been measured to have a [digit
+span](https://en.wikipedia.org/wiki/Memory_span#Digit-span) of 8.83 which
+fits perfectly within Miller's finding. Amazing!
 
 Chao memorizes Pi the same way story tellers once memorized long tales
 about [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh), yet he can only
@@ -49,12 +49,12 @@ comforting, he is not a freak of nature, at least not as freaky as you
 first thought.
 
 The illusion we can hold many things in mind is almost identical to the
-illusion that our field of view is high resolution everywhere. It's an
-incredibly compelling because the instant we wonder _what's over
-there_, we do a quick [saccade](https://en.wikipedia.org/wiki/Saccade) and
-are immediately rewarded with a high resolution view of exactly _what's
-over there_. We ask the question and we get an instant answer, so it feels
-like the answer was there the whole time.
+illusion that our field of view is high resolution everywhere. It's
+incredibly compelling because the instant we wonder _what's over there_ we
+do a quick [saccade](https://en.wikipedia.org/wiki/Saccade) and are
+immediately rewarded with a high resolution view of exactly _what's over
+there_. We ask the question and we get an instant answer, so it feels like
+the answer was there the whole time.
 
 {{< imgproc fovea Resize "512x">}} This picture exaggerates how big the
 fovea is, it's actually only about as big as quarter held at arm's length.
@@ -81,7 +81,7 @@ how much we know about cars and the world in general.
 In [Object Oriented
 Programming](https://en.wikipedia.org/wiki/Object-oriented_programming) one
 of the simplest ways to tame complexity is to limit your objects to around
-seven _attributes_, where attributes are sometimes called _member
+seven _attributes_, where attributes are the same things as _member
 variables_ or _fields_. Many programmers immediately balk at this
 suggestion. Sure, that works for toy examples, but I'm writing serious
 software and my objects sometimes need 10, 20 or 50 attributes. You must be
@@ -99,9 +99,9 @@ Objects which have too many attributes are a major cause of software that's
 too complicated to understand. Some people conclude the problem is Object
 Oriented Programming itself. This is not a crazy idea, there are [other
 ways](/resources/technical/programming/functional/) to program, and they do
-have advantages, but I can attest first hand that most of the flaws
-attributed to Object Oriented Programming stem from having done it poorly,
-and boy is it easy to do poorly.
+have advantages, but in my experience most of the flaws attributed to
+Object Oriented Programming stem from having done it poorly, and boy is it
+easy to do poorly.
 
 {{< imgproc complex Resize "350x">}}
 Complexity grows without bound.
@@ -199,14 +199,14 @@ A miniature <a href="https://en.wikipedia.org/wiki/Bonsai">Bonsai</a> tree.
 Code, like most human created artifacts, can be beautiful, so there is an
 aesthetic pay off here, but the real jackpot is that if you assiduously
 tend and groom this tree you will create something that slides into your
-head with minimal fuss and friction, and similarly into the heads of other
-people.
+head with minimal fuss and friction, and slides similarly into the heads of
+other people.
 
 It's no accident that we find natural environments to be more soothing than
 the made world. The design of the natural world is more often in harmony
 with how our brains think about that world. Game recognizes game.
 
-Over time, you will grow a system that _you and others_ can **understand**,
+Over time, you will grow a system that you and others can **understand**,
 **maintain**, **debug** and **extend**. People looking at your code years
 from now, maybe even in the [far
 future](https://archiveprogram.github.com/), will appreciate your diligence
