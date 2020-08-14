@@ -50,7 +50,7 @@ first thought.
 
 The illusion we can hold many things in mind is almost identical to the
 illusion that our field of view is high resolution everywhere. It's an
-incredibly compelling illusion because the instant we wonder _what's over
+incredibly compelling because the instant we wonder _what's over
 there_, we do a quick [saccade](https://en.wikipedia.org/wiki/Saccade) and
 are immediately rewarded with a high resolution view of exactly _what's
 over there_. We ask the question and we get an instant answer, so it feels
@@ -125,7 +125,7 @@ How do we save this sinking ship? We save it by actively and aggressively
 keeping the number of attributes per object **at or below seven**. If you
 fail to do this you are punting the problem _to your future self_, a
 problem that by definition your future self is going to have a hard time
-solving!
+solving.
 
 Just today I had a [Python](https://www.python.org/) class called
 `PerfEvent` with these attributes:
@@ -141,11 +141,12 @@ Just today I had a [Python](https://www.python.org/) class called
         self.phase = phase
 {{< / highlight >}}
 
-That's eight attributes. Well eight is only one over the limit, let's wait
-until it gets bigger?  No, let's deal with it **now**. To reduce the number
-of attributes we introduce two new classes or structs `Span` and `Origin`.
-Each is trivial and only has two attributes, but now the original object
-has been slimmed down to six attributes, all is well again:
+That's eight attributes, since eight is only one over the limit, should we
+wait until the object grows bigger? No, let's deal with it _now_. To
+reduce the number of attributes we introduce two new classes or structs
+`Span` and `Origin`. Each is trivial and only has two attributes, but now
+the original object has been slimmed down to six attributes, all is well
+again:
 
 {{<highlight python>}}
         self.name = name
@@ -185,21 +186,21 @@ many different places.
 
 The real magic though is that the benefits of being disciplined will accrue
 like [compound interest](https://youtu.be/GtaoP0skPWc), instead of one
-monolithic object no one can understand you will create a beautiful tree
-which buds and sprouts and branches organically. You will benefit from this
-better design every minute you are working on the software, and the
-software will benefit greatly over time from your improved mood and ability
-to sustain focus.
+monolithic object no one can understand you will create a intricately
+structured tree which buds and sprouts and branches organically. You will
+benefit from this better design every minute you are working on the
+software, and the software will benefit greatly over time from your
+improved mood and ability to sustain focus.
 
 {{< imgproc tree Resize "350x">}} 
 A miniature <a href="https://en.wikipedia.org/wiki/Bonsai">Bonsai</a> tree.
 {{< /imgproc >}}
 
 Code, like most human created artifacts, can be beautiful, so there is an
-aesthetic pay off to doing this well. The real jackpot though is that if
-you assiduously tend and groom this tree you will be creating a structure
-which maps into your head with minimal fuss and friction, and similarly
-into the heads of other people.
+aesthetic pay off here, but the real jackpot is that if you assiduously
+tend and groom this tree you will create something that slides into your
+head with minimal fuss and friction, and similarly into the heads of other
+people.
 
 It's no accident that we find natural environments to be more soothing than
 the made world. The design of the natural world is more often in harmony
