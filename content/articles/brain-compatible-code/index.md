@@ -22,8 +22,8 @@ the years, this 7 &#x00B1; 2 figure has withstood the ongoing
 [reproducibility
 crisis](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)
 and it appears to capture a deep truth about how our brains actually
-function. However many people are immediately skeptical of the result
-because **seven** sounds like an absurdly small number.
+function, yet many people are immediately skeptical of the result because
+seven sounds like an absurdly small number.
 
 Surely if you are doing something complex like writing software, or
 planning a wedding for that matter, you are juggling dozens to hundreds of
@@ -36,11 +36,11 @@ The first 225 digits of <a href="https://dancohen.org/2010/03/08/the-last-digit-
 In 2005 **Lu Chao** recited [67,890
 digits](https://www.livescience.com/50134-pi-day-memory-experts.html) of
 Pi, a mind-boggling demonstration of a gifted and well-trained mind. Yet
-given a series of random **single-digit** numbers he can on average recall
-less the than **nine**. As in nine digits. To be exact he's been measured
-to have a [digit
-span](https://en.wikipedia.org/wiki/Memory_span#Digit-span) of **8.83**
-which fits perfectly within Miller's 7 &#x00B1; 2 finding. Amazing!
+given a series of random single-digit numbers he can on average recall less
+the than nine. As in nine digits. To be exact he's been measured to have a
+[digit span](https://en.wikipedia.org/wiki/Memory_span#Digit-span) of
+8.83 which fits perfectly within Miller's 7 &#x00B1; 2 finding.
+Amazing!
 
 Chao memorizes Pi the same way story tellers once memorized long tales
 about [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh), yet he can only
@@ -61,13 +61,13 @@ fovea is, it's actually only about as big as quarter held at arm's length.
 {{< /imgproc >}}
 
 Thinking in general works very much like vision. This is not surprising
-since it's all implemented using the same brain hardware. We can rapidly
-flit from idea to idea, from concept to concept, each time paging in the
-necessary details, but at no time do we have more than about nine
-individual things in the front of our minds.
+since it's implemented using the same brain hardware. As we rapidly flit
+from idea to idea, from concept to concept, we page in the necessary
+details, but at no time do we have more than about nine individual things
+in the front of our minds.
 
-How do we navigate a complex world with this seemingly draconian limit on
-the size of our working memory? Two tools that we use are
+How do we navigate a complex world with this seemingly crippling limit on
+the size of our working memory? Two of the primary tools that we use are
 [chunking](https://en.wikipedia.org/wiki/Chunking_(psychology)) and
 [hierarchy](https://en.wikipedia.org/wiki/Hierarchy).
 
@@ -96,7 +96,7 @@ or reason about. That's depressing but also kind of impressive in a way.
 With great power comes great responsibility.
 
 Objects which have too many attributes are a major cause of software that's
-too complicated to understand. Some people conlude the problem is Object
+too complicated to understand. Some people conclude the problem is Object
 Oriented Programming itself. This is not a crazy idea, there are [other
 ways](/resources/technical/programming/functional/) to program and they do
 have advantages, but I can attest first hand that most of the flaws
@@ -108,7 +108,7 @@ Complexity grows without bound.
 {{< /imgproc >}}
 
 The key thing to realize is a single object with a lot of attributes is
-itself **not** Object Oriented. Instead it's a 1970's style [Structured
+itself _not_ Object Oriented. Instead it's a 1970's style [Structured
 Program](https://en.wikipedia.org/wiki/Structured_programming) in disguise.
 The attributes of the object are the **global variables** of the program,
 and the object's methods are the program's **functions**. Every function
@@ -116,13 +116,13 @@ can freely access every global variable which is what's behind most of the
 problems.
 
 A structured program with more than seven global variables is trouble, and
-if many objects in your program are themselves messy structured programs,
+if many objects in your program are effectivelly messy structured programs,
 you are in serious trouble indeed. At a high level you are doing Object
 Oriented Programming but at a low level you are right back in the 1970's
 struggling to deal with one confusing program after the next.
 
 How do we save this sinking ship? We save it by actively and aggressively
-**keeping the number of attributes per object at or below seven**. If you
+keeping the number of attributes per object **at or below seven**. If you
 fail to do this you are punting the problem _to your future self_, a
 problem that by definition your future self is going to have a hard time
 solving!
@@ -195,11 +195,11 @@ to sustain focus.
 A miniature <a href="https://en.wikipedia.org/wiki/Bonsai">Bonsai</a> tree.
 {{< /imgproc >}}
 
-There is an aesthetic pay off here. Code, like most human created
-artifacts, can be beautiful. However the real jackpot is that if you
-assiduously tend and groom this tree you will be creating a structure which
-maps into your head with minimal fuss and friction, and similarly into the
-heads of other people.
+Code, like most human created artifacts, can be beautiful, so there is an
+aesthetic pay off to doing this well. The real jackpot though is that if
+you assiduously tend and groom this tree you will be creating a structure
+which maps into your head with minimal fuss and friction, and similarly
+into the heads of other people.
 
 It's no accident that we find natural environments to be more soothing than
 the made world. The design of the natural world is more often in harmony
