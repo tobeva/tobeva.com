@@ -27,7 +27,7 @@ sold by [3D Systems](https://www.3dsystems.com/).
 A very detailed model carved with FreeForm.
 {{< /imgproc >}}
 
-FreeForm was a complex application written entirely in C++ with close a
+FreeForm was a complex application written entirely in C++ with close to a
 million lines when I left. I worked on many aspects of FreeFrom from the UI
 to graphics to haptics and I was a member of the four-person architecture
 board. We learned many lessons about design, architecture, code quality,
