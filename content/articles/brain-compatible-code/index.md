@@ -29,8 +29,8 @@ Surely if you are doing something complex like writing software, or
 planning a wedding for that matter, you are juggling dozens to hundreds of
 things? As it turns out you are not. At least not at once.
 
-{{< imgproc pi Resize "512x">}}
-Above is the first 225 digits of Pi. What's the <a href="https://dancohen.org/2010/03/08/the-last-digit-of-pi/">last digit</a> of Pi?
+{{< imgproc pi Resize "250x">}}
+The first 225 digits of <a href="https://dancohen.org/2010/03/08/the-last-digit-of-pi/">Pi</a>.
 {{< /imgproc >}}
 
 In 2005 **Lu Chao** recited [67,890
@@ -103,7 +103,7 @@ have advantages, but I can attest first hand that most of the flaws
 attributed to Object Oriented Programming stem from having done it poorly,
 and boy is it easy to do poorly.
 
-{{< imgproc complex Resize "512x">}}
+{{< imgproc complex Resize "350x">}}
 Complexity grows without bound.
 {{< /imgproc >}}
 
@@ -191,7 +191,7 @@ better design every minute you are working on the software, and the
 software will benefit greatly over time from your improved mood and ability
 to sustain focus.
 
-{{< imgproc tree Resize "512x">}} 
+{{< imgproc tree Resize "350x">}} 
 A miniature <a href="https://en.wikipedia.org/wiki/Bonsai">Bonsai</a> tree.
 {{< /imgproc >}}
 
