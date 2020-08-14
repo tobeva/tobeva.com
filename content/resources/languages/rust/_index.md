@@ -29,3 +29,7 @@ nav:
   * Bare-metal performance for high-level APIs such as NumPy and Pandas.
 * [Shoumik Palkar](https://shoumik.xyz/)
   * Creator of Weld, PhD at Stanford, now at [Databricks](https://databricks.com/).
+
+**Interesting Projects**
+* [Bevy](https://bevyengine.org/news/introducing-bevy/) a data-driven game engine.
+* [Single Page Applications](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/) using Rust+WASM for web development.
