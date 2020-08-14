@@ -12,7 +12,7 @@ menu:
 
 **Consult** &middot; **Design** &middot; **Develop**
 
-{{< imgproc river Resize "600x">}}
+{{< imgproc river Resize "425x">}}
 The Rappahannock River, Virginia, July 2017.
 {{< /imgproc >}}
 
