@@ -37,10 +37,10 @@ In 2005 **Lu Chao** recited [67,890
 digits](https://www.livescience.com/50134-pi-day-memory-experts.html) of
 Pi, a mind-boggling demonstration of a gifted and well-trained mind. Yet
 given a series of random **single-digit** numbers he can on average recall
-less the than **nine digits**. To be exact he's been measured to have a
-[digit span](https://en.wikipedia.org/wiki/Memory_span#Digit-span) of
-**8.83** which fits perfectly within Miller's 7 &#x00B1; 2 finding.
-Amazing!
+less the than **nine**. As in nine digits. To be exact he's been measured
+to have a [digit
+span](https://en.wikipedia.org/wiki/Memory_span#Digit-span) of **8.83**
+which fits perfectly within Miller's 7 &#x00B1; 2 finding. Amazing!
 
 Chao memorizes Pi the same way story tellers once memorized long tales
 about [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh), yet he can only
@@ -85,7 +85,8 @@ seven _attributes_, where attributes are sometimes called _member
 variables_ or _fields_. Many programmers immediately balk at this
 suggestion. Sure, that works for toy examples, but I'm writing serious
 software and my objects sometimes need 10, 20 or 50 attributes. You must be
-working on easy stuff, my problems and my code are special and different!
+working on easy stuff, they will say, my problems and my code are special
+and different!
 
 The biggest trap of software development is that it's easy, trivial in
 fact, to write software that you yourself cannot understand, and in turn no
@@ -95,12 +96,12 @@ or reason about. That's depressing but also kind of impressive in a way.
 With great power comes great responsibility.
 
 Objects which have too many attributes are a major cause of software that's
-too complicated to understand. Some people's solution is throw out objects
-altogether, to give up on Object Oriented Programming. This is not a crazy
-idea, there are [other ways](/resources/technical/programming/functional/)
-to program and they do have advantages, but most of the flaws attributed to
-Object Oriented Programming are due to doing it poorly, and boy is it easy
-to do poorly.
+too complicated to understand. Some people conlude the problem is Object
+Oriented Programming itself. This is not a crazy idea, there are [other
+ways](/resources/technical/programming/functional/) to program and they do
+have advantages, but I can attest first hand that most of the flaws
+attributed to Object Oriented Programming stem from having done it poorly,
+and boy is it easy to do poorly.
 
 {{< imgproc complex Resize "512x">}}
 Complexity grows without bound.
@@ -111,14 +112,14 @@ itself **not** Object Oriented. Instead it's a 1970's style [Structured
 Program](https://en.wikipedia.org/wiki/Structured_programming) in disguise.
 The attributes of the object are the **global variables** of the program,
 and the object's methods are the program's **functions**. Every function
-can freely access every global variable which is what leads to many of the
+can freely access every global variable which is what's behind most of the
 problems.
 
 A structured program with more than seven global variables is trouble, and
 if many objects in your program are themselves messy structured programs,
 you are in serious trouble indeed. At a high level you are doing Object
-Oriented Programming but at a low level you are right back back in the
-1970's struggling to deal with one confusing program after the next.
+Oriented Programming but at a low level you are right back in the 1970's
+struggling to deal with one confusing program after the next.
 
 How do we save this sinking ship? We save it by actively and aggressively
 **keeping the number of attributes per object at or below seven**. If you
@@ -162,10 +163,10 @@ It seems minor but if you don't make these types of changes it will
 eventually lead to intractable complexity, the type of complexity that
 leads to projects and companies failing, the type of complexity that
 seduces humans into wasting hundreds of millions if not [billions of
-dollars every
-year](https://spectrum.ieee.org/computing/software/why-software-fails).
+dollars](https://spectrum.ieee.org/computing/software/why-software-fails)
+every year.
 
-The benefits introducing sub-objects goes far beyond just reducing the
+The benefits of introducing sub-objects goes far beyond just reducing the
 number of attributes. While accessing the attributes is slightly more
 verbose, I like the sound of `self.span.start_ns` compared to just
 `self.start_ns`, but more importantly we can now pass `Span`'s and
@@ -187,8 +188,8 @@ like [compound interest](https://youtu.be/GtaoP0skPWc), instead of one
 monolithic object no one can understand you will create a beautiful tree
 which buds and sprouts and branches organically. You will benefit from this
 better design every minute you are working on the software, and the
-software will benefit greatly over time from your improved ability to do
-your work.
+software will benefit greatly over time from your improved mood and ability
+to sustain focus.
 
 {{< imgproc tree Resize "512x">}} 
 A miniature <a href="https://en.wikipedia.org/wiki/Bonsai">Bonsai</a> tree.
@@ -206,7 +207,7 @@ with how our brains think about that world. Game recognizes game.
 
 Over time you will grow a system that _you and others_ can **understand**,
 **maintain**, **debug** and **extend**. People looking at your code years
-from now, maybe even those living in the [far
+from now, maybe even in the [far
 future](https://archiveprogram.github.com/), will appreciate your diligence
 and hard work. And the punchline is doing all this is not hard. In fact
 it's _much easier_ than not doing it.
