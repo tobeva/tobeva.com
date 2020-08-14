@@ -30,7 +30,7 @@ planning a wedding for that matter, you are juggling dozens to hundreds of
 things? As it turns out you are not. At least not at once.
 
 {{< imgproc pi Resize "512x">}}
-The first 225 digits of Pi.
+Above is the first 225 digits of Pi. What's the <a href="https://dancohen.org/2010/03/08/the-last-digit-of-pi/">last digit</a> of Pi?
 {{< /imgproc >}}
 
 In 2005 **Lu Chao** recited [67,890
