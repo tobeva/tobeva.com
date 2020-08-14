@@ -34,7 +34,7 @@ new feature, or suggest alternative ideas that were easier for us to
 implement.
 
 I was also responsible making sure the game was playable every day. If the
-daily build failed for any reason I had to track it down. This was somtimes
+daily build failed for any reason I had to track it down. This was sometimes
 fun and sometimes nerve-wracking.
 
 {{< imgproc guitar-hero-game Resize "512x" >}}
