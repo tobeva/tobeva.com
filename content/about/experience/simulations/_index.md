@@ -33,13 +33,13 @@ FA-18's over a virtual Camp Pendleton in California.
 My first project at MetaVR was to add a human animation system. Over time I
 worked on many aspects from graphics to networking to architecture. Beyond
 the product itself I developed a web-based performance monitoring and QA
-tool. We wrung out all the randonmness from the scene generation so we
-could creating videos that were pixel-per-pixel identical, even when taken
+tool. We wrung out all the randomness from the scene generation so we
+could create videos that were pixel-per-pixel identical, even when taken
 weeks apart.
 
 We used the structural similarity (SSIM) index to find minute differences
 between the otherwise identical videos. We also carefully monitored how the
-software performed on various harware configurations, always shoot for a
+software performed on various hardware configurations, always shoot for a
 60Hz update rate.
 
 {{< imgproc vrsg-2 Resize "512x" >}}
