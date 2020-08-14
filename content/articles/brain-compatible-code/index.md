@@ -98,7 +98,7 @@ With great power comes great responsibility.
 Objects which have too many attributes are a major cause of software that's
 too complicated to understand. Some people conclude the problem is Object
 Oriented Programming itself. This is not a crazy idea, there are [other
-ways](/resources/technical/programming/functional/) to program and they do
+ways](/resources/technical/programming/functional/) to program, and they do
 have advantages, but I can attest first hand that most of the flaws
 attributed to Object Oriented Programming stem from having done it poorly,
 and boy is it easy to do poorly.
@@ -108,7 +108,7 @@ Complexity grows without bound.
 {{< /imgproc >}}
 
 The key thing to realize is a single object with a lot of attributes is
-itself _not_ Object Oriented. Instead it's a 1970's style [Structured
+itself _not_ Object Oriented. Instead, it's a 1970s style [Structured
 Program](https://en.wikipedia.org/wiki/Structured_programming) in disguise.
 The attributes of the object are the **global variables** of the program,
 and the object's methods are the program's **functions**. Every function
@@ -116,9 +116,9 @@ can freely access every global variable which is what's behind most of the
 problems.
 
 A structured program with more than seven global variables is trouble, and
-if many objects in your program are effectivelly messy structured programs,
+if many objects in your program are effectively messy structured programs,
 you are in serious trouble indeed. At a high level you are doing Object
-Oriented Programming but at a low level you are right back in the 1970's
+Oriented Programming but at a low level you are right back in the 1970s
 struggling to deal with one confusing program after the next.
 
 How do we save this sinking ship? We save it by actively and aggressively
@@ -175,7 +175,7 @@ verbose, I like the sound of `self.span.start_ns` compared to just
 We've introduced two natural and useful concepts that will pay ongoing
 dividends, but even better don't just think of how your code is today,
 think about how it's going to grow over time. Your single monolithic object
-has sprouted two buds. You can now push functionality down into these buds
+has sprouted two buds. You can now push functionality down into these buds,
 and they can grow into branches, which later can sprout buds of their own.
 
 For example now we can create a new `get_duration_ns()` method. Again it
@@ -205,12 +205,12 @@ It's no accident that we find natural environments to be more soothing than
 the made world. The design of the natural world is more often in harmony
 with how our brains think about that world. Game recognizes game.
 
-Over time you will grow a system that _you and others_ can **understand**,
+Over time, you will grow a system that _you and others_ can **understand**,
 **maintain**, **debug** and **extend**. People looking at your code years
 from now, maybe even in the [far
 future](https://archiveprogram.github.com/), will appreciate your diligence
-and hard work. And the punchline is doing all this is not hard. In fact
-it's _much easier_ than not doing it.
+and hard work. And the punchline is doing all this is not hard. In fact,
+it's _much easier_ to this work than to not do it.
 
 It's easier and more pleasant to work with something that's well crafted
 and simpatico with your thinking. It's hard and unpleasant to constantly
