@@ -91,7 +91,7 @@ and different!
 The biggest trap of software development is that it's easy, trivial in
 fact, to write software that you yourself cannot understand, and in turn no
 one else can understand. Even a novice, _especially_ a novice, can in a few
-weeks write software that literally no one of the planet can easily think
+weeks write software that literally no one on the planet can easily think
 or reason about. That's depressing but also kind of impressive in a way.
 With great power comes great responsibility.
 
