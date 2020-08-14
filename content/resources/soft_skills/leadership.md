@@ -23,3 +23,9 @@ nav:
   * Leadership is about influencing others without relying on authority. 
 * [An Engineering Team where Everyone is a Leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/)
   * They would think, "let me take the lead in solving this issue."
+
+**Scrum**:
+
+* [Ryan Ripley & Co.](https://ryanripley.com/) Profesional Scrum Training. 
+   * Interview on [SE Radio](https://www.se-radio.net/2020/08/episode-420-ryan-ripley-on-making-scrum-work/) about [his book](https://ryanripley.com/fixing-your-scrum/).
+  
