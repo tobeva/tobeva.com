@@ -25,7 +25,7 @@ influence many more people, on your own project or beyond.
 
 **Tobeva Software**:
 
-* [Brain Compatible Programming](/articles/brain-compatible-code/)
+* [Brain Oriented Programming](/articles/brain-compatible-code/)
 * [Open Source](/blog/2020/08/02/open-source/)
 * [True Confidence](/blog/2020/04/12/true-confidence/)
 * [Happy Birthday Tobeva Software](/blog/2020/04/10/happy-birthday-tobeva-software/)
