@@ -5,6 +5,8 @@ linkTitle: "Brain Oriented Programming"
 description: "Write code that's compatible with how your brain works."
 author: Philip ([@pbwinston](https://twitter.com/pbwinston))
 type: blog
+aliases:
+        - /articles/brain-compatible-code
 ---
 
 The 1956 paper *[The Magical Number Seven, Plus or Minus
