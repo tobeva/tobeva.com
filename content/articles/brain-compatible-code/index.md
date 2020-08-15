@@ -85,14 +85,14 @@ seven _attributes_. In some languages attributes are called _member
 variables_ or _fields_. Many programmers immediately balk at this
 suggestion. Sure, that works for toy examples, but I'm writing serious
 software and my objects sometimes need 10, 20 or 50 attributes. You must be
-working on easy stuff, they will say, my problems and my code are special
-and different!
+working on easy stuff, they will say. My problems are special, so my code
+has to be different.
 
 The biggest trap of software development is that it's easy, trivial in
 fact, to write software that you yourself cannot understand, and in turn no
 one else can understand. Even a novice, _especially_ a novice, can in a few
 weeks write software that literally no one on the planet can easily think
-or reason about. That's depressing but also kind of impressive in a way.
+or reason about. That's depressing, but also kind of impressive in a way.
 With great power comes great responsibility.
 
 Objects which have too many attributes are a major cause of software that's
@@ -112,14 +112,14 @@ itself _not_ Object Oriented. Instead, it's a 1970s style [Structured
 Program](https://en.wikipedia.org/wiki/Structured_programming) in disguise.
 The attributes of the object are the **global variables** of the program,
 and the object's methods are the program's **functions**. Every function
-can freely access every global variable which is what's behind most of the
+can freely access every global variable which is what causes many of the
 problems.
 
 A structured program with more than seven global variables is trouble, and
-if many objects in your program are effectively messy structured programs,
-you are in serious trouble indeed. At a high level you are doing Object
-Oriented Programming but at a low level you are right back in the 1970s
-struggling to deal with one confusing program after the next.
+if many objects in your program are effectively messy structured programs
+themselves, you are in serious trouble indeed. At a high level you are
+doing Object Oriented Programming, but at a low level you are right back in
+the 1970s struggling to deal with one confusing program after the next.
 
 How do we save this sinking ship? We save it by actively and aggressively
 keeping the number of attributes per object **at or below seven**. If you
@@ -142,11 +142,10 @@ Just today I had a [Python](https://www.python.org/) class called
 {{< / highlight >}}
 
 That's eight attributes, since eight is only one over the limit, should we
-wait until the object grows bigger? No, let's deal with it _now_. To
-reduce the number of attributes we introduce two new classes or structs
-`Span` and `Origin`. Each is trivial and only has two attributes, but now
-the original object has been slimmed down to six attributes, all is well
-again:
+wait until the object grows bigger? No, let's deal with it _now_. To reduce
+the number of attributes we introduce two new classes or structs: `Span`
+and `Origin`. Each only has two attributes, but now the original object has
+been slimmed down to six attributes, all is well again:
 
 {{<highlight python>}}
         self.name = name
@@ -157,15 +156,15 @@ again:
         self.phase = phase
 {{< / highlight >}}
 
-Although it's a minor change, look at the before and after, it simply
-_looks_ better, even if you stand far back and squint.
+Although it's a minor change, compare the two versions, the improved one
+simply _looks_ better, even if you stand far back and squint.
 
-It seems minor but if you don't make these types of changes it will
-eventually lead to intractable complexity, the type of complexity that
-leads to projects and companies failing, the type of complexity that
-seduces humans into wasting hundreds of millions if not [billions of
+It seems minor, but if you don't make these types of changes as you go it
+will eventually lead to _intractable_ complexity, the type of complexity
+that causes projects and companies to fail, the type of complexity that
+seduces humans into wasting [billions of
 dollars](https://spectrum.ieee.org/computing/software/why-software-fails)
-every year.
+every year writing software that does not work.
 
 The benefits of introducing sub-objects goes far beyond just reducing the
 number of attributes. While accessing the attributes is slightly more
@@ -219,3 +218,6 @@ wrestle with something you don't understand. Trim, prune and shape your
 objects early and often. Your brain will thank you.
 
 <hr>
+
+_See Also:_
+* [Digit Span Memory Test](https://www.memorylosstest.com/digit-span/)
