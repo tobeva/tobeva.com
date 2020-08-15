@@ -1,7 +1,7 @@
 ---
 date: 2020-08-13
-title: "Brain Compatible Programming"
-linkTitle: "Brain Compatible Programming"
+title: "Brain Oriented Programming"
+linkTitle: "Brain Oriented Programming"
 description: "Write code that's compatible with how your brain works."
 author: Philip ([@pbwinston](https://twitter.com/pbwinston))
 type: blog
