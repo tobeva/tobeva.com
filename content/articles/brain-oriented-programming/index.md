@@ -15,7 +15,7 @@ The 1956 paper *[The Magical Number Seven, Plus or Minus
 Two](http://psychclassics.yorku.ca/Miller/)* is the most widely cited paper
 in the 126 year history of the journal *[Psychological
 Review](https://en.wikipedia.org/wiki/Psychological_Review)*. The author
-[George A. Miller](https://en.wikipe◊ıdia.org/wiki/George_Armitage_Miller) is
+[George A. Miller](https://en.wikipedia.org/wiki/George_Armitage_Miller) is
 considered one of the founders in the field of cognitive science. His
 historic claim is that you can only juggle **between 5 and 9 things** in
 your brain at any one time.
@@ -273,8 +273,8 @@ objects early and often. Your brain will thank you.
 *Large messy OOP codebases are maintained and extended only if they've*
 *become become extremely valuable. If your product is making more and more*
 *money, you can afford to hire more and more smart programmers to keep the*
-*party going. This leads to sort of an anti-survivorship bias, large*
-*actively maintained OOP codebases tend to be counter-examples towards how*
-*to do OOP well, serving as a bad example on impressionable minds. Those*
-*who realize this might be tempted to start fresh on a new codebase,*
-*possibly at a new company.*
+*party going. This leads to a survivorship bias where large actively*
+*maintained OOP codebases tend to be counter-examples towards how to do*
+*OOP well, serving as a bad example on the impressionable minds working on*
+*the code. Those who realize this might be tempted to start fresh on a new*
+*codebase, possibly at a new company.*
