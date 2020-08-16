@@ -16,10 +16,11 @@ menu:
 The Rappahannock River, Virginia, July 2017.
 {{< /imgproc >}}
 
+**Highlighted**: _Brain Oriented Programming_ [article](/articles/brain-oriented-programming/) or [video](https://youtu.be/D8Pb8TvYsCE).
+
 We are a small consulting and contracting company specializing in cloud
-data pipelines, high performance systems and computer graphics. We have
-experience in many industries include Autonomous Vehicles, CAD,
-Neuroscience, Military Simulations and Videogames.
+data pipelines, high performance systems and computer graphics. See our
+[experience](/about/experience/) section for industries we've worked in.
 
 We offer consulting services such as the analysis of architecture and code
 quality, build automation and continuous integration, automated testing,

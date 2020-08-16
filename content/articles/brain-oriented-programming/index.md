@@ -9,11 +9,13 @@ aliases:
         - /articles/brain-compatible-code
 ---
 
+**Video**: [Philip reading this essay](https://youtu.be/D8Pb8TvYsCE).
+
 The 1956 paper *[The Magical Number Seven, Plus or Minus
 Two](http://psychclassics.yorku.ca/Miller/)* is the most widely cited paper
 in the 126 year history of the journal *[Psychological
 Review](https://en.wikipedia.org/wiki/Psychological_Review)*. The author
-[George A. Miller](https://en.wikipedia.org/wiki/George_Armitage_Miller) is
+[George A. Miller](https://en.wikipe◊ıdia.org/wiki/George_Armitage_Miller) is
 considered one of the founders in the field of cognitive science. His
 historic claim is that you can only juggle **between 5 and 9 things** in
 your brain at any one time.
@@ -221,5 +223,58 @@ objects early and often. Your brain will thank you.
 
 <hr>
 
-_See Also:_
-* [Digit Span Memory Test](https://www.memorylosstest.com/digit-span/)
+**See Also:**
+* Hacker News [comments](https://news.ycombinator.com/item?id=24165893) on this article.
+* Find your own digit span with this [Digit Span Memory Test](https://www.memorylosstest.com/digit-span/).
+* Some Chimpanzees have [better working memory](https://youtu.be/nTgeLEWr614?t=7) than humans!
+
+**Postscript on APIs:**
+
+*The article discusses objects and attributes, not methods and APIs. NumPy's*
+*[ndarray](https://numpy.org/doc/stable/reference/arrays.ndarray.html) has*
+*15 attributes but 50 methods. That's totally fine, but imagine the*
+*opposite, if it had 50 attributes? That would probably be a mess.*
+
+*Attributes are global variables in the structured program that is the*
+*object, so each additional attribute potentially complicates the*
+*implementation of every other method in the object, present and future.*
+
+*In contrast, adding a new method is just adding a new useful thing you can*
+*do with that object, it doesn't hurt the existing methods at all. This is*
+*part of the reason Functional Programming is based on functions. The only*
+*real cost of huge flat APIs is documentation and discovery, the programmer*
+*needs to be able to find what they need.*
+
+*Creating a nicely balanced tree of objects as the implementation and then*
+*adding a flat API layer on top is sometimes the best of both worlds.*
+*[Microservices](https://martinfowler.com/articles/microservices.html)*
+*lean towards this approach, they tend to have flat*
+*[REST](https://en.wikipedia.org/wiki/Representational_state_transfer) APIs,*
+*but inside they are free to use whatever implementation architecture makes*
+*sense.*
+
+**Postscript on Mutable State:**
+
+*An object with four boolean variables can be in one of 16 possible*
+*states. In theory every method of that object needs to work correctly in*
+*all 16 of those states. An object with 10 boolean variables has 1024*
+*possible states. Every boolean attribute you add to an object doubles the*
+*number of possible states the object can be in. This is a big reason why*
+*limiting the number of attributes per object is a good idea.*
+
+*Functional Programming usually advocates "no mutable state". Applying this*
+*to OOP  your object's state should not change over its lifetime. An*
+*object with 1024 posible states is insane enough, but if that object hops around*
+*willy nilly in that state space over time, that's the stuff of nightmares,*
+*and that's daily life in many large OOP codebases.*
+
+**Postscript on real-world OOP:**
+
+*Large messy OOP codebases are maintained and extended only if they've*
+*become become extremely valuable. If your product is making more and more*
+*money, you can afford to hire more and more smart programmers to keep the*
+*party going. This leads to sort of an anti-survivorship bias, large*
+*actively maintained OOP codebases tend to be counter-examples towards how*
+*to do OOP well, serving as a bad example on impressionable minds. Those*
+*who realize this might be tempted to start fresh on a new codebase,*
+*possibly at a new company.*
