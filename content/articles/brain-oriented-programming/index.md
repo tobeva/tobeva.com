@@ -7,6 +7,7 @@ author: Philip ([@pbwinston](https://twitter.com/pbwinston))
 type: blog
 aliases:
         - /articles/brain-compatible-code
+summary: "Game recognizes game: why the natural world resonates so well with your thinking, and how the brain's physical architecture should inform software design"
 ---
 
 **Video**: [Philip reading this essay](https://youtu.be/D8Pb8TvYsCE).
@@ -194,8 +195,8 @@ sprouts and branches organically. You will benefit from this better design
 every minute you are working on the software, and the software will benefit
 greatly from your improved mood and ability to sustain focus.
 
-{{< imgproc tree Resize "350x">}} 
-A miniature <a href="https://en.wikipedia.org/wiki/Bonsai">Bonsai</a> tree.
+{{< imgproc tree Resize "512x">}} 
+A carefully tended <a href="https://en.wikipedia.org/wiki/Bonsai">Bonsai</a> tree.
 {{< /imgproc >}}
 
 Code, like most human created artifacts, can be beautiful, so there is an
