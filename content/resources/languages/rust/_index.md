@@ -30,6 +30,10 @@ nav:
 * [Shoumik Palkar](https://shoumik.xyz/)
   * Creator of Weld, PhD at Stanford, now at [Databricks](https://databricks.com/).
 
+**WASM**
+* [Hands-on WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
+    * Mostly WASM but some Rust.
+
 **Interesting Projects**
 * [Bevy](https://bevyengine.org/news/introducing-bevy/) a data-driven game engine.
 * [Single Page Applications](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/) using Rust+WASM for web development.
