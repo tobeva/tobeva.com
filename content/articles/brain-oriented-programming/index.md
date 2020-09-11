@@ -35,8 +35,8 @@ writing software, or planning a wedding for that matter, you are juggling
 dozens to hundreds of things? As it turns out you are not. At least not at
 once.
 
-{{< imgproc pi Resize "250x">}}
-The first 225 digits of <a href="https://dancohen.org/2010/03/08/the-last-digit-of-pi/">Pi</a>.
+{{< imgproc pi Resize "512x">}}
+Drawing by Eva Winston, 2020.
 {{< /imgproc >}}
 
 In 2005 **Lu Chao** recited [67,890
