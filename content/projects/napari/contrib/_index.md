@@ -14,21 +14,24 @@ nav:
         url: "/projects/napari/videos/"
 ---
 
-Since Napari is open source that you can directly see the contributions
-we've made to the project:
-
+**Videos:**
+* See our [video page](/projects/napari/videos/).
+  
 **Documents:**
 * [Performance Backgrounder and Philosophy](https://napari.org/docs/explanations/performance.html)
 * [Render System Design](https://napari.org/docs/explanations/rendering.html)
 
-**Major Pull Requests:**
-* [Asynchronous Image Loading](https://github.com/napari/napari/pull/1510)
+**Project Board**
+* [Napari Rendering GitHub Project](https://github.com/users/pwinston/projects/1)
+  * Contains all Pull Requests both open and merged
 
-**Other Pull Requests:**
-* [Factor out ImageSlice from Image](https://github.com/napari/napari/pull/1343)
-* [Performance Monitoring 1](https://github.com/napari/napari/pull/1262)
-* [Performance Monitoring 2](https://github.com/napari/napari/pull/1453)
-* [Add new viewer.cmd commands](https://github.com/napari/napari/pull/1529)
+**Merged Async Pull Requests:**
+* [ImageSlice](https://github.com/napari/napari/pull/1343)
+* [async-1: Stub ChunkLoader](https://github.com/napari/napari/pull/1565)
+* [async-2: ChunkLoader Thread Pool](https://github.com/napari/napari/pull/1453)
+* [async-2.5: Vispy changes](https://github.com/napari/napari/pull/1607)
 
-**Videos:**
-* See our [video page](/projects/napari/videos/).
+**Merged Perfmon Pull Requests:**
+* [Performance monitoring](https://github.com/napari/napari/pull/1262)
+* [Perfmon System version 2](https://github.com/napari/napari/pull/1453)
+* [Perfmon fixes and cleanup](https://github.com/napari/napari/pull/1550)
