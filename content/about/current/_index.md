@@ -28,7 +28,7 @@ nav:
 
 * Learning the [Rust](https://www.rust-lang.org/) programming language.
   
-* Setting up this website, the source is [public on
+* Maintaining this website, the source is [public on
   GitHub](https://github.com/tobeva/tobeva.com).
 
 {{< imgproc flowers Resize "512x" >}}
