@@ -33,6 +33,8 @@ nav:
 **WASM**
 * [Hands-on WebAssembly](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
     * Mostly WASM but some Rust.
+* [WebAssembly Migration](https://softwareengineeringdaily.com/2020/09/01/webassembly-migration-with-nicolo-davis/)
+    * Podcast on Rust to WebAssembly workflow.
 
 **Interesting Projects**
 * [Bevy](https://bevyengine.org/news/introducing-bevy/) a data-driven game engine.

@@ -24,8 +24,8 @@ Napari displaying data from the <a href="https://alleninstitute.org/what-we-do/c
 
 Read my blog post about my experience [working on open source
 software](/blog/2020/08/02/open-source/), and see the below links to the
-specific contributions I've made to the Napari project so far, including a
-nice demo video.
+specific contributions I've made to the Napari project so far, including
+three demo videos.
 
 
 
