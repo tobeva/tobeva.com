@@ -31,7 +31,6 @@ nav:
 * [async-2: ChunkLoader Thread Pool](https://github.com/napari/napari/pull/1453)
 * [async-6: Delay Queue](https://github.com/napari/napari/pull/1679)
 * [async-7: Auto-async](https://github.com/napari/napari/pull/1683)
-* [async-11: IPython Commands](https://github.com/napari/napari/pull/1699)
 * [async-18: Basic Quadtree Rendering](https://github.com/napari/napari/pull/1793)
 * [async-21: New TiledImageVisual with Texture Atlas](https://github.com/napari/napari/pull/1837)
 
