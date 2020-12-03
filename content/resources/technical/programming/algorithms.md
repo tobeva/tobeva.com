@@ -1,6 +1,6 @@
 ---
 title: "Algorithms"
-linkTitle: "Algorithms"
+linkTitle: "algorithms"
 description: "Algorithms and datastructures."
 date: 2020-07-17
 weight: 5

@@ -1,6 +1,6 @@
 ---
 title: "Functional Programming"
-linkTitle: "Functional"
+linkTitle: "functional"
 description: "Everyone should understand some about Functional Programming."
 date: 2020-04-17
 weight: 10
@@ -12,6 +12,9 @@ nav:
     up:
         label: "Programming"
         url: "/resources/technical/programming/"
+    next:
+        label: "Static Analysis"
+        url: "/resources/technical/static/"
 ---
 
 * [In-depth: Functional programming in C++](https://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php) - [John Carmack](https://en.wikipedia.org/wiki/John_Carmack)

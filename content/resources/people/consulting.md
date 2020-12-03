@@ -20,3 +20,7 @@ nav:
 
 **Freelancers**
 * [My First Year as a Freelance AI Engineer](http://masatohagiwara.net/202002-my-first-year-as-a-freelance-ai-engineer.html)
+
+**Python**
+* [Davin Potts](https://www.vertica.com/blog/davin-potts-core-python-committer-data-science/) - Core Python and [KNIME](https://www.knime.com/).
+
