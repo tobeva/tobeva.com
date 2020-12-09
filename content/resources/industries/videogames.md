@@ -3,9 +3,12 @@ title: "Videogames"
 linkTitle: "Videogames"
 description: "The videogame industry."
 date: 2020-08-01
-weight: 10
+weight: 20
 type: docs
 nav:
+    prev:
+        label: "Scipy"
+        url: "/resources/industries/scipy"
     up:
         label: "Industries"
         url: "/resources/industries/"

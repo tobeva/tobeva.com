@@ -24,15 +24,17 @@ nav:
 
 **GitHub Project**
 * [Napari Rendering GitHub Project](https://github.com/users/pwinston/projects/1)
-  * Used to track Pull Requests, both open and merged.
+  * Lists over 50 pull requests we made in the napari repo.
+  * GitHub's [projects](https://github.com/features/project-management/) are an underused way to organize your PRs.
+      * It's like JIRA minus all the junk you don't need.
+      * But then super tightly integrated into GitHub.
 
-**Rendering Pull Requests:**
-
-* [async-2: ChunkLoader Thread Pool](https://github.com/napari/napari/pull/1453)
+**Interesting Pull Requests:**
 * [async-6: Delay Queue](https://github.com/napari/napari/pull/1679)
-* [async-7: Auto-async](https://github.com/napari/napari/pull/1683)
 * [async-18: Basic Quadtree Rendering](https://github.com/napari/napari/pull/1793)
 * [async-21: New TiledImageVisual with Texture Atlas](https://github.com/napari/napari/pull/1837)
+* [async-29: Shared Memory Server](https://github.com/napari/napari/pull/1909) - **major**
+* [async-32: Faster Octree Rendering](https://github.com/napari/napari/pull/1977)
 
 **Perfmon Pull Requests:**
 * [Performance monitoring](https://github.com/napari/napari/pull/1262)
