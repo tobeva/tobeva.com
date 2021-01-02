@@ -12,6 +12,6 @@ nav:
         label: "Resources"
         url: "/resources/"
     next:
-        label: "Lanugages"
+        label: "Languages"
         url: "/resources/languages/"
 ---

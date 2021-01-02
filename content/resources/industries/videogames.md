@@ -13,7 +13,6 @@ nav:
         label: "Industries"
         url: "/resources/industries/"
 ---
-
 **Companies**
 * [Probably Monsters](https://www.probablymonsters.com/)
   * Incubator that creates game studios.

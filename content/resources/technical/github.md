@@ -3,7 +3,7 @@ title: "GitHub"
 linkTitle: "GitHub"
 description: "Automation Related to GitHub."
 date: 2020-06-06
-weight: 15
+weight: 20
 type: docs
 nav:
     prev:

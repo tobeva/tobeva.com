@@ -3,7 +3,7 @@ title: "GPU"
 linkTitle: "GPU"
 description: "Graphics cards for graphics or compute."
 date: 2020-04-17
-weight: 20
+weight: 30
 type: docs
 nav:
     prev:
@@ -13,8 +13,8 @@ nav:
         label: "Technical"
         url: "/resources/technical/"
     next:
-        label: "Programming"
-        url: "/resources/technical/programming/"
+        label: "GUI"
+        url: "/resources/technical/gui/"
 ---
 
 **API's**

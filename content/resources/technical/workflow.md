@@ -4,7 +4,7 @@ description: "Workflow software and services."
 date: 2020-04-06
 draft: false
 type: docs
-weight: 70
+weight: 80
 nav:
     prev:
         label: "Visualization"
@@ -27,5 +27,3 @@ nav:
     * YouTube - 2018-11-18
   * [Cadence: Uber’s Workflow Engine with Maxim Fateev](https://softwareengineeringdaily.com/2020/04/08/cadence-ubers-workflow-engine-with-maxim-fateev/) (57 min)
     * Software Engineering Daily - 2020-04-08
-    
-    

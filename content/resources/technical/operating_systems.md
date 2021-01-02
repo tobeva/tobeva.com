@@ -7,14 +7,14 @@ type: docs
 weight: 50
 nav:
     prev:
-        label: "SciPy"
-        url: "/resources/technical/scipy/"
+        label: "GUI"
+        url: "/resources/technical/gui/"
     up:
         label: "Technical"
         url: "/resources/technical/"
     next:
-        label: "Visualization"
-        url: "/resources/technical/visualization"
+        label: "Programming"
+        url: "/resources/technical/programming"
 ---
 
 **Inter-process Communication**

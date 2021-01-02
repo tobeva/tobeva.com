@@ -1,19 +1,19 @@
 ---
 title: "Programming"
 linkTitle: "Programming"
-description: "Programming styles and approaches." 
+description: "Programming styles and approaches."
 date: 2020-05-09
 draft: false
 type: docs
-weight: 25
+weight: 60
 nav:
     prev:
-        label: "GPU"
-        url: "/resources/technical/gpu/"
+        label: "OS's"
+        url: "/resources/technical/operating_systems/"
     up:
         label: "Technical"
         url: "/resources/technical/"
     next:
-        label: "GUI"
-        url: "/resources/technical/gui/"
+        label: "Visualization"
+        url: "/resources/technical/visualization"
 ---
