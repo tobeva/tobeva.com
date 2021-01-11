@@ -45,8 +45,8 @@ When developing graphics software, it's often better to think of
 _milliseconds per frame_ instead of _framerate_. To achieve 60Hz each frame
 must take less than 16.7 milliseconds, which will translate to 60Hz. It's
 easier to set ”budgets” when you think in terms of milliseconds. For
-example, maybe you will allocate 5ms per frame to copying data to the
-card.
+example, maybe you will allocate 5ms per frame for copying data to the
+graphics card.
 
 _Milliseconds per frame_ is the inverse of _framerate_. This difference
 between a value and its inverse comes up in other contexts, see <a
