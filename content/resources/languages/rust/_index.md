@@ -12,7 +12,7 @@ nav:
         url: "/resources/languages/python/"
     up:
         label: "Languages"
-        url: "/resources/languages/"    
+        url: "/resources/languages/"
 ---
 
 ![Rust Logo](rust.png)
@@ -23,6 +23,8 @@ nav:
 
 **Introductions**
 * [What is Rust and why is it so popular?](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/)
+* [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+    * Walk through just the symbols and syntax.
 
 **Weld**
 * [Interview with Weld’s main contributor](https://notamonadtutorial.com/weld-accelerating-numpy-scikit-and-pandas-as-much-as-100x-with-rust-and-llvm-12ec1c630a1)
