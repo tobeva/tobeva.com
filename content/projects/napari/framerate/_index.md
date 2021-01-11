@@ -17,29 +17,38 @@ nav:
         url: "/projects/napari/perfmon/"
 ---
 
-I created this graph for one my videos. I think it does a good
-job of conveying relationship between framerate and the user's subjective
-experience:
-
-{{< imgproc agony Resize "700x" >}}
-Graph showing that slow framerates are painful!
+{{< imgproc framerate Resize "700x" >}}
 {{< /imgproc >}}
 
-The graph is for general desktop graphics and scientific visualization.
-Competitive games and VR have more stringent framerate requirements.
+This graph conveys two important lessons.
 
-For general desktop use though, this graph shows that framerates faster
-than 60Hz do not add much value, and most importantly it shows how quickly
-things fall apart when the framerate falls below 10Hz.
+On the slow side it shows the user experience degrades basically without
+bound as the framerate gets slower. This is really important because it's
+easy to be complacent when the framerate of your application starts getting
+slower.
 
-In computer graphics it's often better to think of milliseconds per frame
-instead of framerate. In those terms the graph shows latencies of more than
-100ms are very painful, which make intuitive sense, and it shows if the
-latency is around 16ms making
- it faster might not be noticed. Again for
-general desktop use, not games or VR.
+At first, no one really even notices. But as you approach 10Hz and below
+everyone will notice, and they will find your software basically unusable.
 
-This idea of whether its better to think of a value or its inverse comes up
-in other places. See this article <a
+On the fast side, it shows that for general graphics and scientific
+visualization, it really doesn't pay to render things faster than 60Hz.
+This is an important lesson. It means there is a point of diminishing
+returns. If you are at 60Hz that is probably good enough.
+
+Note that VR applications do need framerates higher than 60Hz. And many
+competitive gamers also demand faster framerates. However for "general
+desktop graphics" 60Hz is almost always totally sufficient.
+
+### Framerate?
+
+When developing graphics software, it's often better to think of
+_milliseconds per frame_ instead of _framerate_. To achieve 60Hz each frame
+must take less than 16.7 milliseconds, which will translate to 60Hz. It's
+easier to set ”budgets” when you think in terms of milliseconds. For
+example, maybe you will allocated 5ms per frame to copying data to the
+card.
+
+_Milliseconds per frame_ is the inverse of _framerate_. This difference
+between a value and its inverse comes up in other contexts, see <a
 href="https://www.popularmechanics.com/cars/a12367/4324986/">Why We Should
-Measure by Gallons per Mile, Not Miles per Gallon.
+Measure by Gallons per Mile, Not Miles per Gallon</a>.
