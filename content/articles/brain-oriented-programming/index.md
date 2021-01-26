@@ -195,7 +195,7 @@ sprouts and branches organically. You will benefit from this better design
 every minute you are working on the software, and the software will benefit
 greatly from your improved mood and ability to sustain focus.
 
-{{< imgproc tree Resize "512x">}} 
+{{< imgproc tree Resize "512x">}}
 A carefully tended <a href="https://en.wikipedia.org/wiki/Bonsai">Bonsai</a> tree.
 {{< /imgproc >}}
 
@@ -234,17 +234,17 @@ objects early and often. Your brain will thank you.
 *The article discusses objects and attributes, not methods and APIs. NumPy's*
 *[ndarray](https://numpy.org/doc/stable/reference/arrays.ndarray.html) has*
 *15 attributes but 50 methods. That's totally fine, but imagine the*
-*opposite, if it had 50 attributes? That would probably be a mess.*
+*opposite, if it had 50 attributes? That would be a mess.*
 
 *Attributes are global variables in the structured program that is the*
 *object, so each additional attribute potentially complicates the*
 *implementation of every other method in the object, present and future.*
 
-*In contrast, adding a new method is just adding a new useful thing you can*
-*do with that object, it doesn't hurt the existing methods at all. This is*
-*part of the reason Functional Programming is based on functions. The only*
-*real cost of huge flat APIs is documentation and discovery, the programmer*
-*needs to be able to find what they need.*
+*In contrast, adding a new method is just adding a new useful thing you
+can* *do with that object, it doesn't hurt the existing methods at all.
+This is* *part of the reason Functional Programming encourages functions.
+The only* *real cost of huge flat APIs is documentation and discovery, the
+programmer* *needs to be able to find what they need.*
 
 *Creating a nicely balanced tree of objects as the implementation and then*
 *adding a flat API layer on top is sometimes the best of both worlds.*
