@@ -12,15 +12,16 @@ menu:
 
 **Consult** &middot; **Design** &middot; **Develop**
 
-{{< imgproc river Resize "425x">}}
-The Rappahannock River, Virginia, July 2017.
+{{< imgproc winter-2020 Resize "400x" >}}
+Winter walk in West Virginia, December 2020.
 {{< /imgproc >}}
 
-**Highlighted**: _Brain Oriented Programming_ [article](/articles/brain-oriented-programming/) or [video](https://youtu.be/D8Pb8TvYsCE).
+**Latest**: A [blog post](/blog/2021/01/23/napari-2020-rendering-update/)
+with 2020 [video](https://youtu.be/X5Ar8JA2tc8) update.
 
 We are a small consulting and contracting company specializing in cloud
-data pipelines, high-performance systems and computer graphics. See our
-[experience](/about/experience/) section for industries we've worked in.
+data pipelines, high-performance systems and computer graphics. Read about
+the [industries we have experience with](/about/experience/).
 
 We offer consulting services such as the analysis of architecture and code
 quality, build automation and continuous integration, automated testing,
