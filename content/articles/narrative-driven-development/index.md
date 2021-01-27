@@ -5,9 +5,10 @@ linkTitle: "Narrative Driven Development"
 description: "Get outside your own head by thinking in narratives."
 author: Philip ([@pbwinston](https://twitter.com/pbwinston))
 type: article
-summary: "Software development is a game that can be played by quick decisive
-navigation of the narratives we find all around us."
+summary: "How to get out of your own head and think in narratives: advice to a younger developer."
 ---
+
+**Video**: [Philip reading this essay](https://youtu.be/T72icWc1Ph8).
 
 A narrative is a chain of caused events leading from the past to the
 present. There’s usually a main character, a setting, and the events take
