@@ -4,7 +4,7 @@ title: "Brain Oriented Programming"
 linkTitle: "Brain Oriented Programming"
 description: "Write code that's compatible with how your brain works."
 author: Philip ([@pbwinston](https://twitter.com/pbwinston))
-type: blog
+type: article
 aliases:
         - /articles/brain-compatible-code
 summary: "Game recognizes game: why the natural world resonates so well with your thinking, and how the brain's physical architecture should inform software design"

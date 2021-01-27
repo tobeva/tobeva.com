@@ -4,7 +4,7 @@ title: "Narrative Driven Development"
 linkTitle: "Narrative Driven Development"
 description: "Get outside your own head by thinking in narratives."
 author: Philip ([@pbwinston](https://twitter.com/pbwinston))
-type: blog
+type: article
 summary: "Software development is a game that can be played by quick decisive
 navigation of the narratives we find all around us."
 ---
@@ -41,7 +41,7 @@ Eventually, it bubbles up to be part of the sweep of all human history!
 {{< imgproc timeline-2 Resize "600x">}}
 {{< /imgproc >}}
 
-### Emotional Labor
+## Emotional Labor
 
 Emotional labor means suppressing what you are actually thinking or feeling
 as part of your job function. A restaurant server must show up refreshed
@@ -57,7 +57,7 @@ Every profession involves some emotional labor. When your doctor walks in
 you don’t expect her to tell a long story about her financial problems. The
 focus should be on you. You are paying for her time but also her attention.
 
-### Surfing Narratives
+## Surfing Narratives
 
 As a professional software engineer, you are also paid for your time. You
 have some autonomy, but long term you are expected to solve your employer’s
@@ -92,7 +92,7 @@ is satisfying regardless of the weather conditions. In fact, it can be
 markedly more rewarding when things are stormy. When the challenge
 is bigger, you can make a larger contribution if you execute.
 
-### Narrative Orthogonality
+## Narrative Orthogonality
 
 The narratives we inhabit are not always positive and hopeful. Sometimes
 they are frustrating, confusing, or bleak. Sometimes things go wrong, there
@@ -105,13 +105,11 @@ can be tending a dumpster fire one minute, while killing it on some other
 project the next. And I can leave both of these narratives suspended at the
 end of the day, and not let them invade my life at home.
 
-We ruin narrative independence when we drag our own mood from task to task.
-When we look at everything through the same tainted glasses. The good
-thing is your mood is like a bag of bricks, with practice you can learn to
-put it down. It’s simple, but not easy. If you are having trouble keeping
-narratives separate, you might need to debug yourself rather than your
-code. Maybe start with sleep, diet, exercise, and relationships. Ask for
-help if needed.
+We ruin narrative independence if we bring too much of our own mood into
+each situation, if we are overpowering the narrative. If you are having
+trouble keeping narratives separate, you might need to debug yourself
+rather than your code. Experiment with sleep, diet, exercise, and spending
+time on relationships. Ask for help if needed.
 
 As an example of narrative independence, suppose your company is falling
 apart. There’s a lot of in-fighting and the financial outlook is getting
@@ -128,7 +126,7 @@ the rest of the team is doing, the company you are a part of, or your
 profession. In fact, it’s exactly these larger narratives that can motivate
 and recharge you when times are tough.
 
-### The Craftsman Narrative
+## The Craftsman Narrative
 
 An iconic narrative of software engineering is someone hunched over their
 keyboard editing text. My text editor, my keyboard, and my screen are all
@@ -155,7 +153,7 @@ making noise. With our mechanical keyboards, we can make plenty of noise as
 well. I’m going out back to the shop for a while to bang on the keys and
 clear my head.
 
-### Industry Narratives
+## Industry Narratives
 
 One of the things I’ve loved about my career has been working in different
 industries including Videogames, Neuroscience Research, Haptics, and
@@ -180,7 +178,7 @@ fortunes are made or lost, innovations change the landscape and sometimes
 the entire world. No matter how big or small your personal role was, it can
 be very gratifying to have played a part.
 
-### Trend Spotting
+## Trend Spotting
 
 Most of the time switching narratives does not itself solve problems. We
 still have to fix the bug, write the documentation, or work out the design.
@@ -201,7 +199,7 @@ with ideas others have missed. The most impactful decisions or
 contributions I’ve made in my career were the result of considering things
 from a different point of view, or on a different time scale.
 
-### Learning
+## Learning
 
 Sometimes it's not enough to switch narratives, you want to reframe the one
 you are in. A common reframing for me is seeing the frustrating or
@@ -229,7 +227,7 @@ of work. I’m always amazed when I rewrite it, how it takes a fraction of
 the time and how the new version is markedly better. What I learned writing
 the code the first time was more valuable than the code itself.
 
-### False Narratives
+## False Narratives
 
 False narratives are a major problem. If we think we’re in a narrative, but
 we’re not, our judgments about the present and our predictions about the
@@ -264,7 +262,7 @@ of furniture. They are an expert because they can consistently put in the
 lengthy effort required to produce high-quality output, not because they
 whip through it fast, not because it’s become easy for them.
 
-### Decision Maker
+## Decision Maker
 
 Another false narrative about experts is they always make the right
 decision. I prefer to strive to be a “good decision-maker” more than
@@ -285,7 +283,7 @@ decision, then obtain that information quickly. Whether it requires
 research, finding help, or doing an experiment, a good decision-maker time
 boxes acquiring the necessary information then pulls the trigger.
 
-### Partial Narratives
+## Partial Narratives
 
 Beyond false narratives, I’ve learned to watch out for partial narratives.
 These can be tricky because they seem true, but you are missing the rest of
@@ -320,7 +318,7 @@ analysis than anyone was willing to do so far. Or just being more
 methodical and careful than was done previously. Very often, solving a
 problem others could not involves putting in more time than they did.
 
-### Personal Narrative
+## Personal Narrative
 
 None of this is to say our own personal narrative does not matter, or the
 personal narratives of our friends and co-workers. In fact, the game here
@@ -336,7 +334,7 @@ essential. I think establishing and preserving a human connection in online
 interactions is in its infancy, and it's something I hope we get better at
 a species as the years go on.
 
-### Contain Multitudes
+## Contain Multitudes
 
 I find that the expert fallacies discussed above are also true when I write
 in English. After many years of writing, I’m constantly amazed at even
