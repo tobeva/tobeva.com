@@ -140,7 +140,6 @@ pretty much whenever I want, no matter what else is happening around me,
 it’s a respite from everything.
 
 {{< imgproc keyboard Resize "600x">}}
-My previous MacBook's keyboard
 {{< /imgproc >}}
 
 Craftsmen throughout history have used their hands to work leather, iron, or

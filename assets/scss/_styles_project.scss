@@ -3,6 +3,9 @@
         p {
                 font-weight: $font-weight-body-text;
                 font-size: 1.30rem;
-                font-family: "charter";
+                font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+        }
+        img {
+                height: auto;
         }
 }
