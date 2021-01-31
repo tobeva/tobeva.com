@@ -34,15 +34,11 @@ always keep in mind the two are separate.
 ## Narrative Orthogonality
 
 The narratives in our work worlds are not always positive and hopeful.
-Sometimes they are frustrating, confusing, or bleak. Sometimes things go
-wrong, there are looming or even insurmountable obstacles, personalities
-conflict, or things temporarily fall apart.
-
-The good thing is that narratives are often independent of each other. I
-can be tending a [dumpster fire](https://youtu.be/kiVd0GwGiFE) one minute,
-while killing it on some other project the next. And I can leave both of
-these narratives suspended at the end of the day, and not let them invade
-my life at home.
+Sometimes they are frustrating, confusing, or bleak. The good thing is that
+narratives are often independent of each other. I can be tending a
+[dumpster fire](https://youtu.be/kiVd0GwGiFE) one minute, while killing it
+on some other project the next. And I can leave both of these narratives
+suspended at the end of the day, and not let them invade my life at home.
 
 We ruin narrative independence if we bring too much of our own mood into
 each situation. If you are having trouble keeping narratives separate, you
@@ -52,14 +48,12 @@ diet, exercise, and spending time on relationships. Ask for help if needed.
 As an example of narrative independence, suppose your company is falling
 apart, you can still be super excited about the specific technical work you
 are doing. Or about your own career, since you are likely in the process of
-looking for a new job. You could literally be whistling while you work as
-the ceiling tiles fall down around you.
+looking for a new job.
 
-In the other direction, suppose you are stuck on a horrible bug, pulling
-your hair out; your eyes are starting to bleed from the stress. That
-doesn’t mean you should be down on what the rest of the team is doing, or
-how the project is going, or your profession. In fact, it’s exactly these
-larger narratives that can motivate and recharge you when times are tough.
+In the other direction, if your eyes are bleeding from a difficult bug, you
+can still be excited about the team's progress, the company or your
+profession. It’s exactly these larger narratives that can motivate and
+recharge you when times are tough.
 
 ## The Craftsman Narrative
 
@@ -157,20 +151,11 @@ A conspiracy theory in software engineering might be something like
 “there’s a bug in the compiler” or “the database is flakey” or “the other
 team is out to get us”. Not that these things are never true, but if you
 explain away a problem by waving your hand vaguely at something else, you
-are forgoing an opportunity to find out the truth and learn something. I
-try to actively stamp out rumor and superstition whenever I can.
+are forgoing an opportunity to find out the truth and learn something.
 
 Another false narrative is thinking I’m an expert and therefore things
-should be easy. I sometimes find myself getting frustrated because
-a task is much harder than I expected. This particularly happens when
-working with a new tool or library I’m unfamiliar with. When I have to
-start over at square one.
-
-I think the better narrative for an “expert” is someone who with patience,
-time and effort can solve difficult problems. With this narrative, one of
-the most important things I do as a professional is carving out that
-focused time for doing the work. Often when I can’t seem to get something
-done, the root reason is I have not really dug into it yet.
+should be easy. I think the better narrative for an “expert” is someone who
+with patience, time and effort can solve difficult problems.
 
 An expert furniture maker requires many hours to produce a beautiful piece
 of furniture. They are an expert because they can consistently put in the
@@ -222,21 +207,20 @@ the years go on.
 
 ## Contain Multitudes
 
-Writing prose in English is the same as code, in that with years of
-practice my first drafts can still be lousy. The main thing I've learned is
-to have the confidence to believe that with time and effort I can hammer
-the prose into shape.
+Writing prose in English is also something I've gained a lot of experience
+with over the years. However here again "expert" doesn't mean getting it
+right the first time; it means slowly hammering it into shape over time.
 
 I’ve written articles for Wikipedia and seen
 [people](https://www.bbc.com/news/magazine-18833763) sweep through
 contributing small single-purpose edits. Each editor has has their own
-point of view, each one spots a different problem.
+point of view. Each editor spots a different problem.
 
-When I edit prose or code, I try to be all of those editors. Every time I
-read it through I find a different small problem. One of the most
-satisfying experiences is reading code or prose after many iterations and
-_not_ noticing any rough edges. Did I miss something? Read it once more.
-Nothing stands out; now we are getting somewhere.
+When I edit I try to be all of those editors. Every pass through I find a
+different small problem. One of the most satisfying experiences is reading
+all the way through and _not_ noticing any rough edges. Did I miss
+something? Read it once more. Nothing stands out; now we are getting
+somewhere.
 
 {{< imgproc sanding Resize "600x">}}
 {{< /imgproc >}}
