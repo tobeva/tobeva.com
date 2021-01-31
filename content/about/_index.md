@@ -16,8 +16,10 @@ menu:
 Winter walk in West Virginia, December 2020.
 {{< /imgproc >}}
 
-**Latest**: A [blog post](/blog/2021/01/23/napari-2020-rendering-update/)
-with 2020 [video](https://youtu.be/X5Ar8JA2tc8) update.
+**Latest Article**: [Narrative Driven Development](/articles/narrative-driven-development/).
+
+**Latest Blog**: [Blog post](/blog/2021/01/23/napari-2020-rendering-update/)
+with a [2020 napari update video](https://youtu.be/X5Ar8JA2tc8).
 
 We are a small consulting and contracting company specializing in cloud
 data pipelines, high-performance systems and computer graphics. Read about
