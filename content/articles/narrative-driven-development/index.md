@@ -192,10 +192,9 @@ personal narratives of our friends and co-workers. In fact, the game here
 is the same, we need to strive to always be aware of these other points of
 view, and then turn our full attention to them at times.
 
-When then [pandemic](https://www.nature.com/articles/d41586-020-03035-4)
-struck and people lost the casual in-person interactions of the physical
-workplace, there was a real struggle as to how to replace those informal
-interactions with something that worked online.
+When then pandemic struck and people lost the casual in-person interactions
+of the physical workplace, there was a real struggle as to how to replace
+those informal interactions with something that worked online.
 
 The resulting [video
 encounters](https://www.bbc.com/worklife/article/20200421-why-zoom-video-chats-are-so-exhausting)
