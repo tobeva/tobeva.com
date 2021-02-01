@@ -21,19 +21,18 @@ Winter walk in West Virginia, December 2020.
 **Latest Blog**: [Blog post](/blog/2021/01/23/napari-2020-rendering-update/)
 with a [2020 napari update video](https://youtu.be/X5Ar8JA2tc8).
 
-We are a small consulting and contracting company specializing in cloud
-data pipelines, high-performance systems and computer graphics. Read about
-the [industries we have experience with](/about/experience/).
+I started Tobeva Software to do consulting and contracting in cloud data
+pipelines, high-performance systems and computer graphics. Read more about
+my [industry experience](/about/experience/) or [about me](/about/philip).
 
-We offer consulting services such as the analysis of architecture and code
+I offer consulting services such as the analysis of architecture and code
 quality, build automation and continuous integration, automated testing,
-quantifying and fixing performance issues, tracking down difficult bugs.
-The final product can be as simple as a writeup or report, or we can
-implement the solution for you.
+quantifying and fixing performance issues, tracking down difficult bugs. Or
+just implementation of new features or tools or prototypes.
 
-We primarily work in C/C++, Python and Javascript but are interested in
-getting into Go and Rust development and could come up to speed quickly. We
-are located in Winchester, Virginia.
+I've primarily worked in C/C++, Python and Javascript, but I'm interested
+in other languages such as Go and Rust, and could come up to speed quickly.
+I work remotely from my home in Winchester, Virginia.
 
 Please contact **philip<img src="" width="0" height="0">@tobeva.com** for
 more information.
