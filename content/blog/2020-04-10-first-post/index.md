@@ -10,8 +10,7 @@ resources:
 ---
 
 As I'm writing this the number of confirmed COVID-19 cases worldwide is above
-1,600,000 while the number deaths is nearing 100,000. It's believed that in the
-United States we are approaching the "peak", perhaps within the next few days. 
+1,600,000 while the number deaths is nearing 100,000.
 
 {{< imgproc covid Resize "512x">}}
 Confirmed COVID-19 cases Worldwide as of April 9, 2020.
