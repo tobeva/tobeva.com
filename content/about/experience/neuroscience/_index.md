@@ -78,5 +78,11 @@ One fun thing about working at Janelia was they had a huge 4,000 core
 computer system in the basement with seemingly limitless disk space. I was
 able to kick off jobs on this whenever I wanted to. There was some sort of
 in-house accounting system so your group did "pay" for usage, but I imagine
-it was very cheap compared to a cloud provider, since it was fully paid 
+it was very cheap compared to a cloud provider, since it was fully paid
 for and literally in the building.
+
+### References
+* [A visual motion detection circuit suggested by Drosophila connectomics](https://www.nature.com/articles/nature12450)
+    * I'm an "author" on this Nature paper due to above software work.
+* [napari](https://tobeva.com/projects/napari/)
+    * A newer neuroscience imaging tool I have worked on.

@@ -19,15 +19,16 @@ Writing is an important skill in software development. A developer can only
 have so many in-person interactions, but good writing can inform and
 influence many more people, on your own project or beyond.
 
-**Technical writing**:
+### Technical Writing
 
 * [Napari Rendering Document](https://napari.org/docs/0.4.3/explanations/rendering.html)
 
-**Tobeva Software Articles**:
+### Tobeva Software Articles
 
 * [Brain Oriented Programming](/articles/brain-compatible-code/)
+* [Narrative Driven Development](/articles/narrative-driven-development/)
 
-**Tobeva Software Blog**:
+### Tobeva Software Blog
 
 * [Open Source](/blog/2020/08/02/open-source/)
 * [True Confidence](/blog/2020/04/12/true-confidence/)

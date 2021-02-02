@@ -60,3 +60,8 @@ The MetaVR experience was also interesting because the company is 100%
 virtual, they do not have a physical office at all. Working like that for
 eight years taught me how to make remote development work, something that
 is suddenly very in fashion.
+
+### References
+
+* [MetaVR Trade Show Interview](https://youtu.be/dtut-pGqYhA)
+    * MetaVR CEO discusses simulators shown at I/IITSEC 2019.

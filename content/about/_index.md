@@ -18,17 +18,19 @@ Winter walk in West Virginia, December 2020.
 
 **Latest Article**: [Narrative Driven Development](/articles/narrative-driven-development/).
 
-**Latest Blog**: [Blog post](/blog/2021/01/23/napari-2020-rendering-update/)
-with a [2020 napari update video](https://youtu.be/X5Ar8JA2tc8).
+**Latest Blog Post**: [Napari 2020 Update](/blog/2021/01/23/napari-2020-rendering-update/)
+with a [25 minute video summary](https://youtu.be/X5Ar8JA2tc8).
 
-I started Tobeva Software to do consulting and contracting in cloud data
-pipelines, high-performance systems and computer graphics. Read more about
-my [industry experience](/about/experience/) or [about me](/about/philip).
+I started Tobeva Software in April 2020 to do consulting and contracting in
+cloud data pipelines, high-performance systems and computer graphics. Read
+more about my [industry experience](/about/experience/) or [about
+me](/about/philip).
 
-I offer consulting services such as the analysis of architecture and code
-quality, build automation and continuous integration, automated testing,
-quantifying and fixing performance issues, tracking down difficult bugs. Or
-just implementation of new features or tools or prototypes.
+I'm open to contracts implementing new features, tools, or prototypes, as
+well as shorter consulting engagements. For example, I can analyze
+architecture and code quality, set up build automation, continuous
+integration or static analysis. I can improve automated testing, quantify
+and fix performance issues, or track down difficult bugs.
 
 I've primarily worked in C/C++, Python and Javascript, but I'm interested
 in other languages such as Go and Rust, and could come up to speed quickly.

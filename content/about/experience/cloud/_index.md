@@ -91,3 +91,8 @@ I believe the cloud will continue to grow and improve more or less forever.
 Even if something new "replaces it" I believe that new thing will be built
 on top of the cloud. The cloud might yield the spotlight but it will
 continue to be there underneath doing the heavy lifting.
+
+### References
+
+* [New York Auto Show Interview](https://youtu.be/Oz5BX4nIyEw)
+    * Four minute summary of Carmera with the CEO.

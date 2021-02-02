@@ -79,3 +79,13 @@ The musicians and artists on the team outnumbered the programmers, which
 made for a fun work environment. It was eye opening to work with so many
 people who had no software or engineering background but were super smart,
 creative and fun to work with.
+
+### References
+
+* [Guitar Hero Gameplay](https://youtu.be/JidwG46tazA)
+    * Video of _Sweet Child O' Mine_ in Guitar Hero 2.
+* [The Oral History of Guitar Hero](https://www.vice.com/en/article/wx8bey/the-oral-history-of-guitar-hero) by [Blake Hester](https://muckrack.com/blake-hester)
+    * Chronicles the rise and fall of the whole music videogame genre.
+* Philip's game credits on
+  [MobyGames](https://www.mobygames.com/developer/sheet/view/developerId,161469/)
+  and [IMBD](https://www.imdb.com/name/nm2109760/).
