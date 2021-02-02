@@ -20,8 +20,8 @@ My first real commercial job was at a startup called SensAble Technologies
 where I worked on **FreeForm** for around four years. FreeForm was a
 software and hardware system which simulates "virtual clay". FreeForm is
 [still available
-today](https://www.3dsystems.com/software/geomagic-freeform), 20 years
-later, but it's now sold by [3D Systems](https://www.3dsystems.com/).
+today](https://www.3dsystems.com/software/geomagic-freeform), but it's now
+sold by [3D Systems](https://www.3dsystems.com/).
 
 {{< imgproc freeform-demon Resize "512x" >}}
 A very detailed model carved with FreeForm.
@@ -76,6 +76,7 @@ in 2003.
 
 ### References
 * [Geomagic Freeform](https://www.3dsystems.com/software/geomagic-freeform)
-    * The software/hardware package still sold today.
+    * The same software and hardware as sold today.
 * [Introduction to Geomagic Freeform](https://youtu.be/yJKZLiqMu_c)
-    * Four minute introduction video.
+    * Four minute introduction video to the software.
+

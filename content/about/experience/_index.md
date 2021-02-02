@@ -8,8 +8,8 @@ weight: 20
 type: docs
 nav:
     prev:
-        label: "Experience"
-        url: "/about/experience/"
+        label: "Current Projects"
+        url: "/about/current/"
     up:
         label: "About"
         url: "/about/"
