@@ -4,6 +4,8 @@ title: "Narrative Driven Development"
 linkTitle: "Narrative Driven Development"
 description: "Get outside your own head by thinking in narratives."
 author: Philip ([@pbwinston](https://twitter.com/pbwinston))
+aliases:
+        - /articles/narrative-driven-development
 type: article
 summary: "How to get out of your own head and think in narratives: advice to a younger developer."
 ---
