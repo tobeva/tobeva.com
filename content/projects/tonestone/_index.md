@@ -14,7 +14,7 @@ nav:
         url: "/projects/napari"
 
 ---
-In February, 2021 I started doing some short-term contracting work for
+In February, 2021 I started doing some contracting work for
 [ToneStone](https://tonestone.com).
 
 From their website, "ToneStone is a place where anyone can make music. The
@@ -28,3 +28,6 @@ Greg LoPicollo, the CEO of ToneStone, for some background on Greg's career
 and a hint at what ToneStone is working on. I worked with Greg back in 2005
 when we were both at [Harmonix](https://www.harmonixmusic.com/) where we
 made [Guitar Hero](/about/experience/videogames/).
+
+Currently I'm working mostly on the JavaScript side of their application,
+I'm also helping them transition from Perforce to Git.

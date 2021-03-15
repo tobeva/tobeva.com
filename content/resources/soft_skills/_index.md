@@ -4,7 +4,7 @@ description: "Skills beyond Software Engineering."
 date: 2020-04-06
 draft: false
 type: docs
-weight: 50
+weight: 90
 nav:
     prev:
         label: "People"

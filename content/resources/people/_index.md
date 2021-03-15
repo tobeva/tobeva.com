@@ -1,11 +1,11 @@
 ---
 title: "People"
 linkTitle: "People"
-description: "People involved with Software Engineering." 
+description: "People involved with Software Engineering."
 date: 2020-04-06
 draft: false
 type: docs
-weight: 40
+weight: 80
 nav:
     prev:
         label: "Learning"

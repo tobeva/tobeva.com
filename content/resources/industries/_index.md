@@ -2,7 +2,7 @@
 title: "Industries"
 linkTitle: "Industries"
 description: "Resources for specific industries."
-weight: 25
+weight: 50
 type: docs
 nav:
     prev:

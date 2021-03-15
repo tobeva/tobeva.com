@@ -9,8 +9,8 @@ resources:
   title: "Image #:counter"
 ---
 
-{{< imgproc napari Resize "512x">}}
-Octree rendering in napari.
+{{< imgproc napari Resize "600x">}}
+WebUI Video for Napari work.
 {{< /imgproc >}}
 
 For the last eight months of 2020 I worked for [The Chan Zuckerberg

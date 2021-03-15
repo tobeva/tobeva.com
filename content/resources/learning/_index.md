@@ -4,7 +4,7 @@ linkTitle: "Learning"
 description: "Learning programming and software engineering."
 date: 2020-08-01
 type: docs
-weight: 35
+weight: 70
 nav:
     prev:
         label: "Languages"
@@ -43,4 +43,4 @@ nav:
 **Tobeva Software**
 * [Our YouTube Channel](https://www.youtube.com/channel/UCgsQ2iINZxb_XVcUnuF4K3Q)
     * Our channel has links to most of the above channels.
-  
+

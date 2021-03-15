@@ -18,6 +18,6 @@ nav:
         url: "/about/experience/"
 ---
 
-* Started contracting with [ToneStone](/projects/tonestone) in February, 2021.
+* Ongoing contract with [ToneStone](/projects/tonestone).
 * Finishing up a few things on [Napari](/projects/napari) from last year.
 * Learning the [Rust](https://www.rust-lang.org/) programming language.

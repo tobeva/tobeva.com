@@ -12,6 +12,6 @@ nav:
         label: "Resources"
         url: "/resources/"
     next:
-        label: "Fun"
-        url: "/resources/fun/"
+        label: "Community"
+        url: "/resources/community/"
 ---

@@ -25,6 +25,7 @@ influence many more people, on your own project or beyond.
 
 ### Tobeva Software Articles
 
+* [The Seam Metaphor in Software Architecture](/articles/the-joyful-bear)
 * [Brain Oriented Programming](/articles/brain-compatible-code/)
 * [Narrative Driven Development](/articles/narrative-driven-development/)
 

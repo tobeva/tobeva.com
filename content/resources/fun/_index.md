@@ -2,7 +2,7 @@
 title: "Fun"
 linkTitle: "Fun"
 description: "Fun projects people have done."
-weight: 20
+weight: 40
 type: docs
 nav:
     prev:

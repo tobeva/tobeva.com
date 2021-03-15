@@ -16,25 +16,31 @@ menu:
 Winter walk in West Virginia, December 2020.
 {{< /imgproc >}}
 
-**Latest Article**: [Narrative Driven Development](/articles/narrative-driven-development/).
+**Latest Article**: [The Seam Metaphor in Software Architecture](/articles/the-joyful-bear/)
 
-**Latest Blog Post**: [Napari 2020 Update](/blog/2021/01/23/napari-2020-rendering-update/)
-with a [25 minute video summary](https://youtu.be/X5Ar8JA2tc8).
+**Latest Blog Post**: [Video Walkthrough of WebUI for Napari](/blog/2021/03/13/video-walkthrough-on-webui/)
 
-I started Tobeva Software in April 2020 to do consulting and contracting in
-cloud data pipelines, high-performance systems and computer graphics. Read
-more about my [industry experience](/about/experience/) or [about
-me](/about/philip).
+**Latest Resources**: [Community (subreddits)](/resources/community/)
+
+### Overview
+
+I started **Tobeva Software** in April 2020 to do consulting and
+contracting in cloud data pipelines, high-performance systems and computer
+graphics.
+
+Read more about my [industry experience](/about/experience/) or
+[about me](/about/philip).
 
 I'm open to contracts implementing new features, tools, or prototypes, as
-well as shorter consulting engagements. For example, I can analyze
-architecture and code quality, set up build automation, continuous
-integration or static analysis. I can improve automated testing, quantify
-and fix performance issues, or track down difficult bugs.
+well as shorter consulting engagements. For example, I can spend a week or
+two analyzing your architecture and code quality, or setting up build
+automation, continuous integration or static analysis. I can quantify and
+fix performance issues or track down difficult bugs.
 
 I've primarily worked in C/C++, Python and Javascript, but I'm interested
 in other languages such as Go and Rust, and could come up to speed quickly.
-I work remotely from my home in Winchester, Virginia.
+I have five years of experience with AWS, but would be happy to use other
+cloud services also. I work remotely from my home in Winchester, Virginia.
 
 Please contact **philip<img src="" width="0" height="0">@tobeva.com** for
 more information.
