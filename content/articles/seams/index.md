@@ -59,7 +59,7 @@ Joyful Bear, but suppose we are aiming for the same basic look as our final resu
 Not only would cutting and sewing this mega-bear take vastly longer, the final result would be inferior. Much of the cuteness of the bear would be ruined if there were dozens of unnecessary seams, and it would be much less soft to the touch.
 
 Let these three bears remind you that your architecture needs to have the
-right number of pieces. Two few and you cannot produce the necessary
+right number of pieces. Too few and you cannot produce the necessary
 functionality, but too many and you be spending extra effort to produce a
 worse result.
 
