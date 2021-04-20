@@ -52,8 +52,8 @@ The Raveler interface for "proofreading" segmentations.
 {{< /imgproc >}}
 
 Tiled image viewers are a staple on websites and in many graphics
-applications because they more or less works perfectly. You can navigate
-images of basically any size with a steady 60Hz update rate if you
+applications because they more or less have to work perfectly. You can
+navigate images of basically any size with a steady 60Hz update rate if you
 implement it well.
 
 I wrote the tile viewing code in Python using OpenGL. The performance was
