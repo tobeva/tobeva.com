@@ -31,11 +31,12 @@ graphics.
 Read more about my [industry experience](/about/experience/) or
 [about me](/about/philip).
 
-I'm open to contracts implementing new features, tools, or prototypes, as
-well as shorter consulting engagements. For example, I can spend a week or
-two analyzing your architecture and code quality, or setting up build
-automation, continuous integration or static analysis. I can quantify and
-fix performance issues or track down difficult bugs.
+I'm available for short to medium term consulting engagements or contracts.
+I'm able to work on new features, tools, or prototypes, or do one-off
+projects such as setting up Continuous Integration or other build
+automation such as testing, doing static analysis, or fixing performance
+issues or difficult bugs. I recently help migrate a company from Perforce
+to Git and could advise or help with Git-based workflows.
 
 I've primarily worked in C/C++, Python and Javascript, but I'm interested
 in other languages such as Go and Rust, and could come up to speed quickly.
