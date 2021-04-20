@@ -31,12 +31,7 @@ worked on have involved graphics, but not all of them.
 I have found over the years that working in graphics, games and simulations
 is a fantastic way to build general software engineering skills.
 
-Real-time rendering is demanding and it makes you mindful of the importance
-of performance and optimization. It also teaches you how to evolve complex
-codebases over time. Finally it helps you develop empathy towards the
-user's experience, since the user's experience is critical to graphics.
-
-When working I try to blend hard-core engineering with pragmatism. In my
+When working, I try to blend hard-core engineering with pragmatism. In my
 opinion the goal of a software developer is to solve problems and create
 value. This can involve writing code, but often selecting where to dig is
 more important than the digging itself. One of the biggest sources of
@@ -44,7 +39,7 @@ preventable waste in our industry is the time and money spent writing
 software that simply should never have been written.
 
 I work remotely from my home in Winchester, Virginia, but I love to
-discussing things on chat or video, so I'll be very available and visible
+discuss things on chat or video, so I'll be very available and visible
 on your project, if that is desired.
 
 My primary languages have been C++, Python and Javascript, but I've started
