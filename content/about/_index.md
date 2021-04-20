@@ -35,8 +35,8 @@ I'm available for short to medium term consulting engagements or contracts.
 I'm able to work on new features, tools, or prototypes, or do one-off
 projects such as setting up Continuous Integration or other build
 automation such as testing, doing static analysis, or fixing performance
-issues or difficult bugs. I recently help migrate a company from Perforce
-to Git and could advise or help with Git-based workflows.
+issues or difficult bugs. I recently helped migrate a company from Perforce
+to Git and I could advise or help with setting up Git-based workflows.
 
 I've primarily worked in C/C++, Python and Javascript, but I'm interested
 in other languages such as Go and Rust, and could come up to speed quickly.
