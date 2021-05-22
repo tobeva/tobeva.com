@@ -2,7 +2,9 @@
 date: 2020-08-02
 title: "Open Source"
 linkTitle: "Open Source"
-description: "Working on open source full-time."
+description: "I started Tobeva Software in April of this year and one of the first
+opportunities to come my way was a contract working for The Chan
+Zuckerberg Initiative on an open source project called Napari."
 author: Philip ([@pbwinston](https://twitter.com/pbwinston))
 resources:
 - src: "**.{png,jpg}"

@@ -2,7 +2,7 @@
 date: 2020-04-12
 title: "True Confidence"
 linkTitle: "True Confidence"
-description: "You might have the wrong idea about confidence."
+description: "I sometimes see people asking how they can be more confident. For instance, how is it that I'm confident enough to start a new company right in the middle of the COVID-19 crisis?"
 author: Philip ([@pbwinston](https://twitter.com/pbwinston))
 resources:
 - src: "**.{png,jpg}"

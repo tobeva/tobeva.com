@@ -2,7 +2,10 @@
 date: 2020-04-10
 title: "Happy Birthday Tobeva Software"
 linkTitle: "Happy Birthday Tobeva"
-description: "The first post from a new little company."
+description: "This time the physical infrastructure of the country
+is essentially untouched. There's no wreckage to remove, no husks of cars or
+twisted metal, no buildings to raze or erect, no power lines or communication
+infrastructure to repair."
 author: Philip ([@pbwinston](https://twitter.com/pbwinston))
 resources:
 - src: "**.{png,jpg}"

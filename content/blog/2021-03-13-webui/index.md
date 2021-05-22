@@ -2,7 +2,7 @@
 date: 2021-03-13
 title: "Video Walkthrough on WebUI"
 linkTitle: "WebUI for Napari"
-description: "New video on Napari WebUI work."
+description: "I recorded a 35 minute video focused on the WebUI work I did last year for napari. The WebUI work was something I sort of stumbled into while mostly focusing on asynchronous rending and the octree."
 author: Philip ([@pbwinston](https://twitter.com/pbwinston))
 resources:
 - src: "**.{png,jpg}"

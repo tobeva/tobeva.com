@@ -2,7 +2,9 @@
 date: 2021-01-23
 title: "Napari 2020 Rendering Update"
 linkTitle: "Napari Update"
-description: "Update on napari rendering work."
+description: "For the last eight months of 2020 I worked for The Chan Zuckerberg
+Initiative on an open source imaging tool called napari. Napari is an image viewer
+and analysis tool used primarily by Neuroscience and Biology researchers."
 author: Philip ([@pbwinston](https://twitter.com/pbwinston))
 resources:
 - src: "**.{png,jpg}"
