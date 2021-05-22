@@ -18,7 +18,7 @@ Winter walk in West Virginia, December 2020.
 
 **Latest Article**: [The Seam Metaphor in Software Architecture](/articles/the-joyful-bear/)
 
-**Latest Blog Post**: [Video Walkthrough of WebUI for Napari](/blog/2021/03/13/video-walkthrough-on-webui/)
+**Latest Blog Post**: [Feature Flags in ToneStone](/blog/2021/05/21/feature-flags-in-tonestone/)
 
 **Latest Resources**: [Community (subreddits)](/resources/community/)
 
