@@ -2,7 +2,7 @@
 ---
 title: "Current Projects"
 linkTitle: "Current Projects"
-description: "Current Projects so far in 2021."
+description: "Projects as of Fall 2021."
 date: 2021-01-01
 weight: 15
 type: docs
@@ -19,5 +19,4 @@ nav:
 ---
 
 * Ongoing contract with [ToneStone](/projects/tonestone).
-* Finishing up a few things on [Napari](/projects/napari) from last year.
-* Learning the [Rust](https://www.rust-lang.org/) programming language.
+* Volunteer host for [Software Engineering Radio](https://www.se-radio.net/team/philip-winston/).

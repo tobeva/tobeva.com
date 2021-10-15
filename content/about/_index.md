@@ -12,16 +12,9 @@ menu:
 
 **Consult** &middot; **Design** &middot; **Develop**
 
-{{< imgproc winter-2020 Resize "400x" >}}
-Winter walk in West Virginia, December 2020.
+{{< imgproc fall-2021 Resize "400x" >}}
+Winchester, Virginia October 2021.
 {{< /imgproc >}}
-
-**Latest Article**: [The Seam Metaphor in Software Architecture](/articles/the-joyful-bear/)
-
-**Latest Blog Post**: [Feature Flags in ToneStone](/blog/2021/05/21/feature-flags-in-tonestone/)
-
-**Latest Resources**: [Community (subreddits)](/resources/community/)
-
 ### Overview
 
 I started **Tobeva Software** in April 2020 to do consulting and
