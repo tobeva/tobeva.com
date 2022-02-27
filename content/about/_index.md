@@ -17,6 +17,8 @@ Icy morning, Winchester, Virginia. February 2022.
 {{< /imgproc >}}
 ### Overview
 
+**New Blog Post**: [Software Engineering Radio](/blog/2022/02/26/my-experience-as-a-software-engineering-radio-host/)
+
 I started **Tobeva Software** in April 2020 to do consulting and
 contracting in cloud data pipelines, high-performance systems and computer
 graphics.
@@ -31,7 +33,7 @@ automation such as testing, doing static analysis, or fixing performance
 issues or difficult bugs. I recently helped migrate a company from Perforce
 to Git and I could advise or help with setting up Git-based workflows.
 
-I've primarily worked in C/C++, Python and Javascript, but I'm interested
+I've primarily worked in C++, C#, Python and Javascript, but I'm interested
 in other languages such as Go and Rust, and could come up to speed quickly.
 I have five years of experience with AWS, but would be happy to use other
 cloud services also. I work remotely from my home in Winchester, Virginia.

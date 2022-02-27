@@ -51,17 +51,18 @@ Hosting is like having a second job, but a mini-job. You only need to
 record about one show every two months. Combined the nine hosts produce a
 new show almost every week.
 
-I found that recording the epsiode is actually the easiest part, which
-suprised me. By then you're hopefully well prepared and you are usually
-interviewing a true expert, so it's pretty easy to keep them talking for
-about an hour.
+I was surprised to discover that recording the epsiode was actually one of
+the easier parts of the role for me. By then you're hopefully well prepared
+and you are usually interviewing a true expert, so it's pretty easy to keep
+them talking for about an hour.
 
 The hardest part for me and many of the hosts is eliminate "filler words".
 I was able to excise "um" from my vocabulary pretty easily, but words like
-"okay" and "so" and “I guess” keep croping up. This a good skill to master
-for real-life as well, at least in somewhat formal settings.
+"okay" and "so" and “I guess” keep croping up. Speaking without filler
+words is good skill to master for real-life as well, at least in more
+formal settings.
 
-Most of the effort towards preparing a show involves vetting and lining up
+Much of the effort towards preparing a show involves vetting and lining up
 the guests, but the activity that feels most like homework is producing an
 outline for the show. It's easy to drag your feet on doing the research you
 need to do in order to write a good outline. An outline is not a list of
@@ -71,24 +72,24 @@ questions and discussion.
 Our shows generally follow a structure that includes a lot of background
 and educational material, more so than podcasts which sometimes dive right
 into what the guest is promoting. Before writing the outline I will read a
-lot online, and often watch YouTube episodes or listen to episodes from our
-podcast or other podcasts.
+lot online, and often watch YouTube episodes or listen to past episodes
+from our podcast or other podcasts.
 
 # Finding Guests
 
-As host a you can come up with topics and find your own guests, but people
-are constantly pitching ideas to the show as well. Interestingly a lot are
-submitted by PR representatives. If approved by Robert these topics and
-guests are available first-come first-serve basis to any host.
+As a host you can come up with topics and find your own guests, but pitches
+for shows are constantly coming in from the outisde as well. Interestingly
+a lot are submitted by PR representatives. If approved by Robert these
+topics and guests are available first-come first-serve basis to any host.
 
-For my first five shows only one was my idea and my guest, although I
+For my first five shows only one was my own topic and guest, although I
 attempted to arrange other shows that didn't end up happening. I have some
-ideas for future shows, but doing "incoming pitches" worked out better than
-I thought they would. Even though I didn't come up with them, there were
-many topics to choose from I was able to pick things I was interested in.
+ideas for future shows, but doing "incoming pitches" worked out pretty well
+for me. There were many topics to choose from so I was able to pick things
+I was interested in.
 
 If you have an idea for a show topic or a guest, feel free to [email
-me](/about) or see the show's [content
+me](/about) or read the show's [content
 guidelines](https://www.se-radio.net/about/content-guidelines/) for
 instructions on how to pitch the show.
 
@@ -96,12 +97,22 @@ instructions on how to pitch the show.
 
 I'd recommend becoming a Software Engineering Radio host if it sounds
 intriguing to you. Or you could host your own podcast or a YouTube channel.
-I think producing content builds skills that can benefit you in your main
-job,  and it can be really fun and rewarding.
+I think producing content builds many skills that can benefit you in your
+day job, and it can be fun and rewarding.
 
 I enjoy talking to experts and being able to ask them whatever I want. The
 guests tend to be pretty cool people and hosting is good motivation to
 learn new things and stay up-to-date in our rapidly changing field.
 
-You can see the five episodes I recorded and [listen to them
-here](https://www.se-radio.net/team/philip-winston/).
+# The episodes
+
+These are the [five
+episodes](https://www.se-radio.net/team/philip-winston/) I've hosted so
+far, each has a page where you can read more about it and listen to the
+whole episode:
+
+* 474 – [Paul Butcher on Fuzz testing](https://www.se-radio.net/2021/08/episode-474-paul-butcher-on-fuzz-testing/)
+* 484 – [Audrey Lawrence on Timeseries Databases](https://www.se-radio.net/2021/11/episode-484-audrey-lawrence-on-timeseries-databases/)
+* 493 – [Ram Sriharsha on Vectors in Machine Learning](https://www.se-radio.net/2022/01/episode-493-ram-sriharsha-on-vectors-in-machine-learning/)
+* 497 – [Richard L. Sites on Understanding Software Dynamics](https://www.se-radio.net/2022/02/episode-497-richard-l-sites-on-understanding-software-dynamics/)
+* 500 – [Sergey Gorbunov on Blockchain Interoperability](https://www.se-radio.net/2022/02/episode-500-sergey-gorbunov-on-blockchain-interoperability/)
