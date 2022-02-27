@@ -12,8 +12,8 @@ menu:
 
 **Consult** &middot; **Design** &middot; **Develop**
 
-{{< imgproc fall-2021 Resize "400x" >}}
-Winchester, Virginia October 2021.
+{{< imgproc february-2022 Resize "400x" >}}
+Icy morning, Winchester, Virginia. February 2022.
 {{< /imgproc >}}
 ### Overview
 
