@@ -29,5 +29,4 @@ and a hint at what ToneStone is working on. I worked with Greg back in 2005
 when we were both at [Harmonix](https://www.harmonixmusic.com/) where we
 made [Guitar Hero](/about/experience/videogames/).
 
-Currently I'm working mostly on the JavaScript side of their application,
-I'm also helping them transition from Perforce to Git.
+Currently I'm working mostly on the music-making application itself.
