@@ -1,5 +1,8 @@
 
 .td-article {
+        min-width: 700px;
+        border-right: 1px solid $td-sidebar-border-color;
+        padding-right: 50px;
         p {
                 font-weight: $font-weight-body-text;
                 font-size: 1.30rem;
