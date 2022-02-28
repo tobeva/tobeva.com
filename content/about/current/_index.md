@@ -2,8 +2,8 @@
 ---
 title: "Current Projects"
 linkTitle: "Current Projects"
-description: "Projects as of Fall 2021."
-date: 2021-01-01
+description: "Projects as of Winter 2022."
+date: 2022-02-28
 weight: 15
 type: docs
 nav:
