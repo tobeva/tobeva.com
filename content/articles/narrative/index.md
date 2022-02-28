@@ -60,8 +60,8 @@ recharge you when times are tough.
 ## The Craftsman Narrative
 
 An iconic narrative of software engineering is someone hunched over their
-keyboard editing text. My text
-[ed](https://code.visualstudio.com/)[it](https://www.vim.org/)[or](https://www.gnu.org/software/emacs/),
+keyboard editing text. My 
+[text editor](https://code.visualstudio.com/),
 my keyboard, and my screen are all expertly engineered artifacts designed
 to make the editing process pleasant, effective, and efficient.
 
