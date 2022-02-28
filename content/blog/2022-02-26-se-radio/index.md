@@ -38,7 +38,7 @@ This was an outlet and bonding experience for my son and me during
 stressful times. It also gave me glimpse of what it was like to carry on a
 conversation while staying aware there will later be an audience. It gives
 you a buzz similar to being on stage, and yet it's totally different since
-there is no audience at the time.
+there is generally no audience when you are recording.
 
 In May of 2021 Robert emailed me to say there was an opening for a host on
 the show and I started the onboarding process. Robert is very organized and
@@ -79,7 +79,7 @@ from our podcast or other podcasts.
 
 As a host you can come up with topics and find your own guests, but pitches
 for shows are constantly coming in from the outisde as well. Interestingly
-a lot are submitted by PR representatives. If approved by Robert these
+a lot are submitted by PR representatives. If approved by Robert, these
 topics and guests are available first-come first-serve basis to any host.
 
 For my first five shows only one was my own topic and guest, although I
