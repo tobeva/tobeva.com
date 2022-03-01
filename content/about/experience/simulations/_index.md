@@ -30,7 +30,7 @@ simulators including the F-16, A-10 and F-22 simulators.
 FA-18's over a virtual Camp Pendleton in California.
 {{< /imgproc >}}
 
-My first project at MVRSimulation was to add a human animation system. Over
+My first project at MVRsimulation was to add a human animation system. Over
 time I worked on many aspects from graphics to networking to architecture.
 Beyond the product itself I developed a web-based performance monitoring
 and QA tool. We wrung out all the randomness from the scene generation so
