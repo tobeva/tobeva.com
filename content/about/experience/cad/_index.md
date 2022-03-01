@@ -71,8 +71,8 @@ of time as a college degree, but laser-focused on developing on one piece
 of software. It was a great way to kick off a career and I still keep it
 touch with many of the people I worked with there. In fact I worked with
 several of them later at
-[MetaVR](https://tobeva.com/about/experience/simulations/). I left SensAble
-in 2003.
+[MVRsimulation](https://tobeva.com/about/experience/simulations/). I left
+SensAble in 2003.
 
 ### References
 * [Geomagic Freeform](https://www.3dsystems.com/software/geomagic-freeform)
