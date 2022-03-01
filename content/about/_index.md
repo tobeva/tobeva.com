@@ -15,9 +15,10 @@ menu:
 {{< imgproc february-2022 Resize "400x" >}}
 Icy morning, Winchester, Virginia. February 2022.
 {{< /imgproc >}}
-### Overview
 
 **New Blog Post**: [Software Engineering Radio](/blog/2022/02/26/my-experience-as-a-software-engineering-radio-host/)
+
+### Overview
 
 I started **Tobeva Software** in April 2020 to do consulting and
 contracting in cloud data pipelines, high-performance systems and computer
