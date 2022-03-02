@@ -273,10 +273,10 @@ programmer* *needs to be able to find what they need.*
 **Postscript on real-world OOP:**
 
 *Large messy OOP codebases are maintained and extended only if they've*
-*become become extremely valuable. If your product is making more and more*
-*money, you can afford to hire more and more smart programmers to keep the*
-*party going. This leads to a survivorship bias where large actively*
-*maintained OOP codebases tend to be counter-examples towards how to do*
-*OOP well, serving as a bad example on the impressionable minds working on*
-*the code. Those who realize this might be tempted to start fresh on a new*
-*codebase, possibly at a new company.*
+*become become economically valuable. If your product is making more and
+more* *money, you can afford to hire more and more smart programmers to
+keep the* *party going. This leads to a survivorship bias where large
+actively* *maintained OOP codebases tend to be counter-examples towards how
+to do* *OOP well, serving as a bad example on the impressionable minds
+working on* *the code. Those who realize this might be tempted to start
+fresh on a new* *codebase, possibly at a new company.*

@@ -17,9 +17,9 @@ nav:
         url: "/about/experience/simulations/"
 ---
 
-For several years I worked at the [*Janelia Research
-Campus*](http://janelia.org) in Ashburn, VA which is run by the [*Howard
-Hughes Medical Institute*](http://hhmi.org). The facility is dedicated to
+For several years I worked at the [Janelia Research
+Campus](http://janelia.org) in Ashburn, VA which is run by the [Howard
+Hughes Medical Institute](http://hhmi.org). The facility is dedicated to
 Neuroscience Research.
 
 Neuroscience is an interesting field because it's highly interdisciplinary.

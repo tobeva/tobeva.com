@@ -27,6 +27,12 @@ keep their maps up to date using normal video collected by delivery vans or
 any type of fleet vehicle. That will require sophisticated computer vision
 and machine learning to interpret the videos and update the maps.
 
+CARMERA was [purchased by
+Toyota](https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/)
+in 2021 and is now part of Toyota's [Woven Planet
+Group](https://www.woven-planet.global/en) group dedicated to "automated
+driving, robotics, smart cities, and more".
+
 {{< imgproc carmera-van Resize "512x" >}}
 Survey vehicle to collect geospatial data.
 {{< /imgproc >}}
@@ -95,4 +101,4 @@ continue to be there underneath doing the heavy lifting.
 ### References
 
 * [New York Auto Show Interview](https://youtu.be/Oz5BX4nIyEw)
-    * Four minute summary of Carmera with the CEO.
+    * Four minute summary of CARMER with their CEO.
