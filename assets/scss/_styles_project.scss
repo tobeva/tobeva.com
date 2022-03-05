@@ -13,3 +13,19 @@
                 height: auto;
         }
 }
+
+.td-blog {
+        p {
+                font-weight: $font-weight-body-text;
+                font-size: 1.15rem;
+                font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+        }
+}
+
+.td-section {
+        p {
+                font-weight: $font-weight-body-text;
+                font-size: 1.15rem;
+                font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+        }
+}
