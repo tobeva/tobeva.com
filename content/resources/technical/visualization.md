@@ -1,14 +1,14 @@
 ---
 title: "Visualization"
 description: "Visualization"
-date: 2020-05-01
+date: 2022-03-24
 draft: false
 type: docs
 weight: 70
 nav:
     prev:
-        label: "Programming"
-        url: "/resources/technical/programming"
+        label: "Unity"
+        url: "/resources/technical/unity"
     up:
         label: "Technical"
         url: "/resources/technical/"

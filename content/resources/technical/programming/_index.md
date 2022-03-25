@@ -14,6 +14,6 @@ nav:
         label: "Technical"
         url: "/resources/technical/"
     next:
-        label: "Visualization"
-        url: "/resources/technical/visualization"
+        label: "Unity"
+        url: "/resources/technical/unity"
 ---
