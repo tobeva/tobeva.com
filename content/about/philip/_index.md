@@ -38,16 +38,7 @@ more important than the digging itself. One of the biggest sources of
 preventable waste in our industry is the time and money spent writing
 software that simply should never have been written.
 
-I work remotely from my home in Winchester, Virginia, but I love to
-discuss things on chat or video, so I'll be very available and visible
-on your project, if that is desired.
-
-My primary languages have been C++, C#, Python and Javascript, but I've
-started learning Go and Rust, and I'm open to other languages as well. I'm
-happy to consult and simply offer advice on architecture, design,
-optimization or anything related to software engineering. I can also solve
-hard bugs or evaluate technology choices, or do full implementations alone
-or with a team.
-
-Please drop me a line at **philip<img src="" width="0"
-height="0">@tobeva.com** or **[@pbwinston](https://twitter.com/pbwinston)**.
+My primary languages have been C++, C#, Python and Javascript. I work remotely
+from my home in Winchester, Virginia. Please drop me a line at **philip<img
+src="" width="0" height="0">@tobeva.com** or on Twitter 
+**[@pbwinston](https://twitter.com/pbwinston)**.
