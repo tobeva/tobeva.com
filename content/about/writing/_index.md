@@ -21,7 +21,7 @@ influence many more people, on your own project or beyond.
 
 ### Technical Writing
 
-* [Napari Rendering Document](https://napari.org/docs/0.4.3/explanations/rendering.html)
+* [Napari Rendering Document](https://napari.org/guides/rendering-explanation.html)
 
 ### Tobeva Software Articles
 

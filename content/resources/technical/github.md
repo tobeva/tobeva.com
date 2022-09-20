@@ -18,3 +18,8 @@ nav:
 ---
 
 * [Introduction to Git Data Extraction and Analysis in Python](https://towardsdatascience.com/introduction-to-git-data-extraction-and-analysis-in-python-e7e2bf9b4606)
+
+## git
+
+* Trigger new CI on GitHub without making a code change:
+  * `git commit --amend --no-verify` then `git push -f`

@@ -19,7 +19,7 @@ The Software Engineering Radio Logo
 I just finished my first year as a volunteer host for [Software Engineering
 Radio](https://www.se-radio.net/). Over the last year I recorded [five
 episodes](https://www.se-radio.net/team/philip-winston/) and they have now
-all aired and are available on their webiste or through any podcasting app.
+all aired and are available on their website or through any podcasting app.
 
 This post is about how I got involved with the show and what it's like to
 be a host. In March 2020, right when COVID was starting to take off, I
