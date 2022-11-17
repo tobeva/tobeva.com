@@ -23,3 +23,8 @@ nav:
 
 * Trigger new CI on GitHub without making a code change:
   * `git commit --amend --no-verify` then `git push -f`
+
+## bazel
+
+* Run test ignoring cache
+  * `--cache_test_results=no` ([docs](https://bazel.build/reference/command-line-reference#flag--cache_test_results))
