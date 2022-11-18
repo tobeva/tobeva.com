@@ -23,6 +23,11 @@ nav:
 
 * Trigger new CI on GitHub without making a code change:
   * `git commit --amend --no-verify` then `git push -f`
+* Ignore local changes to a *tracked* file
+  * `git update-index --assume-unchanged -- <filepath>`
+* Ignore local changes to *untracked* file:
+  * Use .gitignore (project or user)
+  * Add to `.git/info/exclude` (local to you only)
 
 ## bazel
 

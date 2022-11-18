@@ -41,8 +41,7 @@ Smashes Python’s networking stack into its data science stack.
 **GUI**
 
 * [PyQtGraph](http://www.pyqtgraph.org/)
-  * Pure-p
-  * ython graphics and GUI library built on PyQt4.
+  * Pure-python graphics and GUI library built on PyQt4.
 * [VisPy](http://vispy.org/)
   * Python library for interactive scientific visualization.
 
