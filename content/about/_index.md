@@ -25,8 +25,8 @@ I started **Tobeva Software** in April 2020 to do consulting and contracting in
 cloud data pipelines, high-performance systems and computer graphics.
 
 After a few successful contracts, however, I returned to full-time regular
-employment when I joined [BenchSci](http://benchsci.com) in May 2022. So I'm no
-longer seeking contracts.
+employment when I joined [BenchSci](http://benchsci.com) in May 2022. So I'm not
+currently seeking new contracts.
 
 I will keep this site running indefinately and might return to contracting some
 day. Feel free to contact me, **philip<img src="" width="0"
