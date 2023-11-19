@@ -12,18 +12,7 @@ type: docs
 * Our [blog post](/blog/2021/01/23/napari-2020-rendering-update/) with a
   video summarizing all 2020 work.
 
-**Documents:**
-
-* [Performance Monitoring](https://napari.org/docs/0.4.3/events/perfmon.html)
-* [Performance Backgrounder and Philosophy](https://napari.org/docs/0.4.3/explanations/performance.html)
-* [Render System Design](https://napari.org/docs/0.4.3/explanations/rendering.html)
-* [Asynchronous Rendering Guide](https://napari.org/docs/0.4.3/events/rendering.html)
-
-**GitHub Project**
-* [Napari Rendering GitHub Project](https://github.com/users/pwinston/projects/1)
-  * Lists over 50 pull requests we made in the napari repo.
-
-**Notable Pull Requests:**
+**Async Pull Requests:**
 
 * [async-6: Delay Queue](https://github.com/napari/napari/pull/1679)
 * [async-18: Basic Quadtree Rendering](https://github.com/napari/napari/pull/1793)
