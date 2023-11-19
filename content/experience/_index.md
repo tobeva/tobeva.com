@@ -22,4 +22,4 @@ Simulations](/about/experience/simulations/) and
 on have involved graphics, but not all of them.
 
 My primary languages are Python, C++, and Javascript, but I have recent
-experience with C#, Java and Go. I would be interested in learning Rust.
+experience with C#, Java and Go. I would be interested in learning Go or Rust.
