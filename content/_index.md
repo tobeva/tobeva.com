@@ -1,7 +1,7 @@
 
 ---
 title: "Tobeva Software"
-linkTitle: "About"
+linkTitle: "Home"
 date: 2020-07-17
 weight: 30
 type: docs

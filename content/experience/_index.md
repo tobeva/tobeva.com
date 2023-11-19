@@ -2,7 +2,7 @@
 ---
 title: "Experience"
 linkTitle: "Experience"
-description: "Industries that I've worked in."
+description: "Experience that I've worked in."
 date: 2020-07-17
 weight: 20
 type: docs
@@ -16,6 +16,9 @@ nav:
     next:
         label: "Writing"
         url: "/about/writing/"
+menu:
+  main:
+    weight: 20
 ---
 
 

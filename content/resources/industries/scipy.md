@@ -7,11 +7,11 @@ weight: 20
 type: docs
 nav:
     up:
-        label: "Industries"
-        url: "/resources/industries/"
+        label: "Experience"
+        url: "/resources/experience/"
     next:
         label: "Videogames"
-        url: "/resources/industries/videogames/"
+        url: "/resources/experience/videogames/"
 ---
 
 **Companies**

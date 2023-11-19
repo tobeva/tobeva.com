@@ -8,10 +8,10 @@ type: docs
 nav:
     prev:
         label: "Scipy"
-        url: "/resources/industries/scipy"
+        url: "/resources/experience/scipy"
     up:
-        label: "Industries"
-        url: "/resources/industries/"
+        label: "Experience"
+        url: "/resources/experience/"
 ---
 **Companies**
 * [Probably Monsters](https://www.probablymonsters.com/)

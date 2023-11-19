@@ -12,8 +12,8 @@ nav:
         label: "Resources"
         url: "/resources/"
     next:
-        label: "Industries"
-        url: "/resources/industries/"
+        label: "Experience"
+        url: "/resources/experience/"
 ---
 
 There are many amazing home projects online these days.

@@ -1,6 +1,6 @@
 ---
-title: "Industries"
-linkTitle: "Industries"
+title: "Experience"
+linkTitle: "Experience"
 description: "Resources for specific industries."
 weight: 50
 type: docs

@@ -8,8 +8,8 @@ type: docs
 weight: 60
 nav:
     prev:
-        label: "Industries"
-        url: "/resources/industries/"
+        label: "Experience"
+        url: "/resources/experience/"
     up:
         label: "Resources"
         url: "/resources/"
