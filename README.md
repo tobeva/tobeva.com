@@ -18,4 +18,6 @@ This is fetch bootstrap and Font-Awesome which docsy uses.
 
 See the `Makefile` commands `make serve`, `make build` and `make deploy`.
 
+Must set TOBEVA_RSYNC_DEST=XXX@YYYY:path/to/file
+
 README last updated 2022-02-26.
