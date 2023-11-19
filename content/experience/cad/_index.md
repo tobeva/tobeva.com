@@ -5,13 +5,6 @@ description: "Computer Aided Design systems."
 date: 2020-04-27
 weight: 10
 type: docs
-nav:
-    up:
-        label: "Experience"
-        url: "/about/experience/"
-    next:
-        label: "Cloud"
-        url: "/about/experience/cloud/"
 ---
 
 ### FreeForm

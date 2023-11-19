@@ -5,13 +5,6 @@ description: "Three demo videos from Napari work."
 date: 2020-08-06
 weight: 50
 type: docs
-nav:
-    prev:
-        label: "Perfmon"
-        url: "/projects/napari/perfmon"
-    up:
-        label: "Napari"
-        url: "/projects/napari"
 ---
 
 ### 1) Quadtree Rendering - Test Image

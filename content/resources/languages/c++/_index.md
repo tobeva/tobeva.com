@@ -6,13 +6,6 @@ date: 2020-07-31
 draft: false
 type: docs
 weight: 5
-nav:
-    up:
-        label: "Languages"
-        url: "/resources/languages/"
-    next:
-        label: "Go"
-        url: "/resources/languages/go/"
 ---
 
 ![C+ logo](cpp-logo.png)

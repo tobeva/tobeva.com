@@ -5,16 +5,6 @@ description: "Military air and ground-based simulators."
 date: 2020-04-27
 weight: 40
 type: docs
-nav:
-    prev:
-        label: "Neuroscience"
-        url: "/about/experience/neuroscience/"
-    up:
-        label: "Experience"
-        url: "/about/experience/"
-    next:
-        label: "Video Games"
-        url: "/about/experience/videogames/"
 ---
 
 I worked at [MVRsimulation](https://www.mvrsimulation.com/) two separate

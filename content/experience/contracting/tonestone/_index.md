@@ -5,14 +5,6 @@ description: "Music Creation For Everyone."
 date: 2021-02-13
 weight: 50
 type: docs
-nav:
-    up:
-        label: "Projects"
-        url: "/projects/"
-    prev:
-        label: "Napari"
-        url: "/projects/napari"
-
 ---
 
 During most of 2021 I did contract work for [ToneStone](https://tonestone.com).

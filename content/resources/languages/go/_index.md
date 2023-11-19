@@ -6,16 +6,6 @@ date: 2020-05-02
 draft: false
 type: docs
 weight: 10
-nav:
-    prev:
-        label: "C++"
-        url: "/resources/languages/c++/"
-    up:
-        label: "Languages"
-        url: "/resources/languages/"
-    next:
-        label: "Python"
-        url: "/resources/languages/python/"
 ---
 
 ![Go logo](go.png)

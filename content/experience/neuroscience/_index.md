@@ -5,16 +5,6 @@ description: "Multi-resolution imaging system."
 date: 2020-04-27
 weight: 30
 type: docs
-nav:
-    prev:
-        label: "Cloud"
-        url: "/about/experience/cloud/"
-    up:
-        label: "Experience"
-        url: "/about/experience/"
-    next:
-        label: "Simulations"
-        url: "/about/experience/simulations/"
 ---
 
 For several years I worked at the [Janelia Research

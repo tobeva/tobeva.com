@@ -6,16 +6,6 @@ date: 2020-05-02
 draft: false
 type: docs
 weight: 60
-nav:
-    prev:
-        label: "Experience"
-        url: "/resources/experience/"
-    up:
-        label: "Resources"
-        url: "/resources/"
-    next:
-        label: "Learning"
-        url: "/resources/learning/"
 ---
 
 ![C++ Logo](c++/cpp-logo.png)

@@ -5,13 +5,6 @@ description: "Tesing tool and techniques."
 date: 2020-12-01
 weight: 30
 type: docs
-nav:
-    prev:
-        label: "Static Analysis"
-        url: "/resources/technical/programming/static/"
-    up:
-        label: "Programming"
-        url: "/resources/technical/programming/"
 ---
 
 

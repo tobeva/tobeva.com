@@ -5,16 +5,6 @@ description: "Leadership related to software development."
 date: 2020-04-06
 weight: 45
 type: docs
-nav:
-    prev:
-        label: "Inspirational"
-        url: "/resources/soft_skills/inspirational"
-    up:
-        label: "Soft Skills"
-        url: "/resources/soft_skills/"
-    next:
-        label: "Writing"
-        url: "/resources/soft_skills/writing"
 ---
 
 * [The path to technical leadership: how to go from developer to team leader](https://www.freecodecamp.org/news/the-path-to-technical-leadership-how-to-go-from-developer-to-team-leader-8c544f15a431/)

@@ -5,13 +5,6 @@ description: "The Chan Zuckerberg Initiative."
 date: 2020-07-17
 weight: 10
 type: docs
-nav:
-    up:
-        label: "Projects"
-        url: "/projects/"
-    next:
-        label: "ToneStone"
-        url: "/projects/tonestone"
 ---
 
 I contracted with [The Chan Zuckerberg

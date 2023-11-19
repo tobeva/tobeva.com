@@ -5,13 +5,6 @@ date: 2020-04-06
 draft: false
 type: docs
 weight: 80
-nav:
-    prev:
-        label: "Visualization"
-        url: "/resources/technical/visualization"
-    up:
-        label: "Technical"
-        url: "/resources/technical/"
 ---
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline)
   * A curated list of pipeline toolkits.

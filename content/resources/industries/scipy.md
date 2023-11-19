@@ -5,13 +5,6 @@ description: "The Scipy industry."
 date: 2020-08-01
 weight: 20
 type: docs
-nav:
-    up:
-        label: "Experience"
-        url: "/resources/experience/"
-    next:
-        label: "Videogames"
-        url: "/resources/experience/videogames/"
 ---
 
 **Companies**

@@ -5,13 +5,6 @@ description: "Contributions we've made to the Napari project."
 date: 2020-08-06
 weight: 10
 type: docs
-nav:
-    up:
-        label: "Napari"
-        url: "/projects/napari/"
-    next:
-        label: "Framerate"
-        url: "/projects/napari/framerate/"
 ---
 
 **Videos:**

@@ -5,16 +5,6 @@ description: "Static Analysis tools and techniques."
 date: 2020-12-01
 weight: 20
 type: docs
-nav:
-    prev:
-        label: "Functional"
-        url: "/resources/technical/programming/functional/"
-    up:
-        label: "Programming"
-        url: "/resources/technical/programming/"
-    next:
-        label: "Testing"
-        url: "/resources/technical/programming/testing/"
 ---
 
 **General**

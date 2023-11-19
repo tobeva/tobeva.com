@@ -6,16 +6,6 @@ date: 2020-04-06
 draft: false
 type: docs
 weight: 80
-nav:
-    prev:
-        label: "Learning"
-        url: "/resources/learning/"
-    up:
-        label: "Resources"
-        url: "/resources/"
-    next:
-        label: "Soft Skills"
-        url: "/resources/soft_skills/"
 ---
 
 **Famous**

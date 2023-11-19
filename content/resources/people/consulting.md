@@ -5,13 +5,6 @@ description: "Consulting or contracting links."
 date: 2020-05-01
 weight: 10
 type: docs
-nav:
-    up:
-        label: "People"
-        url: "/resources/people/"
-    next:
-        label: "Martin Fowler"
-        url: "/resources/people/fowler"
 ---
 
 **Small Companies**

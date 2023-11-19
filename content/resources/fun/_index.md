@@ -4,16 +4,6 @@ linkTitle: "Fun"
 description: "Fun projects people have done."
 weight: 40
 type: docs
-nav:
-    prev:
-        label: "Books"
-        url: "/resources/books/"
-    up:
-        label: "Resources"
-        url: "/resources/"
-    next:
-        label: "Experience"
-        url: "/resources/experience/"
 ---
 
 There are many amazing home projects online these days.

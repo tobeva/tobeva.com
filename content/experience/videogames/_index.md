@@ -5,13 +5,6 @@ description: "Antigrav and Guitar Hero."
 date: 2020-04-27
 weight: 50
 type: docs
-nav:
-    prev:
-        label: "Simulations"
-        url: "/about/experience/simulations/"
-    up:
-        label: "Experience"
-        url: "/about/experience/"
 ---
 
 The first game I worked on at [Harmonix](https://www.harmonixmusic.com/)

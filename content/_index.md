@@ -27,9 +27,9 @@ Python. The second a music-game called <a
 href="https://tonestone.com/">ToneStone</a>, by the project lead of Guitar Hero
 which I was the lead programmer on back in 2005.
 
-I'm currently working full-time for a company called <a
-href="https://www.researchsquare.com/">Research Square</a>, but I might return
-to contracting sometime the future. I work remotely from my home in Winchester,
-Virginia. Please drop me a line at **philip<img src="" width="0"
-height="0">@tobeva.com** or on Twitter
+After COVID I returned to working full-time, and I'm now working for a company
+called <a href="https://www.researchsquare.com/">Research Square</a>. So Tobeva
+Software is somewhat on the back burner, but it still exists. I work remotely
+from my home in Winchester, Virginia. Please drop me a line at **philip<img
+src="" width="0" height="0">@tobeva.com** or on Twitter
 **[@pbwinston](https://twitter.com/pbwinston)**.

@@ -5,16 +5,6 @@ description: "Performance monitoring tools."
 date: 2020-10-28
 weight: 30
 type: docs
-nav:
-    up:
-        label: "Napari"
-        url: "/projects/napari/"
-    prev:
-        label: "Framerate"
-        url: "/projects/napari/framerate/"
-    next:
-        label: "Videos"
-        url: "/projects/napari/videos/"
 ---
 
 Before starting on the rendering work for Napari we implemented some

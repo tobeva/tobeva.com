@@ -4,13 +4,6 @@ linkTitle: "Cloud"
 description: "Cloud architecture and design."
 weight: 10
 type: docs
-nav:
-    up:
-        label: "Technical"
-        url: "/resources/technical/"
-    next:
-        label: "GitHub"
-        url: "/resources/technical/github/"
 ---
 * [Untangling Microservices, Balancing Complexity](https://vladikk.com/2020/04/09/untangling-microservices/) - [Vladik Khononov](https://vladikk.com/page/about/)
   * The microservices honeymoon period is over.

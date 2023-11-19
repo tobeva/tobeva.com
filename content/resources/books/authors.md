@@ -4,13 +4,6 @@ linkTitle: "Authors"
 description: "Software Development books by author."
 weight: 4
 type: docs
-nav:
-    up:
-        label: "Books"
-        url: "/resources/books/"
-    next:
-        label: "Subjects"
-        url: "/resources/books/subjects/"
 ---
 
 **Robert Martin** - [about](http://cleancoder.com/products)

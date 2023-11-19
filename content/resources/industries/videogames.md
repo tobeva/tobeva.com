@@ -5,13 +5,6 @@ description: "The videogame industry."
 date: 2020-08-01
 weight: 20
 type: docs
-nav:
-    prev:
-        label: "Scipy"
-        url: "/resources/experience/scipy"
-    up:
-        label: "Experience"
-        url: "/resources/experience/"
 ---
 **Companies**
 * [Probably Monsters](https://www.probablymonsters.com/)

@@ -4,18 +4,8 @@ title: "Experience"
 linkTitle: "Experience"
 description: "Experience that I've worked in."
 date: 2020-07-17
-weight: 20
+weight: 10
 type: docs
-nav:
-    prev:
-        label: "Current Projects"
-        url: "/about/current/"
-    up:
-        label: "About"
-        url: "/about/"
-    next:
-        label: "Writing"
-        url: "/about/writing/"
 menu:
   main:
     weight: 20

@@ -5,16 +5,6 @@ description: "Processing data with AWS or other clouds."
 date: 2020-04-27
 weight: 20
 type: docs
-nav:
-    prev:
-        label: "CAD"
-        url: "/about/experience/cad/"
-    up:
-        label: "Experience"
-        url: "/about/experience/"
-    next:
-        label: "Neuroscience"
-        url: "/about/experience/neuroscience/"
 ---
 
 Fairly recently I worked on several generations of cloud-based data

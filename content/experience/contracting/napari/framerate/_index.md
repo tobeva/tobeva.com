@@ -5,16 +5,6 @@ description: "The importance of framerate."
 date: 2020-10-28
 weight: 20
 type: docs
-nav:
-    up:
-        label: "Napari"
-        url: "/projects/napari/"
-    prev:
-        label: "Contributions"
-        url: "/projects/napari/contrib/"
-    next:
-        label: "Perfmon"
-        url: "/projects/napari/perfmon/"
 ---
 
 {{< imgproc framerate Resize "700x" >}}

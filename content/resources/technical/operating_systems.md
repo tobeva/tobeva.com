@@ -5,16 +5,6 @@ date: 2020-04-06
 draft: false
 type: docs
 weight: 50
-nav:
-    prev:
-        label: "GUI"
-        url: "/resources/technical/gui/"
-    up:
-        label: "Technical"
-        url: "/resources/technical/"
-    next:
-        label: "Programming"
-        url: "/resources/technical/programming"
 ---
 
 **Inter-process Communication**

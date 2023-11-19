@@ -6,13 +6,6 @@ description: "The written word."
 date: 2020-07-17
 weight: 60
 type: docs
-nav:
-    prev:
-        label: "Experience"
-        url: "/about/experience/"
-    up:
-        label: "About"
-        url: "/about/"
 ---
 
 Writing is an important skill in software development. A developer can only have

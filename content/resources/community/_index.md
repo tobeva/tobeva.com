@@ -4,16 +4,6 @@ linkTitle: "Community"
 description: "Software Engineering related subreddits, etc."
 weight: 30
 type: docs
-nav:
-    prev:
-        label: "Books"
-        url: "/resources/books"
-    up:
-        label: "Resources"
-        url: "/resources/"
-    next:
-        label: "Fun"
-        url: "/resources/fun/"
 ---
 
 ### Overview

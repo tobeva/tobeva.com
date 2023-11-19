@@ -5,13 +5,6 @@ description: "Chief Scientist at ThoughtWorks."
 date: 2020-04-06
 weight: 20
 type: docs
-nav:
-    prev:
-        label: "Consulting"
-        url: "/resources/people/consulting"
-    up:
-        label: "People"
-        url: "/resources/people/"
 ---
 
 **About**
