@@ -34,7 +34,7 @@ desktop graphics" 60Hz is almost always totally sufficient.
 When developing graphics software, it's often better to think of
 _milliseconds per frame_ instead of _framerate_. To achieve 60Hz each frame
 must take less than 16.7 milliseconds, which will translate to 60Hz. It's
-easier to set ”budgets” when you think in terms of milliseconds. For
+easier to set budgets when you think in terms of milliseconds. For
 example, maybe you will allocate 5ms per frame for copying data to the
 graphics card.
 
