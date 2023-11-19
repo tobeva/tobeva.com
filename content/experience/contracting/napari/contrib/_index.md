@@ -8,7 +8,7 @@ type: docs
 ---
 
 **Videos:**
-* Our [demo video](/projects/napari/videos/) page.
+* Our [demo video](/experience/contracting/napari/videos/) page.
 * Our [blog post](/blog/2021/01/23/napari-2020-rendering-update/) with a
   video summarizing all 2020 work.
 
