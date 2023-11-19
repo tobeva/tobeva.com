@@ -1,6 +1,6 @@
 ---
 title: "Writing"
-description: "Writing for humans."
+description: "The written word."
 date: 2020-04-12
 type: docs
 weight: 80

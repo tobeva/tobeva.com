@@ -2,7 +2,7 @@
 ---
 title: "Writing"
 linkTitle: "Writing"
-description: "Writing in English, for humans."
+description: "The written word."
 date: 2020-07-17
 weight: 60
 type: docs
@@ -15,13 +15,9 @@ nav:
         url: "/about/"
 ---
 
-Writing is an important skill in software development. A developer can only
-have so many in-person interactions, but good writing can inform and
-influence many more people, on your own project or beyond.
-
-### Technical Writing
-
-* [Napari Rendering Document](https://napari.org/guides/rendering-explanation.html)
+Writing is an important skill in software development. A developer can only have
+so many in-person interactions, but good writing can inform and influence many
+more people, on your own project or beyond.
 
 ### Tobeva Software Articles
 
@@ -29,8 +25,8 @@ influence many more people, on your own project or beyond.
 * [Brain Oriented Programming](/articles/brain-compatible-code/)
 * [Narrative Driven Development](/articles/narrative-driven-development/)
 
-### Tobeva Software Blog
+### Metastable Blog
 
-* [Open Source](/blog/2020/08/02/open-source/)
-* [True Confidence](/blog/2020/04/12/true-confidence/)
-* [Happy Birthday Tobeva Software](/blog/2020/04/10/happy-birthday-tobeva-software/)
+* [AI is not alien, it's us](https://metastable.org/alien.html)
+* [Drawing with Code Interpreter](https://metastable.org/draw.html)
+* [Who is going to write the software?](https://metastable.org/who.html)
