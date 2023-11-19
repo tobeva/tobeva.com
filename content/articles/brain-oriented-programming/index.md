@@ -33,7 +33,7 @@ writing software, or planning a wedding for that matter, you are juggling
 dozens to hundreds of things? As it turns out you are not. At least not at
 once.
 
-{{< imgproc pi Resize "512x">}}
+{{< imgproc pi Resize "640x">}}
 Drawing by Eva Winston, 2020.
 {{< /imgproc >}}
 
@@ -106,7 +106,7 @@ have advantages, but in my experience most of the flaws attributed to
 Object Oriented Programming stem from having done it poorly, and boy is it
 easy to do poorly.
 
-{{< imgproc complex Resize "350x">}}
+{{< imgproc complex Resize "640x">}}
 Complexity grows without bound.
 {{< /imgproc >}}
 
@@ -193,7 +193,7 @@ sprouts and branches organically. You will benefit from this better design
 every minute you are working on the software, and the software will benefit
 greatly from your improved mood and ability to sustain focus.
 
-{{< imgproc tree Resize "512x">}}
+{{< imgproc tree Resize "640x">}}
 A carefully tended <a href="https://en.wikipedia.org/wiki/Bonsai">Bonsai</a> tree.
 {{< /imgproc >}}
 
