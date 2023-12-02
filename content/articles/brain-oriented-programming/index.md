@@ -10,6 +10,9 @@ aliases:
 summary: "Game recognizes game: why the natural world resonates so well with your thinking, and how the brain's physical architecture should inform software design"
 ---
 
+**Video Version:**
+* [Philip reading this article](https://youtu.be/D8Pb8TvYsCE).
+
 The 1956 paper *[The Magical Number Seven, Plus or Minus
 Two](http://psychclassics.yorku.ca/Miller/)* is the most widely cited paper
 in the 126 year history of the journal *[Psychological
@@ -221,9 +224,6 @@ wrestle with something you don't understand. Trim, prune and shape your
 objects early and often. Your brain will thank you.
 
 <hr>
-
-**Video:**
-* [Philip reading this article](https://youtu.be/D8Pb8TvYsCE).
 
 **See Also:**
 * Hacker News [comments](https://news.ycombinator.com/item?id=24165893) on this article.
