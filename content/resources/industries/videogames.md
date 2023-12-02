@@ -7,6 +7,8 @@ weight: 20
 type: docs
 ---
 **Companies**
+* [OtherSide Entertainment](https://otherside-e.com/)
+  * Warren Spector, Paul Neurath, Greg LoPiccolo.
 * [Probably Monsters](https://www.probablymonsters.com/)
   * Incubator that creates game studios.
 
