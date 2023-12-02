@@ -6,7 +6,12 @@ weight: 40
 type: docs
 ---
 
-There are many amazing home projects online these days.
+## Games
+
+* [Brickception](https://brickception.xyz)
+  * Very clever two-level game. It's hard!
+
+## Other
 
 * [Steampunk Radiation Monitor](https://www.balena.io/blog/show-tell-a-steampunk-desktop-background-radiation-monitor/)
   * Geiger counter in mahogany, brass, copper, nixie tubes.
